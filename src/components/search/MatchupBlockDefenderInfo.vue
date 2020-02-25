@@ -1,8 +1,6 @@
 <template>
 	<div class="defender-info">
-		<img
-			:src="`data:image/png;base64,${form.spriteData}`"
-		/>
+		<img :src="spriteImageURL"/>
 		
 		<span class="dex-number">
 			#{{ species.dexNumber.toString().padStart(3, "0") }}
@@ -49,6 +47,23 @@
 			form: {
 				type: Object as () => PokemonForm,
 				required: true,
+			},
+		},
+		
+		computed: {
+			spriteImageURL(): string {
+				const dexNumberString = (
+					this.species.dexNumber
+					.toString()
+					.padStart(3, "0")
+				);
+				let url = `sprites/${dexNumberString}`;
+				if (this.form.name != null) {
+					url += `-${this.form.name.replace(" ", "_")}`;
+				}
+				url += ".png";
+				
+				return url;
 			},
 		},
 		
