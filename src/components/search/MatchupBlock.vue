@@ -1,28 +1,5 @@
 <template>
 	<div class="matchup-container">
-		<!--
-		<div class="pokemon-info">
-			<img
-				:src="`data:image/png;base64,${form.spriteData}`"
-				
-			/>
-			
-			<span>
-				{{ species.dexNumber }} - {{ species.name }}
-				<span v-if="form.name != null">({{ form.name }})</span>
-			</span>
-			<div class="defender-types">
-					
-				<type-block
-					:type="form.primaryType"
-				/>
-				<type-block
-					v-if="form.secondaryType != null"
-					:type="form.secondaryType"
-				/>
-			</div>
-		</div>
-		-->
 		<defender-info
 			class="defender-info"
 			:species="species"
