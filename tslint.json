@@ -20,6 +20,7 @@
 		"semicolon": [true, "always"],
 		"no-trailing-whitespace": false,
 		"triple-equals": false,
-		"object-literal-shorthand": false
+		"object-literal-shorthand": false,
+		"no-console": false
 	}
 }
