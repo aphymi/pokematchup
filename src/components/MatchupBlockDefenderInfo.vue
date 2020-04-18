@@ -29,7 +29,7 @@
 <script lang="ts">
 	import Vue from "vue";
 	
-	import TypeBlock from "@/components/search/MatchupTypeBlock.vue";
+	import TypeBlock from "@/components/MatchupTypeBlock.vue";
 	
 	import { PokemonSpecies, PokemonForm } from "@/pokemon";
 	import { PType } from "@/ptype";

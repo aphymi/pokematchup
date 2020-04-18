@@ -32,8 +32,8 @@
 	import { PType, ptypeList, getTypeMatchup } from "@/ptype";
 	import { PokemonSpecies, PokemonForm } from "@/pokemon";
 	
-	import TypeBlock from "@/components/search/MatchupTypeBlock.vue";
-	import DefenderInfo from "@/components/search/MatchupBlockDefenderInfo.vue";
+	import TypeBlock from "@/components/MatchupTypeBlock.vue";
+	import DefenderInfo from "@/components/MatchupBlockDefenderInfo.vue";
 	
 	/**
 	 * A single effectiveness multiplier, and a list of attacking types which

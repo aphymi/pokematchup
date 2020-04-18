@@ -28,7 +28,7 @@
 	
 	import { PType, convertStringToPType } from "@/ptype";
 	import { PokemonSpecies, PokemonForm } from "@/pokemon";
-	import PokemonMatchup from "@/components/search/MatchupBlock.vue";
+	import PokemonMatchup from "@/components/MatchupBlock.vue";
 	
 	import pokemonList from "@/assets/pokemon.json";
 	
