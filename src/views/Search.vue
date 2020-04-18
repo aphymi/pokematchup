@@ -49,7 +49,7 @@
 						return (
 							pokemon.name
 							.toLowerCase()
-							.includes(this.searchText)
+							.includes(this.searchText.toLowerCase())
 						);
 					},
 				);
