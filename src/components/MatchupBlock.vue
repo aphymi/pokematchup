@@ -29,8 +29,8 @@
 <script lang="ts">
 	import Vue from "vue";
 	
-	import { PType, ptypeList, getTypeMatchup } from "@/ptype";
-	import { PokemonSpecies, PokemonForm } from "@/pokemon";
+	import { PType, ptypeList, getTypeMatchup } from "@/types/ptype";
+	import { PokemonSpecies, PokemonForm } from "@/types/pokemon";
 	
 	import TypeBlock from "@/components/MatchupTypeBlock.vue";
 	import DefenderInfo from "@/components/MatchupBlockDefenderInfo.vue";

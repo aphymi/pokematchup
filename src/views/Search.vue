@@ -26,8 +26,8 @@
 	import { debounce } from "debounce";
 	import Vue from "vue";
 	
-	import { PType, convertStringToPType } from "@/ptype";
-	import { PokemonSpecies, PokemonForm } from "@/pokemon";
+	import { PType, convertStringToPType } from "@/types/ptype";
+	import { PokemonSpecies, PokemonForm } from "@/types/pokemon";
 	import PokemonMatchup from "@/components/MatchupBlock.vue";
 	
 	import pokemonList from "@/assets/pokemon.json";

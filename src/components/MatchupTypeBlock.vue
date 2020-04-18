@@ -12,7 +12,7 @@
 <script lang="ts">
 	import Vue from "vue";
 	
-	import { PType } from "@/ptype";
+	import { PType } from "@/types/ptype";
 	
 	export default Vue.extend({
 		props: {

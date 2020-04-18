@@ -1,4 +1,4 @@
-import { PType } from "@/ptype";
+import { PType } from "@/types/ptype";
 
 /**
  * A description of a particular pokemon species.
