@@ -1,7 +1,9 @@
 <template>
 	<div id="vue-app">
 		<div id="nav">
-			<router-link to="/">Search</router-link><!--|
+			<router-link to="/">
+				Search
+			</router-link><!--|
 			<router-link to="/">Type Chart</router-link> |
 			<router-link to="/">Interactive Matchups</router-link>
 			-->
@@ -17,9 +19,9 @@
 		--background-color: #fdcf2f;
 		--foreground-color: #2c3e50;
 	}
-	
+
 	body {
-		
+
 		background-color: var(--background-color);
 		color: var(--foreground-color);
 	}
@@ -29,11 +31,11 @@
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
 		text-align: center;
-		
+
 		min-height: 100vh;
 		height: auto;
 		min-width: 100%;
-		
+
 		display: grid;
 		grid-template-areas:
 			". nav ."
@@ -46,17 +48,17 @@
 	#nav {
 		grid-area: nav;
 		padding: 30px;
-		
+
 		a {
 			font-weight: bold;
 			color: #2c3e50;
 		}
 	}
-	
+
 	#router-view {
 		grid-area: view;
 	}
-	
+
 	$type-colors: (
 		"normal": #a8a77a,
 		"fighting": #c22e28,
@@ -77,13 +79,13 @@
 		"dark": #705646,
 		"fairy": #d685ad,
 	);
-	
+
 	:root {
 		@each $type, $color in $type-colors {
 			--ptype-color-#{$type}: #{$color};
 		}
 	}
-	
+
 	@each $type, $color in $type-colors {
 		.bg-color-ptype-#{$type} {
 			background-color: var(--ptype-color-#{$type});

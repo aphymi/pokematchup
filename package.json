@@ -5,10 +5,11 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
+    "lint": "vue-cli-service lint --no-fix",
     "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
+    "debounce": "^1.2.0",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.2",
     "vue-property-decorator": "^8.4.0",
@@ -17,10 +18,17 @@
   "devDependencies": {
     "@types/node": "^12.12.26",
     "@types/webpack-env": "^1.15.1",
+    "@typescript-eslint/eslint-plugin": "^2.26.0",
+    "@typescript-eslint/parser": "^2.26.0",
+    "@vue/cli-plugin-eslint": "^4.3.1",
     "@vue/cli-plugin-typescript": "^4.3.1",
-    "@vue/cli-service": "^4.2.2",
+    "@vue/cli-service": "^4.3.1",
+    "@vue/eslint-config-airbnb": "^5.0.2",
+    "@vue/eslint-config-typescript": "^5.0.2",
     "axios": "^0.19.2",
-    "debounce": "^1.2.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-vue": "^6.2.2",
     "gh-pages": "^2.2.0",
     "http-status-codes": "^1.4.0",
     "readline-promise": "^1.0.4",

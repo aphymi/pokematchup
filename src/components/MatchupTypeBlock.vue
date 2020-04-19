@@ -1,37 +1,36 @@
-<template functional>
+<template>
 	<span
-		class="type-block"
-		:class="'bg-color-ptype-' + $options.methods.getTypeName(props.type).toLowerCase()"
-		>
-		
-		{{ $options.methods.getTypeName(props.type) }}
-		
+		:class="`type-block bg-color-ptype-${type.toLowerCase()}`"
+	>
+		{{ getTypeName(type) }}
 	</span>
 </template>
 
 <script lang="ts">
-	import Vue from "vue";
-	
-	import { PType } from "@/types/ptype";
-	
-	export default Vue.extend({
-		props: {
-			type: {
-				type: String as () => PType,
-				required: true,
-			},
+import Vue from "vue";
+
+import { PType } from "@/types/ptype";
+
+export default Vue.extend({
+	props: {
+		type: {
+			type: String as () => PType,
+			required: true,
 		},
-		
-		methods: {
-			getTypeName(type: PType): string {
-				const typeString = type;
-				
-				// Convert the type string to title case.
-				return typeString.substring(0, 1).toUpperCase() +
-					typeString.substring(1).toLowerCase();
-			},
+	},
+
+	methods: {
+		getTypeName(type: PType): string {
+			const typeString = type;
+
+			// Convert the type string to title case.
+			return (
+				typeString.substring(0, 1).toUpperCase()
+				+ typeString.substring(1).toLowerCase()
+			);
 		},
-	});
+	},
+});
 </script>
 
 <!--
@@ -53,4 +52,3 @@ height calculation issues.
 		text-align: center;
 	}
 </style>
-
