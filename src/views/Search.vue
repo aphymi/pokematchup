@@ -5,6 +5,7 @@
 			class="search-input"
 			placeholder="Search by pokemon name"
 
+			tabindex="1"
 			:value="searchText"
 			@input="updateSearchText($event.target.value)"
 		/>
