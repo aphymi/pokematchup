@@ -60,7 +60,7 @@ const matchupMapping: {[key: string]: {[key: string]: number}} = {
 	},
 
 	[T.FIGHTING]: {
-		[T.NORMAL]: 0.5,
+		[T.NORMAL]: 2,
 		[T.FLYING]: 0.5,
 		[T.POISON]: 0.5,
 		[T.ROCK]: 2,
