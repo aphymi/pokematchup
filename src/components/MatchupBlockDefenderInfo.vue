@@ -36,6 +36,7 @@ import TypeBlock from "@/components/MatchupTypeBlock.vue";
 
 import { PokemonSpecies, PokemonForm } from "@/types/pokemon";
 
+
 export default Vue.extend({
 	components: {
 		TypeBlock,

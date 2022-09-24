@@ -38,14 +38,15 @@ import { PokemonSpecies, PokemonForm } from "@/types/pokemon";
 import TypeBlock from "@/components/MatchupTypeBlock.vue";
 import DefenderInfo from "@/components/MatchupBlockDefenderInfo.vue";
 
-	/**
-	 * A single effectiveness multiplier, and a list of attacking types which
-	 * give it for a particular pokemon.
-	 */
-	interface MatchupResult {
-		effectiveness: number;
-		types: PType[];
-	}
+
+/**
+ * A single effectiveness multiplier, and a list of attacking types which
+ * give it for a particular pokemon.
+ */
+interface MatchupResult {
+	effectiveness: number;
+	types: PType[];
+}
 
 
 export default Vue.extend({

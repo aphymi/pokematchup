@@ -20,10 +20,20 @@ module.exports = {
 		"indent": ["warn", "tab"],
 		"no-console": isProductionBuild ? "warn" : "off",
 		"no-debugger": isProductionBuild ? "warn" : "off",
+		"no-multiple-empty-lines": ["warn", {
+			"max": 2,
+		}],
 		"no-tabs": ["warn", {
 			"allowIndentationTabs": true,
 		}],
 		"quotes": ["error", "double"],
+
+		"import/newline-after-import": [
+			isProductionBuild ? "error" : "warn",
+			{
+				"count": 2
+			}
+		],
 
 		"@typescript-eslint/no-explicit-any": "off",
 		"@typescript-eslint/no-non-null-assertion": "off",

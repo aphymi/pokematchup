@@ -11,6 +11,7 @@ import Vue from "vue";
 
 import { PType } from "@/types/ptype";
 
+
 export default Vue.extend({
 	props: {
 		type: {
