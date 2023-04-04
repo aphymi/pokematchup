@@ -10,6 +10,7 @@
 import Vue from "vue";
 
 import { PType } from "@/types/ptype";
+import toTitleCase from "@/utils/titleCase";
 
 
 export default Vue.extend({
@@ -22,13 +23,7 @@ export default Vue.extend({
 
 	methods: {
 		getTypeName(type: PType): string {
-			const typeString = type;
-
-			// Convert the type string to title case.
-			return (
-				typeString.substring(0, 1).toUpperCase()
-				+ typeString.substring(1).toLowerCase()
-			);
+			return toTitleCase(type);
 		},
 	},
 });
