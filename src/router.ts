@@ -1,5 +1,6 @@
 import Vue from "vue";
 import Router from "vue-router";
+import Chart from "./views/Chart.vue";
 import Search from "./views/Search.vue";
 
 
@@ -11,6 +12,11 @@ export default new Router({
 			path: "/",
 			name: "search",
 			component: Search,
+		},
+		{
+			path: "/chart",
+			name: "chart",
+			component: Chart,
 		},
 	],
 });

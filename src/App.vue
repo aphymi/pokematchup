@@ -1,13 +1,18 @@
 <template>
 	<div id="vue-app">
-		<div id="nav">
-			<router-link to="/">
-				Search
-			</router-link><!--|
-			<router-link to="/">Type Chart</router-link> |
-			<router-link to="/">Interactive Matchups</router-link>
+		<nav id="nav">
+			<!--
+				Ignoring the content newline rule here due to having the
+				newlines causing the hyperlinked text to have a space on either
+				side within the element. This causes the hyperlink underline to
+				extend past the word, which is undesirable.
 			-->
-		</div>
+			{{/* eslint-disable vue/singleline-html-element-content-newline */}}
+			<router-link to="/">Search</router-link> |
+			<router-link to="/chart">Type Chart</router-link><!-- |
+			<router-link to="/">Interactive Matchups</router-link> -->
+			{{/* eslint-disable vue/singleline-html-element-content-newline */}}
+		</nav>
 		<div id="router-view">
 			<router-view/>
 		</div>
