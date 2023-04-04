@@ -49,5 +49,6 @@ module.exports = {
 				"void": "always",
 			},
 		}],
+		"vue/no-unused-components": "warn",
 	},
 };
