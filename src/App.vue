@@ -57,6 +57,7 @@
 
 	#router-view {
 		grid-area: view;
+		padding-bottom: 1rem;
 	}
 
 	$type-colors: (
