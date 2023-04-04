@@ -104,8 +104,13 @@ export default Vue.extend({
 		}
 
 		> .image-container {
-			max-height: 96px;
-			max-width: 96px;
+			max-height: 128px;
+			max-width: 128px;
+
+			> img {
+				max-height: 100%;
+				max-width: 100%;
+			}
 		}
 
 		.dex-number,
