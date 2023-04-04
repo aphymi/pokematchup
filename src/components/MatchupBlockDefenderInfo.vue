@@ -1,6 +1,8 @@
 <template>
 	<div class="defender-info">
-		<img :src="spriteImageURL"/>
+		<div class="image-container">
+			<img :src="spriteImageURL"/>
+		</div>
 
 		<span class="dex-number">
 			#{{ species.dexNumber.toString().padStart(3, "0") }}
@@ -58,7 +60,7 @@ export default Vue.extend({
 			const dexNumberString = (
 				this.species.dexNumber
 					.toString()
-					.padStart(3, "0")
+					.padStart(4, "0")
 			);
 			let url = `sprites/${dexNumberString}`;
 			if (this.form.name != null) {
@@ -101,9 +103,9 @@ export default Vue.extend({
 			margin-top: 1em;
 		}
 
-		> img {
-			height: 96px;
-			width: 96px;
+		> .image-container {
+			max-height: 96px;
+			max-width: 96px;
 		}
 
 		.dex-number,

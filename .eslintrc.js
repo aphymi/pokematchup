@@ -19,10 +19,12 @@ module.exports = {
 		"eqeqeq": "off",
 		"indent": ["warn", "tab"],
 		"no-console": isProductionBuild ? "warn" : "off",
+		"no-continue": "off",
 		"no-debugger": isProductionBuild ? "warn" : "off",
 		"no-multiple-empty-lines": ["warn", {
 			"max": 2,
 		}],
+		"no-restricted-syntax": "off",
 		"no-tabs": ["warn", {
 			"allowIndentationTabs": true,
 		}],

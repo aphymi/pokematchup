@@ -1716,6 +1716,11 @@
 				"name": null,
 				"primaryType": "ICE",
 				"secondaryType": "FLYING"
+			},
+			{
+				"name": "galar",
+				"primaryType": "PSYCHIC",
+				"secondaryType": "FLYING"
 			}
 		]
 	},
@@ -1727,6 +1732,11 @@
 				"name": null,
 				"primaryType": "ELECTRIC",
 				"secondaryType": "FLYING"
+			},
+			{
+				"name": "galar",
+				"primaryType": "FIGHTING",
+				"secondaryType": "FLYING"
 			}
 		]
 	},
@@ -1737,6 +1747,11 @@
 			{
 				"name": null,
 				"primaryType": "FIRE",
+				"secondaryType": "FLYING"
+			},
+			{
+				"name": "galar",
+				"primaryType": "DARK",
 				"secondaryType": "FLYING"
 			}
 		]
@@ -9190,6 +9205,28 @@
 		]
 	},
 	{
+		"dexNumber": 808,
+		"name": "meltan",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "STEEL",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 809,
+		"name": "melmetal",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "STEEL",
+				"secondaryType": null
+			}
+		]
+	},
+	{
 		"dexNumber": 810,
 		"name": "grookey",
 		"forms": [
@@ -10040,6 +10077,1044 @@
 				"name": null,
 				"primaryType": "POISON",
 				"secondaryType": "DRAGON"
+			}
+		]
+	},
+	{
+		"dexNumber": 891,
+		"name": "kubfu",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIGHTING",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 892,
+		"name": "urshifu",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIGHTING",
+				"secondaryType": "DARK"
+			},
+			{
+				"name": "rapid-strike",
+				"primaryType": "FIGHTING",
+				"secondaryType": "WATER"
+			}
+		]
+	},
+	{
+		"dexNumber": 893,
+		"name": "zarude",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DARK",
+				"secondaryType": "GRASS"
+			}
+		]
+	},
+	{
+		"dexNumber": 894,
+		"name": "regieleki",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ELECTRIC",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 895,
+		"name": "regidrago",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DRAGON",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 896,
+		"name": "glastrier",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ICE",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 897,
+		"name": "spectrier",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GHOST",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 898,
+		"name": "calyrex",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "PSYCHIC",
+				"secondaryType": "GRASS"
+			},
+			{
+				"name": "ice",
+				"primaryType": "PSYCHIC",
+				"secondaryType": "ICE"
+			},
+			{
+				"name": "shadow",
+				"primaryType": "PSYCHIC",
+				"secondaryType": "GHOST"
+			}
+		]
+	},
+	{
+		"dexNumber": 899,
+		"name": "wyrdeer",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "NORMAL",
+				"secondaryType": "PSYCHIC"
+			}
+		]
+	},
+	{
+		"dexNumber": 900,
+		"name": "kleavor",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "BUG",
+				"secondaryType": "ROCK"
+			}
+		]
+	},
+	{
+		"dexNumber": 901,
+		"name": "ursaluna",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GROUND",
+				"secondaryType": "NORMAL"
+			}
+		]
+	},
+	{
+		"dexNumber": 902,
+		"name": "basculegion",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "WATER",
+				"secondaryType": "GHOST"
+			}
+		]
+	},
+	{
+		"dexNumber": 903,
+		"name": "sneasler",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIGHTING",
+				"secondaryType": "POISON"
+			}
+		]
+	},
+	{
+		"dexNumber": 904,
+		"name": "overqwil",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DARK",
+				"secondaryType": "POISON"
+			}
+		]
+	},
+	{
+		"dexNumber": 905,
+		"name": "enamorus",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FAIRY",
+				"secondaryType": "FLYING"
+			}
+		]
+	},
+	{
+		"dexNumber": 906,
+		"name": "sprigatito",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 907,
+		"name": "floragato",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 908,
+		"name": "meowscarada",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "DARK"
+			}
+		]
+	},
+	{
+		"dexNumber": 909,
+		"name": "fuecoco",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIRE",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 910,
+		"name": "crocalor",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIRE",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 911,
+		"name": "skeledirge",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIRE",
+				"secondaryType": "GHOST"
+			}
+		]
+	},
+	{
+		"dexNumber": 912,
+		"name": "quaxly",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "WATER",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 913,
+		"name": "quaxwell",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "WATER",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 914,
+		"name": "quaquaval",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "WATER",
+				"secondaryType": "FIGHTING"
+			}
+		]
+	},
+	{
+		"dexNumber": 915,
+		"name": "lechonk",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "NORMAL",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 916,
+		"name": "oinkologne",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "NORMAL",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 917,
+		"name": "tarountula",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "BUG",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 918,
+		"name": "spidops",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "BUG",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 919,
+		"name": "nymble",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "BUG",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 920,
+		"name": "lokix",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "BUG",
+				"secondaryType": "DARK"
+			}
+		]
+	},
+	{
+		"dexNumber": 921,
+		"name": "pawmi",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ELECTRIC",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 922,
+		"name": "pawmo",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ELECTRIC",
+				"secondaryType": "FIGHTING"
+			}
+		]
+	},
+	{
+		"dexNumber": 923,
+		"name": "pawmot",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ELECTRIC",
+				"secondaryType": "FIGHTING"
+			}
+		]
+	},
+	{
+		"dexNumber": 924,
+		"name": "tandemaus",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "NORMAL",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 925,
+		"name": "maushold",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "NORMAL",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 926,
+		"name": "fidough",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FAIRY",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 927,
+		"name": "dachsbun",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FAIRY",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 928,
+		"name": "smoliv",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "NORMAL"
+			}
+		]
+	},
+	{
+		"dexNumber": 929,
+		"name": "dolliv",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "NORMAL"
+			}
+		]
+	},
+	{
+		"dexNumber": 930,
+		"name": "wugtrio",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "NORMAL"
+			}
+		]
+	},
+	{
+		"dexNumber": 931,
+		"name": "squawkabilly",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "NORMAL",
+				"secondaryType": "FLYING"
+			}
+		]
+	},
+	{
+		"dexNumber": 932,
+		"name": "nacli",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ROCK",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 933,
+		"name": "naclstack",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ROCK",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 934,
+		"name": "garganacl",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ROCK",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 935,
+		"name": "charcadet",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIRE",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 936,
+		"name": "armarouge",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIRE",
+				"secondaryType": "PSYCHIC"
+			}
+		]
+	},
+	{
+		"dexNumber": 937,
+		"name": "ceruledge",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIRE",
+				"secondaryType": "GHOST"
+			}
+		]
+	},
+	{
+		"dexNumber": 938,
+		"name": "tadbulb",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ELECTRIC",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 939,
+		"name": "bellibolt",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ELECTRIC",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 940,
+		"name": "wattrel",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ELECTRIC",
+				"secondaryType": "FLYING"
+			}
+		]
+	},
+	{
+		"dexNumber": 941,
+		"name": "kilowattrel",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ELECTRIC",
+				"secondaryType": "FLYING"
+			}
+		]
+	},
+	{
+		"dexNumber": 942,
+		"name": "maschiff",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DARK",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 943,
+		"name": "mabosstiff",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DARK",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 944,
+		"name": "shroodle",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "POISON",
+				"secondaryType": "NORMAL"
+			}
+		]
+	},
+	{
+		"dexNumber": 945,
+		"name": "grafaiai",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "POISON",
+				"secondaryType": "NORMAL"
+			}
+		]
+	},
+	{
+		"dexNumber": 946,
+		"name": "bramblin",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "GHOST"
+			}
+		]
+	},
+	{
+		"dexNumber": 947,
+		"name": "brambleghast",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "GHOST"
+			}
+		]
+	},
+	{
+		"dexNumber": 948,
+		"name": "toedscool",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GROUND",
+				"secondaryType": "GRASS"
+			}
+		]
+	},
+	{
+		"dexNumber": 949,
+		"name": "toedscruel",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GROUND",
+				"secondaryType": "GRASS"
+			}
+		]
+	},
+	{
+		"dexNumber": 950,
+		"name": "klawf",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ROCK",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 951,
+		"name": "capsakid",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 952,
+		"name": "scovillain",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "FIRE"
+			}
+		]
+	},
+	{
+		"dexNumber": 953,
+		"name": "rellor",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "BUG",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 954,
+		"name": "rabsca",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "BUG",
+				"secondaryType": "PSYCHIC"
+			}
+		]
+	},
+	{
+		"dexNumber": 955,
+		"name": "flittle",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "PSYCHIC",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 956,
+		"name": "espathra",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "PSYCHIC",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 957,
+		"name": "tinkatink",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FAIRY",
+				"secondaryType": "STEEL"
+			}
+		]
+	},
+	{
+		"dexNumber": 958,
+		"name": "tinkatuff",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FAIRY",
+				"secondaryType": "STEEL"
+			}
+		]
+	},
+	{
+		"dexNumber": 959,
+		"name": "tinkaton",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FAIRY",
+				"secondaryType": "STEEL"
+			}
+		]
+	},
+	{
+		"dexNumber": 960,
+		"name": "wiglett",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "WATER",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 961,
+		"name": "wugtrio",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "WATER",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 962,
+		"name": "bombirdier",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FLYING",
+				"secondaryType": "DARK"
+			}
+		]
+	},
+	{
+		"dexNumber": 963,
+		"name": "finizen",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "WATER",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 964,
+		"name": "palafin",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "WATER",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 965,
+		"name": "varoom",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "STEEL",
+				"secondaryType": "POISON"
+			}
+		]
+	},
+	{
+		"dexNumber": 966,
+		"name": "revavroom",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "STEEL",
+				"secondaryType": "POISON"
+			}
+		]
+	},
+	{
+		"dexNumber": 967,
+		"name": "cyclizar",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DRAGON",
+				"secondaryType": "NORMAL"
+			}
+		]
+	},
+	{
+		"dexNumber": 968,
+		"name": "orthworm",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "STEEL",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 969,
+		"name": "glimmet",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ROCK",
+				"secondaryType": "POISON"
+			}
+		]
+	},
+	{
+		"dexNumber": 970,
+		"name": "glimmora",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ROCK",
+				"secondaryType": "POISON"
+			}
+		]
+	},
+	{
+		"dexNumber": 971,
+		"name": "greavard",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GHOST",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 972,
+		"name": "houndstone",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GHOST",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 973,
+		"name": "flamigo",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FLYING",
+				"secondaryType": "FIGHTING"
+			}
+		]
+	},
+	{
+		"dexNumber": 974,
+		"name": "cetoddle",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ICE",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 975,
+		"name": "cetitan",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ICE",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 976,
+		"name": "veluza",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "WATER",
+				"secondaryType": "PSYCHIC"
+			}
+		]
+	},
+	{
+		"dexNumber": 977,
+		"name": "dondozo",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "WATER",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 978,
+		"name": "tatsugiri",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DRAGON",
+				"secondaryType": "WATER"
+			}
+		]
+	},
+	{
+		"dexNumber": 979,
+		"name": "annihilape",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIGHTING",
+				"secondaryType": "GHOST"
+			}
+		]
+	},
+	{
+		"dexNumber": 980,
+		"name": "clodsire",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "POISON",
+				"secondaryType": "GROUND"
+			}
+		]
+	},
+	{
+		"dexNumber": 981,
+		"name": "farigiraf",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "NORMAL",
+				"secondaryType": "PSYCHIC"
+			}
+		]
+	},
+	{
+		"dexNumber": 982,
+		"name": "dudunsparce",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "NORMAL",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 983,
+		"name": "kingambit",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DARK",
+				"secondaryType": "STEEL"
 			}
 		]
 	}
