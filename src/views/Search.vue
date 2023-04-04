@@ -91,7 +91,9 @@ export default Vue.extend({
 		outline: none;
 	}
 
-	.search-results > *:not(:last-child) {
-		margin-bottom: 1.5rem;
+	.search-results {
+		display: flex;
+		flex-flow: column nowrap;
+		gap: 1.5rem;
 	}
 </style>
