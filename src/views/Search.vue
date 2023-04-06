@@ -91,6 +91,11 @@ export default Vue.extend({
 		width: 25ch;
 
 		outline: none;
+
+		&::placeholder {
+			color: var(--text-color);
+			opacity: 0.6;
+		}
 	}
 
 	.search-results {
