@@ -1,6 +1,11 @@
 <template>
 	<div class="chart-container">
-		<table class="chart">
+		<table
+			:class="{
+				chart: true,
+				'has-highlight': highlightedAttacker || highlightedDefender,
+			}"
+		>
 			<thead>
 				<tr>
 					<th class="corner-header"/>
@@ -9,9 +14,20 @@
 						v-for="defenderType in types"
 						:key="defenderType"
 						class="defender-header"
+						@mouseenter="hoverType(
+							defenderType,
+							'defender',
+						)"
+						@mouseleave="hoverType(null, 'defender')"
+						@click="clickType(defenderType, 'defender')"
 					>
 						<matchup-type-block
-							class="defender-type"
+							:class="{
+								'defender-type': true,
+								highlighted: (
+									defenderType == highlightedDefender
+								),
+							}"
 							:type="defenderType"
 						/>
 					</th>
@@ -25,9 +41,17 @@
 					<th
 						class="attacker-header"
 						scope="row"
+						@mouseenter="hoverType(attackerType, 'attacker')"
+						@mouseleave="hoverType(null, 'attacker')"
+						@click="clickType(attackerType, 'attacker')"
 					>
 						<matchup-type-block
-							class="attacker-type"
+							:class="{
+								'attacker-type': true,
+								highlighted: (
+									attackerType == highlightedAttacker
+								),
+							}"
 							:type="attackerType"
 						/>
 					</th>
@@ -39,6 +63,12 @@
 						<matchup-chart-result
 							:attacking-type="attackerType"
 							:defending-type="defenderType"
+							:class="{
+								highlighted: (
+									attackerType == highlightedAttacker
+									|| defenderType == highlightedDefender
+								)
+							}"
 						/>
 					</td>
 				</tr>
@@ -56,6 +86,8 @@ import toTitleCase from "@/utils/titleCase";
 import MatchupChartResult from "@/components/MatchupChartResult.vue";
 
 
+const highlightEnabled = false;
+
 export default Vue.extend({
 	name: "MatchupChart",
 
@@ -65,18 +97,65 @@ export default Vue.extend({
 	},
 
 	data: () => ({
+		hoverHighlightedDefender: null as PType | null,
+		clickHighlightedDefender: null as PType | null,
 
+		hoverHighlightedAttacker: null as PType | null,
+		clickHighlightedAttacker: null as PType | null,
 	}),
 
 	computed: {
 		types(): PType[] {
 			return ptypeList;
 		},
+
+		highlightedDefender(): PType | null {
+			return (
+				this.hoverHighlightedDefender
+				?? this.clickHighlightedDefender
+			);
+		},
+
+		highlightedAttacker(): PType | null {
+			return (
+				this.hoverHighlightedAttacker
+				?? this.clickHighlightedAttacker
+			);
+		},
 	},
 
 	methods: {
 		getTypeMatchup,
 		titleCase: toTitleCase,
+		hoverType(
+			type: PType | null,
+			defenderOrAttacker: string,
+		): void {
+			if (!highlightEnabled) {
+				return;
+			}
+
+			const attr = (
+				`hoverHighlighted${toTitleCase(defenderOrAttacker)}`
+			);
+
+			this[attr] = type;
+		},
+		clickType(type: PType, defenderOrAttacker: string): void {
+			if (!highlightEnabled) {
+				return;
+			}
+
+			const attr = (
+				`clickHighlighted${toTitleCase(defenderOrAttacker)}`
+			);
+
+			if (this[attr] == type) {
+				this[attr] = null;
+			} else {
+				this[attr] = type;
+			}
+		},
 	},
 });
 </script>
@@ -143,6 +222,14 @@ export default Vue.extend({
 				> * {
 					height: 100%;
 				}
+			}
+		}
+	}
+
+	.chart.has-highlight {
+		th, td {
+			> :not(.highlighted) {
+				opacity: 0.4;
 			}
 		}
 	}
