@@ -28,6 +28,7 @@ module.exports = {
 		"no-tabs": ["warn", {
 			"allowIndentationTabs": true,
 		}],
+		"no-trailing-spaces": "warn",
 		"quotes": ["error", "double"],
 
 		"import/newline-after-import": [
