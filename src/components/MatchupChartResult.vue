@@ -68,14 +68,10 @@ export default Vue.extend({
 	}
 
 	.half {
-		background-color: red;
+		background-color: #900;
 	}
 
 	.double {
 		background-color: green;
-	}
-
-	.basic {
-		// background-color: dimgrey;
 	}
 </style>
