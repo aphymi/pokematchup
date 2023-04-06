@@ -121,6 +121,7 @@ export default Vue.extend({
 		.defender-types {
 			display: flex;
 			flex-flow: column nowrap;
+			gap: 0.3rem;
 		}
 	}
 </style>

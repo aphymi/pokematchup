@@ -55,6 +55,7 @@ export default Vue.extend({
 	.result {
 		display: grid;
 		place-content: center;
+		font-size: 1.2em;
 
 		// Without this rule, the numbers are ever-so-slightly off-center within
 		// their box.

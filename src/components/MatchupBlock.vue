@@ -191,11 +191,8 @@ export default Vue.extend({
 		flex-flow: row wrap;
 		align-items: center;
 		align-content: center;
-		justify-content: flex-start;
-
-		> * {
-			margin-bottom: .3em;
-		}
+		justify-content: start;
+		gap: 0.3rem;
 	}
 
 	.matchup-effectiveness {
