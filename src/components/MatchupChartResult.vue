@@ -56,6 +56,10 @@ export default Vue.extend({
 		display: grid;
 		place-content: center;
 
+		// Without this rule, the numbers are ever-so-slightly off-center within
+		// their box.
+		padding-top: 1px;
+
 		color: white;
 	}
 	.zero {

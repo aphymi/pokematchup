@@ -82,19 +82,26 @@ export default Vue.extend({
 
 <style scoped lang="scss">
 	$type-width: 7.5ch;
+	$type-height: 1.1em;
 
 	.empty-header {
 		border: none !important;
 	}
 
 	.defender-header {
-		rotate: 180deg;
 		writing-mode: vertical-lr;
+		rotate: 180deg;
 	}
 
 	.defender-type {
 		width: unset;
 		height: $type-width;
+		line-height: .7em;
+	}
+
+	.attacker-type {
+		line-height: 1em;
+		width: $type-width;
 	}
 
 	.defender-type, .attacker-type {
