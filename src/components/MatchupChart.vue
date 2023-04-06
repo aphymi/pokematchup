@@ -121,7 +121,15 @@ export default Vue.extend({
 
 		th, td {
 			padding: 0;
-			border: solid 2px white;
+			border: solid 2px;
+		}
+
+		th {
+			border-color: white;
+		}
+
+		td {
+			border-color: var(--foreground-accent);
 		}
 
 		// The following are necessary to make cell contents fill their cells.

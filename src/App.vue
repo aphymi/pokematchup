@@ -21,8 +21,10 @@
 
 <style lang="scss">
 	:root {
-		--background-color: #fdcf2f;
-		--foreground-color: #2c3e50;
+		--background-color: #2c3e50;
+		--foreground-color: #fdcf2f;
+		--foreground-accent: #fffa;
+		--text-color: white;
 	}
 
 	body {
@@ -56,7 +58,7 @@
 
 		a {
 			font-weight: bold;
-			color: #2c3e50;
+			color: var(--foreground-color);
 		}
 	}
 

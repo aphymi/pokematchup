@@ -74,4 +74,8 @@ export default Vue.extend({
 	.double {
 		background-color: green;
 	}
+
+	.basic {
+		// background-color: dimgrey;
+	}
 </style>

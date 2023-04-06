@@ -191,7 +191,7 @@ export default Vue.extend({
 		flex-flow: row wrap;
 		align-items: center;
 		align-content: center;
-		justify-content: start;
+		justify-content: flex-start;
 		gap: 0.3rem;
 	}
 

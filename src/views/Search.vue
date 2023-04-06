@@ -83,6 +83,8 @@ export default Vue.extend({
 		background: transparent;
 		margin-bottom: 2em;
 
+		color: white;
+
 		border: 2px solid var(--foreground-color);
 		border-radius: 5px;
 		padding: .3em;

@@ -40,9 +40,9 @@ height calculation issues.
 <style lang="scss">
 	.type-block {
 		padding: .35em .9ch;
-		border: 2px solid white;
+		border: 2px solid var(--foreground-accent);
 		border-radius: .5em;
-		color: white;
+		color: var(--text-color);
 		line-height: 1em;
 		width: 7.5ch;
 		text-align: center;
