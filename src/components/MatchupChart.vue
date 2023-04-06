@@ -3,7 +3,8 @@
 		<table class="chart">
 			<thead>
 				<tr>
-					<th class="empty-header"/>
+					<th class="corner-header"/>
+
 					<th
 						v-for="defenderType in types"
 						:key="defenderType"
@@ -84,7 +85,7 @@ export default Vue.extend({
 	$type-width: 7.5ch;
 	$type-height: 1.1em;
 
-	.empty-header {
+	.corner-header {
 		border: none !important;
 	}
 
