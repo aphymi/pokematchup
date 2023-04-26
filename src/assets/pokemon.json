@@ -698,6 +698,11 @@
 				"name": null,
 				"primaryType": "FIRE",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "FIRE",
+				"secondaryType": "ROCK"
 			}
 		]
 	},
@@ -709,6 +714,11 @@
 				"name": null,
 				"primaryType": "FIRE",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "FIRE",
+				"secondaryType": "ROCK"
 			}
 		]
 	},
@@ -1202,6 +1212,11 @@
 				"name": null,
 				"primaryType": "ELECTRIC",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "ELECTRIC",
+				"secondaryType": "GRASS"
 			}
 		]
 	},
@@ -1213,6 +1228,11 @@
 				"name": null,
 				"primaryType": "ELECTRIC",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "ELECTRIC",
+				"secondaryType": "GRASS"
 			}
 		]
 	},
@@ -1879,6 +1899,11 @@
 				"name": null,
 				"primaryType": "FIRE",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "FIRE",
+				"secondaryType": "GHOST"
 			}
 		]
 	},
@@ -2478,6 +2503,11 @@
 				"name": null,
 				"primaryType": "WATER",
 				"secondaryType": "POISON"
+			},
+			{
+				"name": "hisui",
+				"primaryType": "DARK",
+				"secondaryType": "POISON"
 			}
 		]
 	},
@@ -2522,6 +2552,11 @@
 				"name": null,
 				"primaryType": "DARK",
 				"secondaryType": "ICE"
+			},
+			{
+				"name": "hisui",
+				"primaryType": "FIGHTING",
+				"secondaryType": "POISON"
 			}
 		]
 	},
@@ -5784,6 +5819,11 @@
 				"name": null,
 				"primaryType": "WATER",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "WATER",
+				"secondaryType": "DARK"
 			}
 		]
 	},
@@ -6295,6 +6335,11 @@
 				"name": null,
 				"primaryType": "GRASS",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "GRASS",
+				"secondaryType": "FIGHTING"
 			}
 		]
 	},
@@ -6549,6 +6594,11 @@
 				"name": null,
 				"primaryType": "DARK",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "NORMAL",
+				"secondaryType": "GHOST"
 			}
 		]
 	},
@@ -6560,6 +6610,11 @@
 				"name": null,
 				"primaryType": "DARK",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "NORMAL",
+				"secondaryType": "GHOST"
 			}
 		]
 	},
@@ -7191,6 +7246,11 @@
 			{
 				"name": null,
 				"primaryType": "NORMAL",
+				"secondaryType": "FLYING"
+			},
+			{
+				"name": "hisui",
+				"primaryType": "PSYCHIC",
 				"secondaryType": "FLYING"
 			}
 		]
@@ -8044,6 +8104,11 @@
 				"name": null,
 				"primaryType": "DRAGON",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "STEEL",
+				"secondaryType": "DRAGON"
 			}
 		]
 	},
@@ -8055,6 +8120,11 @@
 				"name": null,
 				"primaryType": "DRAGON",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "STEEL",
+				"secondaryType": "DRAGON"
 			}
 		]
 	},
@@ -8132,6 +8202,11 @@
 				"name": null,
 				"primaryType": "ICE",
 				"secondaryType": null
+			},
+			{
+				"name": "hisui",
+				"primaryType": "ICE",
+				"secondaryType": "ROCK"
 			}
 		]
 	},
@@ -8258,6 +8333,11 @@
 				"name": null,
 				"primaryType": "GRASS",
 				"secondaryType": "GHOST"
+			},
+			{
+				"name": "hisui",
+				"primaryType": "GRASS",
+				"secondaryType": "FIGHTING"
 			}
 		]
 	},
