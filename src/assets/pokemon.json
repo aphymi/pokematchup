@@ -1555,6 +1555,21 @@
 				"name": null,
 				"primaryType": "NORMAL",
 				"secondaryType": null
+			},
+			{
+				"name": "paldea-combat-breed",
+				"primaryType": "FIGHTING",
+				"secondaryType": null
+			},
+			{
+				"name": "paldea-blaze-breed",
+				"primaryType": "FIGHTING",
+				"secondaryType": "FIRE"
+			},
+			{
+				"name": "paldea-aqua-breed",
+				"primaryType": "FIGHTING",
+				"secondaryType": "WATER"
 			}
 		]
 	},
@@ -2315,6 +2330,11 @@
 			{
 				"name": null,
 				"primaryType": "WATER",
+				"secondaryType": "GROUND"
+			},
+			{
+				"name": "paldea",
+				"primaryType": "POISON",
 				"secondaryType": "GROUND"
 			}
 		]
