@@ -11117,5 +11117,302 @@
 				"secondaryType": "STEEL"
 			}
 		]
+	},
+	{
+		"dexNumber": 984,
+		"name": "great-tusk",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GROUND",
+				"secondaryType": "FIGHTING"
+			}
+		]
+	},
+	{
+		"dexNumber": 985,
+		"name": "scream-tail",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FAIRY",
+				"secondaryType": "PSYCHIC"
+			}
+		]
+	},
+	{
+		"dexNumber": 986,
+		"name": "brute-bonnet",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "DARK"
+			}
+		]
+	},
+	{
+		"dexNumber": 987,
+		"name": "flutter-mane",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GHOST",
+				"secondaryType": "FAIRY"
+			}
+		]
+	},
+	{
+		"dexNumber": 988,
+		"name": "slither-wing",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "BUG",
+				"secondaryType": "FIGHTING"
+			}
+		]
+	},
+	{
+		"dexNumber": 989,
+		"name": "sandy-shocks",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ELECTRIC",
+				"secondaryType": "GROUND"
+			}
+		]
+	},
+	{
+		"dexNumber": 990,
+		"name": "iron-treads",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GROUND",
+				"secondaryType": "STEEL"
+			}
+		]
+	},
+	{
+		"dexNumber": 991,
+		"name": "iron-bundle",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ICE",
+				"secondaryType": "WATER"
+			}
+		]
+	},
+	{
+		"dexNumber": 992,
+		"name": "iron-hands",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIGHTING",
+				"secondaryType": "ELECTRIC"
+			}
+		]
+	},
+	{
+		"dexNumber": 993,
+		"name": "iron-jugulis",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DARK",
+				"secondaryType": "FLYING"
+			}
+		]
+	},
+	{
+		"dexNumber": 994,
+		"name": "iron-moth",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIRE",
+				"secondaryType": "POISON"
+			}
+		]
+	},
+	{
+		"dexNumber": 995,
+		"name": "iron-thorns",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ROCK",
+				"secondaryType": "ELECTRIC"
+			}
+		]
+	},
+	{
+		"dexNumber": 996,
+		"name": "frigibax",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DRAGON",
+				"secondaryType": "ICE"
+			}
+		]
+	},
+	{
+		"dexNumber": 997,
+		"name": "arctibax",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DRAGON",
+				"secondaryType": "ICE"
+			}
+		]
+	},
+	{
+		"dexNumber": 998,
+		"name": "baxcalibur",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DRAGON",
+				"secondaryType": "ICE"
+			}
+		]
+	},
+	{
+		"dexNumber": 999,
+		"name": "gimmighoul",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GHOST",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 1000,
+		"name": "gholdengo",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "STEEL",
+				"secondaryType": "GHOST"
+			}
+		]
+	},
+	{
+		"dexNumber": 1001,
+		"name": "wo-chien",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DARK",
+				"secondaryType": "GRASS"
+			}
+		]
+	},
+	{
+		"dexNumber": 1002,
+		"name": "chien-pao",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DARK",
+				"secondaryType": "ICE"
+			}
+		]
+	},
+	{
+		"dexNumber": 1003,
+		"name": "ting-lu",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DARK",
+				"secondaryType": "GROUND"
+			}
+		]
+	},
+	{
+		"dexNumber": 1004,
+		"name": "chi-yu",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DARK",
+				"secondaryType": "FIRE"
+			}
+		]
+	},
+	{
+		"dexNumber": 1005,
+		"name": "roaring-moon",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "DRAGON",
+				"secondaryType": "DARK"
+			}
+		]
+	},
+	{
+		"dexNumber": 1006,
+		"name": "iron-valiant",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FAIRY",
+				"secondaryType": "FIGHTING"
+			}
+		]
+	},
+	{
+		"dexNumber": 1007,
+		"name": "koraidon",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIGHTING",
+				"secondaryType": "DRAGON"
+			}
+		]
+	},
+	{
+		"dexNumber": 1008,
+		"name": "miraidon",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ELECTRIC",
+				"secondaryType": "DRAGON"
+			}
+		]
+	},
+	{
+		"dexNumber": 1009,
+		"name": "walking-wake",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "WATER",
+				"secondaryType": "DRAGON"
+			}
+		]
+	},
+	{
+		"dexNumber": 1010,
+		"name": "iron-leaves",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "PSYCHIC"
+			}
+		]
 	}
 ]
