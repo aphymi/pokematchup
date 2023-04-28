@@ -4890,7 +4890,7 @@
 		"displayName": "Deoxys",
 		"forms": [
 			{
-				"name": "normal",
+				"name": null,
 				"primaryType": "PSYCHIC",
 				"secondaryType": null
 			}
@@ -6142,7 +6142,7 @@
 		"displayName": "Giratina",
 		"forms": [
 			{
-				"name": "altered",
+				"name": null,
 				"primaryType": "GHOST",
 				"secondaryType": "DRAGON"
 			}
@@ -6918,7 +6918,7 @@
 		"displayName": "Basculin",
 		"forms": [
 			{
-				"name": "red-striped",
+				"name": null,
 				"primaryType": "WATER",
 				"secondaryType": null
 			}
@@ -8053,7 +8053,7 @@
 		"displayName": "Tornadus",
 		"forms": [
 			{
-				"name": "incarnate",
+				"name": null,
 				"primaryType": "FLYING",
 				"secondaryType": null
 			}
@@ -8065,7 +8065,7 @@
 		"displayName": "Thundurus",
 		"forms": [
 			{
-				"name": "incarnate",
+				"name": null,
 				"primaryType": "ELECTRIC",
 				"secondaryType": "FLYING"
 			}
@@ -8101,7 +8101,7 @@
 		"displayName": "Landorus",
 		"forms": [
 			{
-				"name": "incarnate",
+				"name": null,
 				"primaryType": "GROUND",
 				"secondaryType": "FLYING"
 			}
@@ -8125,7 +8125,7 @@
 		"displayName": "Keldeo",
 		"forms": [
 			{
-				"name": "ordinary",
+				"name": null,
 				"primaryType": "WATER",
 				"secondaryType": "FIGHTING"
 			}
@@ -8502,7 +8502,7 @@
 		"displayName": "Meowstic",
 		"forms": [
 			{
-				"name": "male",
+				"name": null,
 				"primaryType": "PSYCHIC",
 				"secondaryType": null
 			}
@@ -8538,7 +8538,7 @@
 		"displayName": "Aegislash",
 		"forms": [
 			{
-				"name": "shield",
+				"name": null,
 				"primaryType": "STEEL",
 				"secondaryType": "GHOST"
 			}
@@ -8896,7 +8896,7 @@
 		"displayName": "Pumpkaboo",
 		"forms": [
 			{
-				"name": "average",
+				"name": null,
 				"primaryType": "GHOST",
 				"secondaryType": "GRASS"
 			}
@@ -8908,7 +8908,7 @@
 		"displayName": "Gourgeist",
 		"forms": [
 			{
-				"name": "average",
+				"name": null,
 				"primaryType": "GHOST",
 				"secondaryType": "GRASS"
 			}
@@ -9346,7 +9346,7 @@
 		"displayName": "Lycanroc",
 		"forms": [
 			{
-				"name": "midday",
+				"name": null,
 				"primaryType": "ROCK",
 				"secondaryType": null
 			}
@@ -9358,7 +9358,7 @@
 		"displayName": "Wishiwashi",
 		"forms": [
 			{
-				"name": "solo",
+				"name": null,
 				"primaryType": "WATER",
 				"secondaryType": null
 			}
@@ -9694,7 +9694,7 @@
 		"displayName": "Minior",
 		"forms": [
 			{
-				"name": "red-meteor",
+				"name": null,
 				"primaryType": "ROCK",
 				"secondaryType": "FLYING"
 			}
@@ -9742,7 +9742,7 @@
 		"displayName": "Mimikyu",
 		"forms": [
 			{
-				"name": "disguised",
+				"name": null,
 				"primaryType": "GHOST",
 				"secondaryType": "FAIRY"
 			}
@@ -11088,7 +11088,7 @@
 		"displayName": "Urshifu",
 		"forms": [
 			{
-				"name": null,
+				"name": "single-strike",
 				"primaryType": "FIGHTING",
 				"secondaryType": "DARK"
 			},
