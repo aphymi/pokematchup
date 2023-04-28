@@ -28,7 +28,4 @@ export interface PokemonForm {
 	primaryType: PType;
 	/** The secondary type of this form, if any. */
 	secondaryType: PType | null;
-
-	/** A base64-encoded PNG image for the form's sprite. */
-	spriteData: string | null;
 }
