@@ -7,8 +7,11 @@ export interface PokemonSpecies {
 	/** The species' national pokedex number. */
 	dexNumber: number;
 
-	/** The species' name. */
+	/** The species' machine-readable name. */
 	name: string;
+
+	/** The species' human-readable name. */
+	displayName: string;
 
 	/** A nonempty list of forms for this species. */
 	forms: PokemonForm[];

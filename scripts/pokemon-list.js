@@ -9,6 +9,12 @@ const listDir = "./src/assets";
 const listFile = "pokemon.json";
 const spriteDir = "./public/sprites";
 
+export async function getList() {
+	return JSON.parse(
+		(await fs.promises.readFile(`${listDir}/${listFile}`)).toString(),
+	);
+}
+
 async function backupList() {
 	const backupName = `${listFile}.${Date.now()}.bak`;
 	await fs.promises.copyFile(
@@ -50,9 +56,7 @@ function mergePokemon(oldPokemon, newPokemon) {
 }
 
 export async function mergeIntoList(newData) {
-	const currentList = JSON.parse(
-		(await fs.promises.readFile(`${listDir}/${listFile}`)).toString(),
-	);
+	const currentList = await getList();
 
 	const listAsMap = new Map();
 	for (const pokemon of currentList) {

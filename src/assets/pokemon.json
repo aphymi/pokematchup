@@ -2,6 +2,7 @@
 	{
 		"dexNumber": 1,
 		"name": "bulbasaur",
+		"displayName": "Bulbasaur",
 		"forms": [
 			{
 				"name": null,
@@ -13,6 +14,7 @@
 	{
 		"dexNumber": 2,
 		"name": "ivysaur",
+		"displayName": "Ivysaur",
 		"forms": [
 			{
 				"name": null,
@@ -24,6 +26,7 @@
 	{
 		"dexNumber": 3,
 		"name": "venusaur",
+		"displayName": "Venusaur",
 		"forms": [
 			{
 				"name": null,
@@ -35,6 +38,7 @@
 	{
 		"dexNumber": 4,
 		"name": "charmander",
+		"displayName": "Charmander",
 		"forms": [
 			{
 				"name": null,
@@ -46,6 +50,7 @@
 	{
 		"dexNumber": 5,
 		"name": "charmeleon",
+		"displayName": "Charmeleon",
 		"forms": [
 			{
 				"name": null,
@@ -57,6 +62,7 @@
 	{
 		"dexNumber": 6,
 		"name": "charizard",
+		"displayName": "Charizard",
 		"forms": [
 			{
 				"name": null,
@@ -73,6 +79,7 @@
 	{
 		"dexNumber": 7,
 		"name": "squirtle",
+		"displayName": "Squirtle",
 		"forms": [
 			{
 				"name": null,
@@ -84,6 +91,7 @@
 	{
 		"dexNumber": 8,
 		"name": "wartortle",
+		"displayName": "Wartortle",
 		"forms": [
 			{
 				"name": null,
@@ -95,6 +103,7 @@
 	{
 		"dexNumber": 9,
 		"name": "blastoise",
+		"displayName": "Blastoise",
 		"forms": [
 			{
 				"name": null,
@@ -106,6 +115,7 @@
 	{
 		"dexNumber": 10,
 		"name": "caterpie",
+		"displayName": "Caterpie",
 		"forms": [
 			{
 				"name": null,
@@ -117,6 +127,7 @@
 	{
 		"dexNumber": 11,
 		"name": "metapod",
+		"displayName": "Metapod",
 		"forms": [
 			{
 				"name": null,
@@ -128,6 +139,7 @@
 	{
 		"dexNumber": 12,
 		"name": "butterfree",
+		"displayName": "Butterfree",
 		"forms": [
 			{
 				"name": null,
@@ -139,6 +151,7 @@
 	{
 		"dexNumber": 13,
 		"name": "weedle",
+		"displayName": "Weedle",
 		"forms": [
 			{
 				"name": null,
@@ -150,6 +163,7 @@
 	{
 		"dexNumber": 14,
 		"name": "kakuna",
+		"displayName": "Kakuna",
 		"forms": [
 			{
 				"name": null,
@@ -161,6 +175,7 @@
 	{
 		"dexNumber": 15,
 		"name": "beedrill",
+		"displayName": "Beedrill",
 		"forms": [
 			{
 				"name": null,
@@ -172,6 +187,7 @@
 	{
 		"dexNumber": 16,
 		"name": "pidgey",
+		"displayName": "Pidgey",
 		"forms": [
 			{
 				"name": null,
@@ -183,6 +199,7 @@
 	{
 		"dexNumber": 17,
 		"name": "pidgeotto",
+		"displayName": "Pidgeotto",
 		"forms": [
 			{
 				"name": null,
@@ -194,6 +211,7 @@
 	{
 		"dexNumber": 18,
 		"name": "pidgeot",
+		"displayName": "Pidgeot",
 		"forms": [
 			{
 				"name": null,
@@ -205,6 +223,7 @@
 	{
 		"dexNumber": 19,
 		"name": "rattata",
+		"displayName": "Rattata",
 		"forms": [
 			{
 				"name": null,
@@ -221,6 +240,7 @@
 	{
 		"dexNumber": 20,
 		"name": "raticate",
+		"displayName": "Raticate",
 		"forms": [
 			{
 				"name": null,
@@ -237,6 +257,7 @@
 	{
 		"dexNumber": 21,
 		"name": "spearow",
+		"displayName": "Spearow",
 		"forms": [
 			{
 				"name": null,
@@ -248,6 +269,7 @@
 	{
 		"dexNumber": 22,
 		"name": "fearow",
+		"displayName": "Fearow",
 		"forms": [
 			{
 				"name": null,
@@ -259,6 +281,7 @@
 	{
 		"dexNumber": 23,
 		"name": "ekans",
+		"displayName": "Ekans",
 		"forms": [
 			{
 				"name": null,
@@ -270,6 +293,7 @@
 	{
 		"dexNumber": 24,
 		"name": "arbok",
+		"displayName": "Arbok",
 		"forms": [
 			{
 				"name": null,
@@ -281,6 +305,7 @@
 	{
 		"dexNumber": 25,
 		"name": "pikachu",
+		"displayName": "Pikachu",
 		"forms": [
 			{
 				"name": null,
@@ -292,6 +317,7 @@
 	{
 		"dexNumber": 26,
 		"name": "raichu",
+		"displayName": "Raichu",
 		"forms": [
 			{
 				"name": null,
@@ -308,6 +334,7 @@
 	{
 		"dexNumber": 27,
 		"name": "sandshrew",
+		"displayName": "Sandshrew",
 		"forms": [
 			{
 				"name": null,
@@ -324,6 +351,7 @@
 	{
 		"dexNumber": 28,
 		"name": "sandslash",
+		"displayName": "Sandslash",
 		"forms": [
 			{
 				"name": null,
@@ -340,6 +368,7 @@
 	{
 		"dexNumber": 29,
 		"name": "nidoran-f",
+		"displayName": "Nidoran♀",
 		"forms": [
 			{
 				"name": null,
@@ -351,6 +380,7 @@
 	{
 		"dexNumber": 30,
 		"name": "nidorina",
+		"displayName": "Nidorina",
 		"forms": [
 			{
 				"name": null,
@@ -362,6 +392,7 @@
 	{
 		"dexNumber": 31,
 		"name": "nidoqueen",
+		"displayName": "Nidoqueen",
 		"forms": [
 			{
 				"name": null,
@@ -373,6 +404,7 @@
 	{
 		"dexNumber": 32,
 		"name": "nidoran-m",
+		"displayName": "Nidoran♂",
 		"forms": [
 			{
 				"name": null,
@@ -384,6 +416,7 @@
 	{
 		"dexNumber": 33,
 		"name": "nidorino",
+		"displayName": "Nidorino",
 		"forms": [
 			{
 				"name": null,
@@ -395,6 +428,7 @@
 	{
 		"dexNumber": 34,
 		"name": "nidoking",
+		"displayName": "Nidoking",
 		"forms": [
 			{
 				"name": null,
@@ -406,6 +440,7 @@
 	{
 		"dexNumber": 35,
 		"name": "clefairy",
+		"displayName": "Clefairy",
 		"forms": [
 			{
 				"name": null,
@@ -417,6 +452,7 @@
 	{
 		"dexNumber": 36,
 		"name": "clefable",
+		"displayName": "Clefable",
 		"forms": [
 			{
 				"name": null,
@@ -428,6 +464,7 @@
 	{
 		"dexNumber": 37,
 		"name": "vulpix",
+		"displayName": "Vulpix",
 		"forms": [
 			{
 				"name": null,
@@ -444,6 +481,7 @@
 	{
 		"dexNumber": 38,
 		"name": "ninetales",
+		"displayName": "Ninetales",
 		"forms": [
 			{
 				"name": null,
@@ -460,6 +498,7 @@
 	{
 		"dexNumber": 39,
 		"name": "jigglypuff",
+		"displayName": "Jigglypuff",
 		"forms": [
 			{
 				"name": null,
@@ -471,6 +510,7 @@
 	{
 		"dexNumber": 40,
 		"name": "wigglytuff",
+		"displayName": "Wigglytuff",
 		"forms": [
 			{
 				"name": null,
@@ -482,6 +522,7 @@
 	{
 		"dexNumber": 41,
 		"name": "zubat",
+		"displayName": "Zubat",
 		"forms": [
 			{
 				"name": null,
@@ -493,6 +534,7 @@
 	{
 		"dexNumber": 42,
 		"name": "golbat",
+		"displayName": "Golbat",
 		"forms": [
 			{
 				"name": null,
@@ -504,6 +546,7 @@
 	{
 		"dexNumber": 43,
 		"name": "oddish",
+		"displayName": "Oddish",
 		"forms": [
 			{
 				"name": null,
@@ -515,6 +558,7 @@
 	{
 		"dexNumber": 44,
 		"name": "gloom",
+		"displayName": "Gloom",
 		"forms": [
 			{
 				"name": null,
@@ -526,6 +570,7 @@
 	{
 		"dexNumber": 45,
 		"name": "vileplume",
+		"displayName": "Vileplume",
 		"forms": [
 			{
 				"name": null,
@@ -537,6 +582,7 @@
 	{
 		"dexNumber": 46,
 		"name": "paras",
+		"displayName": "Paras",
 		"forms": [
 			{
 				"name": null,
@@ -548,6 +594,7 @@
 	{
 		"dexNumber": 47,
 		"name": "parasect",
+		"displayName": "Parasect",
 		"forms": [
 			{
 				"name": null,
@@ -559,6 +606,7 @@
 	{
 		"dexNumber": 48,
 		"name": "venonat",
+		"displayName": "Venonat",
 		"forms": [
 			{
 				"name": null,
@@ -570,6 +618,7 @@
 	{
 		"dexNumber": 49,
 		"name": "venomoth",
+		"displayName": "Venomoth",
 		"forms": [
 			{
 				"name": null,
@@ -581,6 +630,7 @@
 	{
 		"dexNumber": 50,
 		"name": "diglett",
+		"displayName": "Diglett",
 		"forms": [
 			{
 				"name": null,
@@ -597,6 +647,7 @@
 	{
 		"dexNumber": 51,
 		"name": "dugtrio",
+		"displayName": "Dugtrio",
 		"forms": [
 			{
 				"name": null,
@@ -613,6 +664,7 @@
 	{
 		"dexNumber": 52,
 		"name": "meowth",
+		"displayName": "Meowth",
 		"forms": [
 			{
 				"name": null,
@@ -633,6 +685,7 @@
 	{
 		"dexNumber": 53,
 		"name": "persian",
+		"displayName": "Persian",
 		"forms": [
 			{
 				"name": null,
@@ -649,6 +702,7 @@
 	{
 		"dexNumber": 54,
 		"name": "psyduck",
+		"displayName": "Psyduck",
 		"forms": [
 			{
 				"name": null,
@@ -660,6 +714,7 @@
 	{
 		"dexNumber": 55,
 		"name": "golduck",
+		"displayName": "Golduck",
 		"forms": [
 			{
 				"name": null,
@@ -671,6 +726,7 @@
 	{
 		"dexNumber": 56,
 		"name": "mankey",
+		"displayName": "Mankey",
 		"forms": [
 			{
 				"name": null,
@@ -682,6 +738,7 @@
 	{
 		"dexNumber": 57,
 		"name": "primeape",
+		"displayName": "Primeape",
 		"forms": [
 			{
 				"name": null,
@@ -693,6 +750,7 @@
 	{
 		"dexNumber": 58,
 		"name": "growlithe",
+		"displayName": "Growlithe",
 		"forms": [
 			{
 				"name": null,
@@ -709,6 +767,7 @@
 	{
 		"dexNumber": 59,
 		"name": "arcanine",
+		"displayName": "Arcanine",
 		"forms": [
 			{
 				"name": null,
@@ -725,6 +784,7 @@
 	{
 		"dexNumber": 60,
 		"name": "poliwag",
+		"displayName": "Poliwag",
 		"forms": [
 			{
 				"name": null,
@@ -736,6 +796,7 @@
 	{
 		"dexNumber": 61,
 		"name": "poliwhirl",
+		"displayName": "Poliwhirl",
 		"forms": [
 			{
 				"name": null,
@@ -747,6 +808,7 @@
 	{
 		"dexNumber": 62,
 		"name": "poliwrath",
+		"displayName": "Poliwrath",
 		"forms": [
 			{
 				"name": null,
@@ -758,6 +820,7 @@
 	{
 		"dexNumber": 63,
 		"name": "abra",
+		"displayName": "Abra",
 		"forms": [
 			{
 				"name": null,
@@ -769,6 +832,7 @@
 	{
 		"dexNumber": 64,
 		"name": "kadabra",
+		"displayName": "Kadabra",
 		"forms": [
 			{
 				"name": null,
@@ -780,6 +844,7 @@
 	{
 		"dexNumber": 65,
 		"name": "alakazam",
+		"displayName": "Alakazam",
 		"forms": [
 			{
 				"name": null,
@@ -791,6 +856,7 @@
 	{
 		"dexNumber": 66,
 		"name": "machop",
+		"displayName": "Machop",
 		"forms": [
 			{
 				"name": null,
@@ -802,6 +868,7 @@
 	{
 		"dexNumber": 67,
 		"name": "machoke",
+		"displayName": "Machoke",
 		"forms": [
 			{
 				"name": null,
@@ -813,6 +880,7 @@
 	{
 		"dexNumber": 68,
 		"name": "machamp",
+		"displayName": "Machamp",
 		"forms": [
 			{
 				"name": null,
@@ -824,6 +892,7 @@
 	{
 		"dexNumber": 69,
 		"name": "bellsprout",
+		"displayName": "Bellsprout",
 		"forms": [
 			{
 				"name": null,
@@ -835,6 +904,7 @@
 	{
 		"dexNumber": 70,
 		"name": "weepinbell",
+		"displayName": "Weepinbell",
 		"forms": [
 			{
 				"name": null,
@@ -846,6 +916,7 @@
 	{
 		"dexNumber": 71,
 		"name": "victreebel",
+		"displayName": "Victreebel",
 		"forms": [
 			{
 				"name": null,
@@ -857,6 +928,7 @@
 	{
 		"dexNumber": 72,
 		"name": "tentacool",
+		"displayName": "Tentacool",
 		"forms": [
 			{
 				"name": null,
@@ -868,6 +940,7 @@
 	{
 		"dexNumber": 73,
 		"name": "tentacruel",
+		"displayName": "Tentacruel",
 		"forms": [
 			{
 				"name": null,
@@ -879,6 +952,7 @@
 	{
 		"dexNumber": 74,
 		"name": "geodude",
+		"displayName": "Geodude",
 		"forms": [
 			{
 				"name": null,
@@ -895,6 +969,7 @@
 	{
 		"dexNumber": 75,
 		"name": "graveler",
+		"displayName": "Graveler",
 		"forms": [
 			{
 				"name": null,
@@ -911,6 +986,7 @@
 	{
 		"dexNumber": 76,
 		"name": "golem",
+		"displayName": "Golem",
 		"forms": [
 			{
 				"name": null,
@@ -927,6 +1003,7 @@
 	{
 		"dexNumber": 77,
 		"name": "ponyta",
+		"displayName": "Ponyta",
 		"forms": [
 			{
 				"name": null,
@@ -942,6 +1019,7 @@
 	{
 		"dexNumber": 78,
 		"name": "rapidash",
+		"displayName": "Rapidash",
 		"forms": [
 			{
 				"name": null,
@@ -958,6 +1036,7 @@
 	{
 		"dexNumber": 79,
 		"name": "slowpoke",
+		"displayName": "Slowpoke",
 		"forms": [
 			{
 				"name": null,
@@ -973,6 +1052,7 @@
 	{
 		"dexNumber": 80,
 		"name": "slowbro",
+		"displayName": "Slowbro",
 		"forms": [
 			{
 				"name": null,
@@ -984,6 +1064,7 @@
 	{
 		"dexNumber": 81,
 		"name": "magnemite",
+		"displayName": "Magnemite",
 		"forms": [
 			{
 				"name": null,
@@ -995,6 +1076,7 @@
 	{
 		"dexNumber": 82,
 		"name": "magneton",
+		"displayName": "Magneton",
 		"forms": [
 			{
 				"name": null,
@@ -1006,6 +1088,7 @@
 	{
 		"dexNumber": 83,
 		"name": "farfetch'd",
+		"displayName": "Farfetch’d",
 		"forms": [
 			{
 				"name": null,
@@ -1021,6 +1104,7 @@
 	{
 		"dexNumber": 84,
 		"name": "doduo",
+		"displayName": "Doduo",
 		"forms": [
 			{
 				"name": null,
@@ -1032,6 +1116,7 @@
 	{
 		"dexNumber": 85,
 		"name": "dodrio",
+		"displayName": "Dodrio",
 		"forms": [
 			{
 				"name": null,
@@ -1043,6 +1128,7 @@
 	{
 		"dexNumber": 86,
 		"name": "seel",
+		"displayName": "Seel",
 		"forms": [
 			{
 				"name": null,
@@ -1054,6 +1140,7 @@
 	{
 		"dexNumber": 87,
 		"name": "dewgong",
+		"displayName": "Dewgong",
 		"forms": [
 			{
 				"name": null,
@@ -1065,6 +1152,7 @@
 	{
 		"dexNumber": 88,
 		"name": "grimer",
+		"displayName": "Grimer",
 		"forms": [
 			{
 				"name": null,
@@ -1081,6 +1169,7 @@
 	{
 		"dexNumber": 89,
 		"name": "muk",
+		"displayName": "Muk",
 		"forms": [
 			{
 				"name": null,
@@ -1097,6 +1186,7 @@
 	{
 		"dexNumber": 90,
 		"name": "shellder",
+		"displayName": "Shellder",
 		"forms": [
 			{
 				"name": null,
@@ -1108,6 +1198,7 @@
 	{
 		"dexNumber": 91,
 		"name": "cloyster",
+		"displayName": "Cloyster",
 		"forms": [
 			{
 				"name": null,
@@ -1119,6 +1210,7 @@
 	{
 		"dexNumber": 92,
 		"name": "gastly",
+		"displayName": "Gastly",
 		"forms": [
 			{
 				"name": null,
@@ -1130,6 +1222,7 @@
 	{
 		"dexNumber": 93,
 		"name": "haunter",
+		"displayName": "Haunter",
 		"forms": [
 			{
 				"name": null,
@@ -1141,6 +1234,7 @@
 	{
 		"dexNumber": 94,
 		"name": "gengar",
+		"displayName": "Gengar",
 		"forms": [
 			{
 				"name": null,
@@ -1152,6 +1246,7 @@
 	{
 		"dexNumber": 95,
 		"name": "onix",
+		"displayName": "Onix",
 		"forms": [
 			{
 				"name": null,
@@ -1163,6 +1258,7 @@
 	{
 		"dexNumber": 96,
 		"name": "drowzee",
+		"displayName": "Drowzee",
 		"forms": [
 			{
 				"name": null,
@@ -1174,6 +1270,7 @@
 	{
 		"dexNumber": 97,
 		"name": "hypno",
+		"displayName": "Hypno",
 		"forms": [
 			{
 				"name": null,
@@ -1185,6 +1282,7 @@
 	{
 		"dexNumber": 98,
 		"name": "krabby",
+		"displayName": "Krabby",
 		"forms": [
 			{
 				"name": null,
@@ -1196,6 +1294,7 @@
 	{
 		"dexNumber": 99,
 		"name": "kingler",
+		"displayName": "Kingler",
 		"forms": [
 			{
 				"name": null,
@@ -1207,6 +1306,7 @@
 	{
 		"dexNumber": 100,
 		"name": "voltorb",
+		"displayName": "Voltorb",
 		"forms": [
 			{
 				"name": null,
@@ -1223,6 +1323,7 @@
 	{
 		"dexNumber": 101,
 		"name": "electrode",
+		"displayName": "Electrode",
 		"forms": [
 			{
 				"name": null,
@@ -1239,6 +1340,7 @@
 	{
 		"dexNumber": 102,
 		"name": "exeggcute",
+		"displayName": "Exeggcute",
 		"forms": [
 			{
 				"name": null,
@@ -1250,6 +1352,7 @@
 	{
 		"dexNumber": 103,
 		"name": "exeggutor",
+		"displayName": "Exeggutor",
 		"forms": [
 			{
 				"name": null,
@@ -1266,6 +1369,7 @@
 	{
 		"dexNumber": 104,
 		"name": "cubone",
+		"displayName": "Cubone",
 		"forms": [
 			{
 				"name": null,
@@ -1277,6 +1381,7 @@
 	{
 		"dexNumber": 105,
 		"name": "marowak",
+		"displayName": "Marowak",
 		"forms": [
 			{
 				"name": null,
@@ -1293,6 +1398,7 @@
 	{
 		"dexNumber": 106,
 		"name": "hitmonlee",
+		"displayName": "Hitmonlee",
 		"forms": [
 			{
 				"name": null,
@@ -1304,6 +1410,7 @@
 	{
 		"dexNumber": 107,
 		"name": "hitmonchan",
+		"displayName": "Hitmonchan",
 		"forms": [
 			{
 				"name": null,
@@ -1315,6 +1422,7 @@
 	{
 		"dexNumber": 108,
 		"name": "lickitung",
+		"displayName": "Lickitung",
 		"forms": [
 			{
 				"name": null,
@@ -1326,6 +1434,7 @@
 	{
 		"dexNumber": 109,
 		"name": "koffing",
+		"displayName": "Koffing",
 		"forms": [
 			{
 				"name": null,
@@ -1337,6 +1446,7 @@
 	{
 		"dexNumber": 110,
 		"name": "weezing",
+		"displayName": "Weezing",
 		"forms": [
 			{
 				"name": null,
@@ -1353,6 +1463,7 @@
 	{
 		"dexNumber": 111,
 		"name": "rhyhorn",
+		"displayName": "Rhyhorn",
 		"forms": [
 			{
 				"name": null,
@@ -1364,6 +1475,7 @@
 	{
 		"dexNumber": 112,
 		"name": "rhydon",
+		"displayName": "Rhydon",
 		"forms": [
 			{
 				"name": null,
@@ -1375,6 +1487,7 @@
 	{
 		"dexNumber": 113,
 		"name": "chansey",
+		"displayName": "Chansey",
 		"forms": [
 			{
 				"name": null,
@@ -1386,6 +1499,7 @@
 	{
 		"dexNumber": 114,
 		"name": "tangela",
+		"displayName": "Tangela",
 		"forms": [
 			{
 				"name": null,
@@ -1397,6 +1511,7 @@
 	{
 		"dexNumber": 115,
 		"name": "kangaskhan",
+		"displayName": "Kangaskhan",
 		"forms": [
 			{
 				"name": null,
@@ -1408,6 +1523,7 @@
 	{
 		"dexNumber": 116,
 		"name": "horsea",
+		"displayName": "Horsea",
 		"forms": [
 			{
 				"name": null,
@@ -1419,6 +1535,7 @@
 	{
 		"dexNumber": 117,
 		"name": "seadra",
+		"displayName": "Seadra",
 		"forms": [
 			{
 				"name": null,
@@ -1430,6 +1547,7 @@
 	{
 		"dexNumber": 118,
 		"name": "goldeen",
+		"displayName": "Goldeen",
 		"forms": [
 			{
 				"name": null,
@@ -1441,6 +1559,7 @@
 	{
 		"dexNumber": 119,
 		"name": "seaking",
+		"displayName": "Seaking",
 		"forms": [
 			{
 				"name": null,
@@ -1452,6 +1571,7 @@
 	{
 		"dexNumber": 120,
 		"name": "staryu",
+		"displayName": "Staryu",
 		"forms": [
 			{
 				"name": null,
@@ -1463,6 +1583,7 @@
 	{
 		"dexNumber": 121,
 		"name": "starmie",
+		"displayName": "Starmie",
 		"forms": [
 			{
 				"name": null,
@@ -1474,6 +1595,7 @@
 	{
 		"dexNumber": 122,
 		"name": "mr. mime",
+		"displayName": "Mr. Mime",
 		"forms": [
 			{
 				"name": null,
@@ -1490,6 +1612,7 @@
 	{
 		"dexNumber": 123,
 		"name": "scyther",
+		"displayName": "Scyther",
 		"forms": [
 			{
 				"name": null,
@@ -1501,6 +1624,7 @@
 	{
 		"dexNumber": 124,
 		"name": "jynx",
+		"displayName": "Jynx",
 		"forms": [
 			{
 				"name": null,
@@ -1512,6 +1636,7 @@
 	{
 		"dexNumber": 125,
 		"name": "electabuzz",
+		"displayName": "Electabuzz",
 		"forms": [
 			{
 				"name": null,
@@ -1523,6 +1648,7 @@
 	{
 		"dexNumber": 126,
 		"name": "magmar",
+		"displayName": "Magmar",
 		"forms": [
 			{
 				"name": null,
@@ -1534,6 +1660,7 @@
 	{
 		"dexNumber": 127,
 		"name": "pinsir",
+		"displayName": "Pinsir",
 		"forms": [
 			{
 				"name": null,
@@ -1550,6 +1677,7 @@
 	{
 		"dexNumber": 128,
 		"name": "tauros",
+		"displayName": "Tauros",
 		"forms": [
 			{
 				"name": null,
@@ -1576,6 +1704,7 @@
 	{
 		"dexNumber": 129,
 		"name": "magikarp",
+		"displayName": "Magikarp",
 		"forms": [
 			{
 				"name": null,
@@ -1587,6 +1716,7 @@
 	{
 		"dexNumber": 130,
 		"name": "gyarados",
+		"displayName": "Gyarados",
 		"forms": [
 			{
 				"name": null,
@@ -1603,6 +1733,7 @@
 	{
 		"dexNumber": 131,
 		"name": "lapras",
+		"displayName": "Lapras",
 		"forms": [
 			{
 				"name": null,
@@ -1614,6 +1745,7 @@
 	{
 		"dexNumber": 132,
 		"name": "ditto",
+		"displayName": "Ditto",
 		"forms": [
 			{
 				"name": null,
@@ -1625,6 +1757,7 @@
 	{
 		"dexNumber": 133,
 		"name": "eevee",
+		"displayName": "Eevee",
 		"forms": [
 			{
 				"name": null,
@@ -1636,6 +1769,7 @@
 	{
 		"dexNumber": 134,
 		"name": "vaporeon",
+		"displayName": "Vaporeon",
 		"forms": [
 			{
 				"name": null,
@@ -1647,6 +1781,7 @@
 	{
 		"dexNumber": 135,
 		"name": "jolteon",
+		"displayName": "Jolteon",
 		"forms": [
 			{
 				"name": null,
@@ -1658,6 +1793,7 @@
 	{
 		"dexNumber": 136,
 		"name": "flareon",
+		"displayName": "Flareon",
 		"forms": [
 			{
 				"name": null,
@@ -1669,6 +1805,7 @@
 	{
 		"dexNumber": 137,
 		"name": "porygon",
+		"displayName": "Porygon",
 		"forms": [
 			{
 				"name": null,
@@ -1680,6 +1817,7 @@
 	{
 		"dexNumber": 138,
 		"name": "omanyte",
+		"displayName": "Omanyte",
 		"forms": [
 			{
 				"name": null,
@@ -1691,6 +1829,7 @@
 	{
 		"dexNumber": 139,
 		"name": "omastar",
+		"displayName": "Omastar",
 		"forms": [
 			{
 				"name": null,
@@ -1702,6 +1841,7 @@
 	{
 		"dexNumber": 140,
 		"name": "kabuto",
+		"displayName": "Kabuto",
 		"forms": [
 			{
 				"name": null,
@@ -1713,6 +1853,7 @@
 	{
 		"dexNumber": 141,
 		"name": "kabutops",
+		"displayName": "Kabutops",
 		"forms": [
 			{
 				"name": null,
@@ -1724,6 +1865,7 @@
 	{
 		"dexNumber": 142,
 		"name": "aerodactyl",
+		"displayName": "Aerodactyl",
 		"forms": [
 			{
 				"name": null,
@@ -1735,6 +1877,7 @@
 	{
 		"dexNumber": 143,
 		"name": "snorlax",
+		"displayName": "Snorlax",
 		"forms": [
 			{
 				"name": null,
@@ -1746,6 +1889,7 @@
 	{
 		"dexNumber": 144,
 		"name": "articuno",
+		"displayName": "Articuno",
 		"forms": [
 			{
 				"name": null,
@@ -1762,6 +1906,7 @@
 	{
 		"dexNumber": 145,
 		"name": "zapdos",
+		"displayName": "Zapdos",
 		"forms": [
 			{
 				"name": null,
@@ -1778,6 +1923,7 @@
 	{
 		"dexNumber": 146,
 		"name": "moltres",
+		"displayName": "Moltres",
 		"forms": [
 			{
 				"name": null,
@@ -1794,6 +1940,7 @@
 	{
 		"dexNumber": 147,
 		"name": "dratini",
+		"displayName": "Dratini",
 		"forms": [
 			{
 				"name": null,
@@ -1805,6 +1952,7 @@
 	{
 		"dexNumber": 148,
 		"name": "dragonair",
+		"displayName": "Dragonair",
 		"forms": [
 			{
 				"name": null,
@@ -1816,6 +1964,7 @@
 	{
 		"dexNumber": 149,
 		"name": "dragonite",
+		"displayName": "Dragonite",
 		"forms": [
 			{
 				"name": null,
@@ -1827,6 +1976,7 @@
 	{
 		"dexNumber": 150,
 		"name": "mewtwo",
+		"displayName": "Mewtwo",
 		"forms": [
 			{
 				"name": null,
@@ -1843,6 +1993,7 @@
 	{
 		"dexNumber": 151,
 		"name": "mew",
+		"displayName": "Mew",
 		"forms": [
 			{
 				"name": null,
@@ -1854,6 +2005,7 @@
 	{
 		"dexNumber": 152,
 		"name": "chikorita",
+		"displayName": "Chikorita",
 		"forms": [
 			{
 				"name": null,
@@ -1865,6 +2017,7 @@
 	{
 		"dexNumber": 153,
 		"name": "bayleef",
+		"displayName": "Bayleef",
 		"forms": [
 			{
 				"name": null,
@@ -1876,6 +2029,7 @@
 	{
 		"dexNumber": 154,
 		"name": "meganium",
+		"displayName": "Meganium",
 		"forms": [
 			{
 				"name": null,
@@ -1887,6 +2041,7 @@
 	{
 		"dexNumber": 155,
 		"name": "cyndaquil",
+		"displayName": "Cyndaquil",
 		"forms": [
 			{
 				"name": null,
@@ -1898,6 +2053,7 @@
 	{
 		"dexNumber": 156,
 		"name": "quilava",
+		"displayName": "Quilava",
 		"forms": [
 			{
 				"name": null,
@@ -1909,6 +2065,7 @@
 	{
 		"dexNumber": 157,
 		"name": "typhlosion",
+		"displayName": "Typhlosion",
 		"forms": [
 			{
 				"name": null,
@@ -1925,6 +2082,7 @@
 	{
 		"dexNumber": 158,
 		"name": "totodile",
+		"displayName": "Totodile",
 		"forms": [
 			{
 				"name": null,
@@ -1936,6 +2094,7 @@
 	{
 		"dexNumber": 159,
 		"name": "croconaw",
+		"displayName": "Croconaw",
 		"forms": [
 			{
 				"name": null,
@@ -1947,6 +2106,7 @@
 	{
 		"dexNumber": 160,
 		"name": "feraligatr",
+		"displayName": "Feraligatr",
 		"forms": [
 			{
 				"name": null,
@@ -1958,6 +2118,7 @@
 	{
 		"dexNumber": 161,
 		"name": "sentret",
+		"displayName": "Sentret",
 		"forms": [
 			{
 				"name": null,
@@ -1969,6 +2130,7 @@
 	{
 		"dexNumber": 162,
 		"name": "furret",
+		"displayName": "Furret",
 		"forms": [
 			{
 				"name": null,
@@ -1980,6 +2142,7 @@
 	{
 		"dexNumber": 163,
 		"name": "hoothoot",
+		"displayName": "Hoothoot",
 		"forms": [
 			{
 				"name": null,
@@ -1991,6 +2154,7 @@
 	{
 		"dexNumber": 164,
 		"name": "noctowl",
+		"displayName": "Noctowl",
 		"forms": [
 			{
 				"name": null,
@@ -2002,6 +2166,7 @@
 	{
 		"dexNumber": 165,
 		"name": "ledyba",
+		"displayName": "Ledyba",
 		"forms": [
 			{
 				"name": null,
@@ -2013,6 +2178,7 @@
 	{
 		"dexNumber": 166,
 		"name": "ledian",
+		"displayName": "Ledian",
 		"forms": [
 			{
 				"name": null,
@@ -2024,6 +2190,7 @@
 	{
 		"dexNumber": 167,
 		"name": "spinarak",
+		"displayName": "Spinarak",
 		"forms": [
 			{
 				"name": null,
@@ -2035,6 +2202,7 @@
 	{
 		"dexNumber": 168,
 		"name": "ariados",
+		"displayName": "Ariados",
 		"forms": [
 			{
 				"name": null,
@@ -2046,6 +2214,7 @@
 	{
 		"dexNumber": 169,
 		"name": "crobat",
+		"displayName": "Crobat",
 		"forms": [
 			{
 				"name": null,
@@ -2057,6 +2226,7 @@
 	{
 		"dexNumber": 170,
 		"name": "chinchou",
+		"displayName": "Chinchou",
 		"forms": [
 			{
 				"name": null,
@@ -2068,6 +2238,7 @@
 	{
 		"dexNumber": 171,
 		"name": "lanturn",
+		"displayName": "Lanturn",
 		"forms": [
 			{
 				"name": null,
@@ -2079,6 +2250,7 @@
 	{
 		"dexNumber": 172,
 		"name": "pichu",
+		"displayName": "Pichu",
 		"forms": [
 			{
 				"name": null,
@@ -2090,6 +2262,7 @@
 	{
 		"dexNumber": 173,
 		"name": "cleffa",
+		"displayName": "Cleffa",
 		"forms": [
 			{
 				"name": null,
@@ -2101,6 +2274,7 @@
 	{
 		"dexNumber": 174,
 		"name": "igglybuff",
+		"displayName": "Igglybuff",
 		"forms": [
 			{
 				"name": null,
@@ -2112,6 +2286,7 @@
 	{
 		"dexNumber": 175,
 		"name": "togepi",
+		"displayName": "Togepi",
 		"forms": [
 			{
 				"name": null,
@@ -2123,6 +2298,7 @@
 	{
 		"dexNumber": 176,
 		"name": "togetic",
+		"displayName": "Togetic",
 		"forms": [
 			{
 				"name": null,
@@ -2134,6 +2310,7 @@
 	{
 		"dexNumber": 177,
 		"name": "natu",
+		"displayName": "Natu",
 		"forms": [
 			{
 				"name": null,
@@ -2145,6 +2322,7 @@
 	{
 		"dexNumber": 178,
 		"name": "xatu",
+		"displayName": "Xatu",
 		"forms": [
 			{
 				"name": null,
@@ -2156,6 +2334,7 @@
 	{
 		"dexNumber": 179,
 		"name": "mareep",
+		"displayName": "Mareep",
 		"forms": [
 			{
 				"name": null,
@@ -2167,6 +2346,7 @@
 	{
 		"dexNumber": 180,
 		"name": "flaaffy",
+		"displayName": "Flaaffy",
 		"forms": [
 			{
 				"name": null,
@@ -2178,6 +2358,7 @@
 	{
 		"dexNumber": 181,
 		"name": "ampharos",
+		"displayName": "Ampharos",
 		"forms": [
 			{
 				"name": null,
@@ -2194,6 +2375,7 @@
 	{
 		"dexNumber": 182,
 		"name": "bellossom",
+		"displayName": "Bellossom",
 		"forms": [
 			{
 				"name": null,
@@ -2205,6 +2387,7 @@
 	{
 		"dexNumber": 183,
 		"name": "marill",
+		"displayName": "Marill",
 		"forms": [
 			{
 				"name": null,
@@ -2216,6 +2399,7 @@
 	{
 		"dexNumber": 184,
 		"name": "azumarill",
+		"displayName": "Azumarill",
 		"forms": [
 			{
 				"name": null,
@@ -2227,6 +2411,7 @@
 	{
 		"dexNumber": 185,
 		"name": "sudowoodo",
+		"displayName": "Sudowoodo",
 		"forms": [
 			{
 				"name": null,
@@ -2238,6 +2423,7 @@
 	{
 		"dexNumber": 186,
 		"name": "politoed",
+		"displayName": "Politoed",
 		"forms": [
 			{
 				"name": null,
@@ -2249,6 +2435,7 @@
 	{
 		"dexNumber": 187,
 		"name": "hoppip",
+		"displayName": "Hoppip",
 		"forms": [
 			{
 				"name": null,
@@ -2260,6 +2447,7 @@
 	{
 		"dexNumber": 188,
 		"name": "skiploom",
+		"displayName": "Skiploom",
 		"forms": [
 			{
 				"name": null,
@@ -2271,6 +2459,7 @@
 	{
 		"dexNumber": 189,
 		"name": "jumpluff",
+		"displayName": "Jumpluff",
 		"forms": [
 			{
 				"name": null,
@@ -2282,6 +2471,7 @@
 	{
 		"dexNumber": 190,
 		"name": "aipom",
+		"displayName": "Aipom",
 		"forms": [
 			{
 				"name": null,
@@ -2293,6 +2483,7 @@
 	{
 		"dexNumber": 191,
 		"name": "sunkern",
+		"displayName": "Sunkern",
 		"forms": [
 			{
 				"name": null,
@@ -2304,6 +2495,7 @@
 	{
 		"dexNumber": 192,
 		"name": "sunflora",
+		"displayName": "Sunflora",
 		"forms": [
 			{
 				"name": null,
@@ -2315,6 +2507,7 @@
 	{
 		"dexNumber": 193,
 		"name": "yanma",
+		"displayName": "Yanma",
 		"forms": [
 			{
 				"name": null,
@@ -2326,6 +2519,7 @@
 	{
 		"dexNumber": 194,
 		"name": "wooper",
+		"displayName": "Wooper",
 		"forms": [
 			{
 				"name": null,
@@ -2342,6 +2536,7 @@
 	{
 		"dexNumber": 195,
 		"name": "quagsire",
+		"displayName": "Quagsire",
 		"forms": [
 			{
 				"name": null,
@@ -2353,6 +2548,7 @@
 	{
 		"dexNumber": 196,
 		"name": "espeon",
+		"displayName": "Espeon",
 		"forms": [
 			{
 				"name": null,
@@ -2364,6 +2560,7 @@
 	{
 		"dexNumber": 197,
 		"name": "umbreon",
+		"displayName": "Umbreon",
 		"forms": [
 			{
 				"name": null,
@@ -2375,6 +2572,7 @@
 	{
 		"dexNumber": 198,
 		"name": "murkrow",
+		"displayName": "Murkrow",
 		"forms": [
 			{
 				"name": null,
@@ -2386,6 +2584,7 @@
 	{
 		"dexNumber": 199,
 		"name": "slowking",
+		"displayName": "Slowking",
 		"forms": [
 			{
 				"name": null,
@@ -2397,6 +2596,7 @@
 	{
 		"dexNumber": 200,
 		"name": "misdreavus",
+		"displayName": "Misdreavus",
 		"forms": [
 			{
 				"name": null,
@@ -2408,6 +2608,7 @@
 	{
 		"dexNumber": 201,
 		"name": "unown",
+		"displayName": "Unown",
 		"forms": [
 			{
 				"name": null,
@@ -2419,6 +2620,7 @@
 	{
 		"dexNumber": 202,
 		"name": "wobbuffet",
+		"displayName": "Wobbuffet",
 		"forms": [
 			{
 				"name": null,
@@ -2430,6 +2632,7 @@
 	{
 		"dexNumber": 203,
 		"name": "girafarig",
+		"displayName": "Girafarig",
 		"forms": [
 			{
 				"name": null,
@@ -2441,6 +2644,7 @@
 	{
 		"dexNumber": 204,
 		"name": "pineco",
+		"displayName": "Pineco",
 		"forms": [
 			{
 				"name": null,
@@ -2452,6 +2656,7 @@
 	{
 		"dexNumber": 205,
 		"name": "forretress",
+		"displayName": "Forretress",
 		"forms": [
 			{
 				"name": null,
@@ -2463,6 +2668,7 @@
 	{
 		"dexNumber": 206,
 		"name": "dunsparce",
+		"displayName": "Dunsparce",
 		"forms": [
 			{
 				"name": null,
@@ -2474,6 +2680,7 @@
 	{
 		"dexNumber": 207,
 		"name": "gligar",
+		"displayName": "Gligar",
 		"forms": [
 			{
 				"name": null,
@@ -2485,6 +2692,7 @@
 	{
 		"dexNumber": 208,
 		"name": "steelix",
+		"displayName": "Steelix",
 		"forms": [
 			{
 				"name": null,
@@ -2496,6 +2704,7 @@
 	{
 		"dexNumber": 209,
 		"name": "snubbull",
+		"displayName": "Snubbull",
 		"forms": [
 			{
 				"name": null,
@@ -2507,6 +2716,7 @@
 	{
 		"dexNumber": 210,
 		"name": "granbull",
+		"displayName": "Granbull",
 		"forms": [
 			{
 				"name": null,
@@ -2518,6 +2728,7 @@
 	{
 		"dexNumber": 211,
 		"name": "qwilfish",
+		"displayName": "Qwilfish",
 		"forms": [
 			{
 				"name": null,
@@ -2534,6 +2745,7 @@
 	{
 		"dexNumber": 212,
 		"name": "scizor",
+		"displayName": "Scizor",
 		"forms": [
 			{
 				"name": null,
@@ -2545,6 +2757,7 @@
 	{
 		"dexNumber": 213,
 		"name": "shuckle",
+		"displayName": "Shuckle",
 		"forms": [
 			{
 				"name": null,
@@ -2556,6 +2769,7 @@
 	{
 		"dexNumber": 214,
 		"name": "heracross",
+		"displayName": "Heracross",
 		"forms": [
 			{
 				"name": null,
@@ -2567,6 +2781,7 @@
 	{
 		"dexNumber": 215,
 		"name": "sneasel",
+		"displayName": "Sneasel",
 		"forms": [
 			{
 				"name": null,
@@ -2583,6 +2798,7 @@
 	{
 		"dexNumber": 216,
 		"name": "teddiursa",
+		"displayName": "Teddiursa",
 		"forms": [
 			{
 				"name": null,
@@ -2594,6 +2810,7 @@
 	{
 		"dexNumber": 217,
 		"name": "ursaring",
+		"displayName": "Ursaring",
 		"forms": [
 			{
 				"name": null,
@@ -2605,6 +2822,7 @@
 	{
 		"dexNumber": 218,
 		"name": "slugma",
+		"displayName": "Slugma",
 		"forms": [
 			{
 				"name": null,
@@ -2616,6 +2834,7 @@
 	{
 		"dexNumber": 219,
 		"name": "magcargo",
+		"displayName": "Magcargo",
 		"forms": [
 			{
 				"name": null,
@@ -2627,6 +2846,7 @@
 	{
 		"dexNumber": 220,
 		"name": "swinub",
+		"displayName": "Swinub",
 		"forms": [
 			{
 				"name": null,
@@ -2638,6 +2858,7 @@
 	{
 		"dexNumber": 221,
 		"name": "piloswine",
+		"displayName": "Piloswine",
 		"forms": [
 			{
 				"name": null,
@@ -2649,6 +2870,7 @@
 	{
 		"dexNumber": 222,
 		"name": "corsola",
+		"displayName": "Corsola",
 		"forms": [
 			{
 				"name": null,
@@ -2664,6 +2886,7 @@
 	{
 		"dexNumber": 223,
 		"name": "remoraid",
+		"displayName": "Remoraid",
 		"forms": [
 			{
 				"name": null,
@@ -2675,6 +2898,7 @@
 	{
 		"dexNumber": 224,
 		"name": "octillery",
+		"displayName": "Octillery",
 		"forms": [
 			{
 				"name": null,
@@ -2686,6 +2910,7 @@
 	{
 		"dexNumber": 225,
 		"name": "delibird",
+		"displayName": "Delibird",
 		"forms": [
 			{
 				"name": null,
@@ -2697,6 +2922,7 @@
 	{
 		"dexNumber": 226,
 		"name": "mantine",
+		"displayName": "Mantine",
 		"forms": [
 			{
 				"name": null,
@@ -2708,6 +2934,7 @@
 	{
 		"dexNumber": 227,
 		"name": "skarmory",
+		"displayName": "Skarmory",
 		"forms": [
 			{
 				"name": null,
@@ -2719,6 +2946,7 @@
 	{
 		"dexNumber": 228,
 		"name": "houndour",
+		"displayName": "Houndour",
 		"forms": [
 			{
 				"name": null,
@@ -2730,6 +2958,7 @@
 	{
 		"dexNumber": 229,
 		"name": "houndoom",
+		"displayName": "Houndoom",
 		"forms": [
 			{
 				"name": null,
@@ -2741,6 +2970,7 @@
 	{
 		"dexNumber": 230,
 		"name": "kingdra",
+		"displayName": "Kingdra",
 		"forms": [
 			{
 				"name": null,
@@ -2752,6 +2982,7 @@
 	{
 		"dexNumber": 231,
 		"name": "phanpy",
+		"displayName": "Phanpy",
 		"forms": [
 			{
 				"name": null,
@@ -2763,6 +2994,7 @@
 	{
 		"dexNumber": 232,
 		"name": "donphan",
+		"displayName": "Donphan",
 		"forms": [
 			{
 				"name": null,
@@ -2774,6 +3006,7 @@
 	{
 		"dexNumber": 233,
 		"name": "porygon2",
+		"displayName": "Porygon2",
 		"forms": [
 			{
 				"name": null,
@@ -2785,6 +3018,7 @@
 	{
 		"dexNumber": 234,
 		"name": "stantler",
+		"displayName": "Stantler",
 		"forms": [
 			{
 				"name": null,
@@ -2796,6 +3030,7 @@
 	{
 		"dexNumber": 235,
 		"name": "smeargle",
+		"displayName": "Smeargle",
 		"forms": [
 			{
 				"name": null,
@@ -2807,6 +3042,7 @@
 	{
 		"dexNumber": 236,
 		"name": "tyrogue",
+		"displayName": "Tyrogue",
 		"forms": [
 			{
 				"name": null,
@@ -2818,6 +3054,7 @@
 	{
 		"dexNumber": 237,
 		"name": "hitmontop",
+		"displayName": "Hitmontop",
 		"forms": [
 			{
 				"name": null,
@@ -2829,6 +3066,7 @@
 	{
 		"dexNumber": 238,
 		"name": "smoochum",
+		"displayName": "Smoochum",
 		"forms": [
 			{
 				"name": null,
@@ -2840,6 +3078,7 @@
 	{
 		"dexNumber": 239,
 		"name": "elekid",
+		"displayName": "Elekid",
 		"forms": [
 			{
 				"name": null,
@@ -2851,6 +3090,7 @@
 	{
 		"dexNumber": 240,
 		"name": "magby",
+		"displayName": "Magby",
 		"forms": [
 			{
 				"name": null,
@@ -2862,6 +3102,7 @@
 	{
 		"dexNumber": 241,
 		"name": "miltank",
+		"displayName": "Miltank",
 		"forms": [
 			{
 				"name": null,
@@ -2873,6 +3114,7 @@
 	{
 		"dexNumber": 242,
 		"name": "blissey",
+		"displayName": "Blissey",
 		"forms": [
 			{
 				"name": null,
@@ -2884,6 +3126,7 @@
 	{
 		"dexNumber": 243,
 		"name": "raikou",
+		"displayName": "Raikou",
 		"forms": [
 			{
 				"name": null,
@@ -2895,6 +3138,7 @@
 	{
 		"dexNumber": 244,
 		"name": "entei",
+		"displayName": "Entei",
 		"forms": [
 			{
 				"name": null,
@@ -2906,6 +3150,7 @@
 	{
 		"dexNumber": 245,
 		"name": "suicune",
+		"displayName": "Suicune",
 		"forms": [
 			{
 				"name": null,
@@ -2917,6 +3162,7 @@
 	{
 		"dexNumber": 246,
 		"name": "larvitar",
+		"displayName": "Larvitar",
 		"forms": [
 			{
 				"name": null,
@@ -2928,6 +3174,7 @@
 	{
 		"dexNumber": 247,
 		"name": "pupitar",
+		"displayName": "Pupitar",
 		"forms": [
 			{
 				"name": null,
@@ -2939,6 +3186,7 @@
 	{
 		"dexNumber": 248,
 		"name": "tyranitar",
+		"displayName": "Tyranitar",
 		"forms": [
 			{
 				"name": null,
@@ -2950,6 +3198,7 @@
 	{
 		"dexNumber": 249,
 		"name": "lugia",
+		"displayName": "Lugia",
 		"forms": [
 			{
 				"name": null,
@@ -2961,6 +3210,7 @@
 	{
 		"dexNumber": 250,
 		"name": "ho-oh",
+		"displayName": "Ho-Oh",
 		"forms": [
 			{
 				"name": null,
@@ -2972,6 +3222,7 @@
 	{
 		"dexNumber": 251,
 		"name": "celebi",
+		"displayName": "Celebi",
 		"forms": [
 			{
 				"name": null,
@@ -2983,6 +3234,7 @@
 	{
 		"dexNumber": 252,
 		"name": "treecko",
+		"displayName": "Treecko",
 		"forms": [
 			{
 				"name": null,
@@ -2994,6 +3246,7 @@
 	{
 		"dexNumber": 253,
 		"name": "grovyle",
+		"displayName": "Grovyle",
 		"forms": [
 			{
 				"name": null,
@@ -3005,6 +3258,7 @@
 	{
 		"dexNumber": 254,
 		"name": "sceptile",
+		"displayName": "Sceptile",
 		"forms": [
 			{
 				"name": null,
@@ -3021,6 +3275,7 @@
 	{
 		"dexNumber": 255,
 		"name": "torchic",
+		"displayName": "Torchic",
 		"forms": [
 			{
 				"name": null,
@@ -3032,6 +3287,7 @@
 	{
 		"dexNumber": 256,
 		"name": "combusken",
+		"displayName": "Combusken",
 		"forms": [
 			{
 				"name": null,
@@ -3043,6 +3299,7 @@
 	{
 		"dexNumber": 257,
 		"name": "blaziken",
+		"displayName": "Blaziken",
 		"forms": [
 			{
 				"name": null,
@@ -3054,6 +3311,7 @@
 	{
 		"dexNumber": 258,
 		"name": "mudkip",
+		"displayName": "Mudkip",
 		"forms": [
 			{
 				"name": null,
@@ -3065,6 +3323,7 @@
 	{
 		"dexNumber": 259,
 		"name": "marshtomp",
+		"displayName": "Marshtomp",
 		"forms": [
 			{
 				"name": null,
@@ -3076,6 +3335,7 @@
 	{
 		"dexNumber": 260,
 		"name": "swampert",
+		"displayName": "Swampert",
 		"forms": [
 			{
 				"name": null,
@@ -3087,6 +3347,7 @@
 	{
 		"dexNumber": 261,
 		"name": "poochyena",
+		"displayName": "Poochyena",
 		"forms": [
 			{
 				"name": null,
@@ -3098,6 +3359,7 @@
 	{
 		"dexNumber": 262,
 		"name": "mightyena",
+		"displayName": "Mightyena",
 		"forms": [
 			{
 				"name": null,
@@ -3109,6 +3371,7 @@
 	{
 		"dexNumber": 263,
 		"name": "zigzagoon",
+		"displayName": "Zigzagoon",
 		"forms": [
 			{
 				"name": null,
@@ -3125,6 +3388,7 @@
 	{
 		"dexNumber": 264,
 		"name": "linoone",
+		"displayName": "Linoone",
 		"forms": [
 			{
 				"name": null,
@@ -3141,6 +3405,7 @@
 	{
 		"dexNumber": 265,
 		"name": "wurmple",
+		"displayName": "Wurmple",
 		"forms": [
 			{
 				"name": null,
@@ -3152,6 +3417,7 @@
 	{
 		"dexNumber": 266,
 		"name": "silcoon",
+		"displayName": "Silcoon",
 		"forms": [
 			{
 				"name": null,
@@ -3163,6 +3429,7 @@
 	{
 		"dexNumber": 267,
 		"name": "beautifly",
+		"displayName": "Beautifly",
 		"forms": [
 			{
 				"name": null,
@@ -3174,6 +3441,7 @@
 	{
 		"dexNumber": 268,
 		"name": "cascoon",
+		"displayName": "Cascoon",
 		"forms": [
 			{
 				"name": null,
@@ -3185,6 +3453,7 @@
 	{
 		"dexNumber": 269,
 		"name": "dustox",
+		"displayName": "Dustox",
 		"forms": [
 			{
 				"name": null,
@@ -3196,6 +3465,7 @@
 	{
 		"dexNumber": 270,
 		"name": "lotad",
+		"displayName": "Lotad",
 		"forms": [
 			{
 				"name": null,
@@ -3207,6 +3477,7 @@
 	{
 		"dexNumber": 271,
 		"name": "lombre",
+		"displayName": "Lombre",
 		"forms": [
 			{
 				"name": null,
@@ -3218,6 +3489,7 @@
 	{
 		"dexNumber": 272,
 		"name": "ludicolo",
+		"displayName": "Ludicolo",
 		"forms": [
 			{
 				"name": null,
@@ -3229,6 +3501,7 @@
 	{
 		"dexNumber": 273,
 		"name": "seedot",
+		"displayName": "Seedot",
 		"forms": [
 			{
 				"name": null,
@@ -3240,6 +3513,7 @@
 	{
 		"dexNumber": 274,
 		"name": "nuzleaf",
+		"displayName": "Nuzleaf",
 		"forms": [
 			{
 				"name": null,
@@ -3251,6 +3525,7 @@
 	{
 		"dexNumber": 275,
 		"name": "shiftry",
+		"displayName": "Shiftry",
 		"forms": [
 			{
 				"name": null,
@@ -3262,6 +3537,7 @@
 	{
 		"dexNumber": 276,
 		"name": "taillow",
+		"displayName": "Taillow",
 		"forms": [
 			{
 				"name": null,
@@ -3273,6 +3549,7 @@
 	{
 		"dexNumber": 277,
 		"name": "swellow",
+		"displayName": "Swellow",
 		"forms": [
 			{
 				"name": null,
@@ -3284,6 +3561,7 @@
 	{
 		"dexNumber": 278,
 		"name": "wingull",
+		"displayName": "Wingull",
 		"forms": [
 			{
 				"name": null,
@@ -3295,6 +3573,7 @@
 	{
 		"dexNumber": 279,
 		"name": "pelipper",
+		"displayName": "Pelipper",
 		"forms": [
 			{
 				"name": null,
@@ -3306,6 +3585,7 @@
 	{
 		"dexNumber": 280,
 		"name": "ralts",
+		"displayName": "Ralts",
 		"forms": [
 			{
 				"name": null,
@@ -3317,6 +3597,7 @@
 	{
 		"dexNumber": 281,
 		"name": "kirlia",
+		"displayName": "Kirlia",
 		"forms": [
 			{
 				"name": null,
@@ -3328,6 +3609,7 @@
 	{
 		"dexNumber": 282,
 		"name": "gardevoir",
+		"displayName": "Gardevoir",
 		"forms": [
 			{
 				"name": null,
@@ -3339,6 +3621,7 @@
 	{
 		"dexNumber": 283,
 		"name": "surskit",
+		"displayName": "Surskit",
 		"forms": [
 			{
 				"name": null,
@@ -3350,6 +3633,7 @@
 	{
 		"dexNumber": 284,
 		"name": "masquerain",
+		"displayName": "Masquerain",
 		"forms": [
 			{
 				"name": null,
@@ -3361,6 +3645,7 @@
 	{
 		"dexNumber": 285,
 		"name": "shroomish",
+		"displayName": "Shroomish",
 		"forms": [
 			{
 				"name": null,
@@ -3372,6 +3657,7 @@
 	{
 		"dexNumber": 286,
 		"name": "breloom",
+		"displayName": "Breloom",
 		"forms": [
 			{
 				"name": null,
@@ -3383,6 +3669,7 @@
 	{
 		"dexNumber": 287,
 		"name": "slakoth",
+		"displayName": "Slakoth",
 		"forms": [
 			{
 				"name": null,
@@ -3394,6 +3681,7 @@
 	{
 		"dexNumber": 288,
 		"name": "vigoroth",
+		"displayName": "Vigoroth",
 		"forms": [
 			{
 				"name": null,
@@ -3405,6 +3693,7 @@
 	{
 		"dexNumber": 289,
 		"name": "slaking",
+		"displayName": "Slaking",
 		"forms": [
 			{
 				"name": null,
@@ -3416,6 +3705,7 @@
 	{
 		"dexNumber": 290,
 		"name": "nincada",
+		"displayName": "Nincada",
 		"forms": [
 			{
 				"name": null,
@@ -3427,6 +3717,7 @@
 	{
 		"dexNumber": 291,
 		"name": "ninjask",
+		"displayName": "Ninjask",
 		"forms": [
 			{
 				"name": null,
@@ -3438,6 +3729,7 @@
 	{
 		"dexNumber": 292,
 		"name": "shedinja",
+		"displayName": "Shedinja",
 		"forms": [
 			{
 				"name": null,
@@ -3449,6 +3741,7 @@
 	{
 		"dexNumber": 293,
 		"name": "whismur",
+		"displayName": "Whismur",
 		"forms": [
 			{
 				"name": null,
@@ -3460,6 +3753,7 @@
 	{
 		"dexNumber": 294,
 		"name": "loudred",
+		"displayName": "Loudred",
 		"forms": [
 			{
 				"name": null,
@@ -3471,6 +3765,7 @@
 	{
 		"dexNumber": 295,
 		"name": "exploud",
+		"displayName": "Exploud",
 		"forms": [
 			{
 				"name": null,
@@ -3482,6 +3777,7 @@
 	{
 		"dexNumber": 296,
 		"name": "makuhita",
+		"displayName": "Makuhita",
 		"forms": [
 			{
 				"name": null,
@@ -3493,6 +3789,7 @@
 	{
 		"dexNumber": 297,
 		"name": "hariyama",
+		"displayName": "Hariyama",
 		"forms": [
 			{
 				"name": null,
@@ -3504,6 +3801,7 @@
 	{
 		"dexNumber": 298,
 		"name": "azurill",
+		"displayName": "Azurill",
 		"forms": [
 			{
 				"name": null,
@@ -3515,6 +3813,7 @@
 	{
 		"dexNumber": 299,
 		"name": "nosepass",
+		"displayName": "Nosepass",
 		"forms": [
 			{
 				"name": null,
@@ -3526,6 +3825,7 @@
 	{
 		"dexNumber": 300,
 		"name": "skitty",
+		"displayName": "Skitty",
 		"forms": [
 			{
 				"name": null,
@@ -3537,6 +3837,7 @@
 	{
 		"dexNumber": 301,
 		"name": "delcatty",
+		"displayName": "Delcatty",
 		"forms": [
 			{
 				"name": null,
@@ -3548,6 +3849,7 @@
 	{
 		"dexNumber": 302,
 		"name": "sableye",
+		"displayName": "Sableye",
 		"forms": [
 			{
 				"name": null,
@@ -3559,6 +3861,7 @@
 	{
 		"dexNumber": 303,
 		"name": "mawile",
+		"displayName": "Mawile",
 		"forms": [
 			{
 				"name": null,
@@ -3570,6 +3873,7 @@
 	{
 		"dexNumber": 304,
 		"name": "aron",
+		"displayName": "Aron",
 		"forms": [
 			{
 				"name": null,
@@ -3581,6 +3885,7 @@
 	{
 		"dexNumber": 305,
 		"name": "lairon",
+		"displayName": "Lairon",
 		"forms": [
 			{
 				"name": null,
@@ -3592,6 +3897,7 @@
 	{
 		"dexNumber": 306,
 		"name": "aggron",
+		"displayName": "Aggron",
 		"forms": [
 			{
 				"name": null,
@@ -3608,6 +3914,7 @@
 	{
 		"dexNumber": 307,
 		"name": "meditite",
+		"displayName": "Meditite",
 		"forms": [
 			{
 				"name": null,
@@ -3619,6 +3926,7 @@
 	{
 		"dexNumber": 308,
 		"name": "medicham",
+		"displayName": "Medicham",
 		"forms": [
 			{
 				"name": null,
@@ -3630,6 +3938,7 @@
 	{
 		"dexNumber": 309,
 		"name": "electrike",
+		"displayName": "Electrike",
 		"forms": [
 			{
 				"name": null,
@@ -3641,6 +3950,7 @@
 	{
 		"dexNumber": 310,
 		"name": "manectric",
+		"displayName": "Manectric",
 		"forms": [
 			{
 				"name": null,
@@ -3652,6 +3962,7 @@
 	{
 		"dexNumber": 311,
 		"name": "plusle",
+		"displayName": "Plusle",
 		"forms": [
 			{
 				"name": null,
@@ -3663,6 +3974,7 @@
 	{
 		"dexNumber": 312,
 		"name": "minun",
+		"displayName": "Minun",
 		"forms": [
 			{
 				"name": null,
@@ -3674,6 +3986,7 @@
 	{
 		"dexNumber": 313,
 		"name": "volbeat",
+		"displayName": "Volbeat",
 		"forms": [
 			{
 				"name": null,
@@ -3685,6 +3998,7 @@
 	{
 		"dexNumber": 314,
 		"name": "illumise",
+		"displayName": "Illumise",
 		"forms": [
 			{
 				"name": null,
@@ -3696,6 +4010,7 @@
 	{
 		"dexNumber": 315,
 		"name": "roselia",
+		"displayName": "Roselia",
 		"forms": [
 			{
 				"name": null,
@@ -3707,6 +4022,7 @@
 	{
 		"dexNumber": 316,
 		"name": "gulpin",
+		"displayName": "Gulpin",
 		"forms": [
 			{
 				"name": null,
@@ -3718,6 +4034,7 @@
 	{
 		"dexNumber": 317,
 		"name": "swalot",
+		"displayName": "Swalot",
 		"forms": [
 			{
 				"name": null,
@@ -3729,6 +4046,7 @@
 	{
 		"dexNumber": 318,
 		"name": "carvanha",
+		"displayName": "Carvanha",
 		"forms": [
 			{
 				"name": null,
@@ -3740,6 +4058,7 @@
 	{
 		"dexNumber": 319,
 		"name": "sharpedo",
+		"displayName": "Sharpedo",
 		"forms": [
 			{
 				"name": null,
@@ -3751,6 +4070,7 @@
 	{
 		"dexNumber": 320,
 		"name": "wailmer",
+		"displayName": "Wailmer",
 		"forms": [
 			{
 				"name": null,
@@ -3762,6 +4082,7 @@
 	{
 		"dexNumber": 321,
 		"name": "wailord",
+		"displayName": "Wailord",
 		"forms": [
 			{
 				"name": null,
@@ -3773,6 +4094,7 @@
 	{
 		"dexNumber": 322,
 		"name": "numel",
+		"displayName": "Numel",
 		"forms": [
 			{
 				"name": null,
@@ -3784,6 +4106,7 @@
 	{
 		"dexNumber": 323,
 		"name": "camerupt",
+		"displayName": "Camerupt",
 		"forms": [
 			{
 				"name": null,
@@ -3795,6 +4118,7 @@
 	{
 		"dexNumber": 324,
 		"name": "torkoal",
+		"displayName": "Torkoal",
 		"forms": [
 			{
 				"name": null,
@@ -3806,6 +4130,7 @@
 	{
 		"dexNumber": 325,
 		"name": "spoink",
+		"displayName": "Spoink",
 		"forms": [
 			{
 				"name": null,
@@ -3817,6 +4142,7 @@
 	{
 		"dexNumber": 326,
 		"name": "grumpig",
+		"displayName": "Grumpig",
 		"forms": [
 			{
 				"name": null,
@@ -3828,6 +4154,7 @@
 	{
 		"dexNumber": 327,
 		"name": "spinda",
+		"displayName": "Spinda",
 		"forms": [
 			{
 				"name": null,
@@ -3839,6 +4166,7 @@
 	{
 		"dexNumber": 328,
 		"name": "trapinch",
+		"displayName": "Trapinch",
 		"forms": [
 			{
 				"name": null,
@@ -3850,6 +4178,7 @@
 	{
 		"dexNumber": 329,
 		"name": "vibrava",
+		"displayName": "Vibrava",
 		"forms": [
 			{
 				"name": null,
@@ -3861,6 +4190,7 @@
 	{
 		"dexNumber": 330,
 		"name": "flygon",
+		"displayName": "Flygon",
 		"forms": [
 			{
 				"name": null,
@@ -3872,6 +4202,7 @@
 	{
 		"dexNumber": 331,
 		"name": "cacnea",
+		"displayName": "Cacnea",
 		"forms": [
 			{
 				"name": null,
@@ -3883,6 +4214,7 @@
 	{
 		"dexNumber": 332,
 		"name": "cacturne",
+		"displayName": "Cacturne",
 		"forms": [
 			{
 				"name": null,
@@ -3894,6 +4226,7 @@
 	{
 		"dexNumber": 333,
 		"name": "swablu",
+		"displayName": "Swablu",
 		"forms": [
 			{
 				"name": null,
@@ -3905,6 +4238,7 @@
 	{
 		"dexNumber": 334,
 		"name": "altaria",
+		"displayName": "Altaria",
 		"forms": [
 			{
 				"name": null,
@@ -3921,6 +4255,7 @@
 	{
 		"dexNumber": 335,
 		"name": "zangoose",
+		"displayName": "Zangoose",
 		"forms": [
 			{
 				"name": null,
@@ -3932,6 +4267,7 @@
 	{
 		"dexNumber": 336,
 		"name": "seviper",
+		"displayName": "Seviper",
 		"forms": [
 			{
 				"name": null,
@@ -3943,6 +4279,7 @@
 	{
 		"dexNumber": 337,
 		"name": "lunatone",
+		"displayName": "Lunatone",
 		"forms": [
 			{
 				"name": null,
@@ -3954,6 +4291,7 @@
 	{
 		"dexNumber": 338,
 		"name": "solrock",
+		"displayName": "Solrock",
 		"forms": [
 			{
 				"name": null,
@@ -3965,6 +4303,7 @@
 	{
 		"dexNumber": 339,
 		"name": "barboach",
+		"displayName": "Barboach",
 		"forms": [
 			{
 				"name": null,
@@ -3976,6 +4315,7 @@
 	{
 		"dexNumber": 340,
 		"name": "whiscash",
+		"displayName": "Whiscash",
 		"forms": [
 			{
 				"name": null,
@@ -3987,6 +4327,7 @@
 	{
 		"dexNumber": 341,
 		"name": "corphish",
+		"displayName": "Corphish",
 		"forms": [
 			{
 				"name": null,
@@ -3998,6 +4339,7 @@
 	{
 		"dexNumber": 342,
 		"name": "crawdaunt",
+		"displayName": "Crawdaunt",
 		"forms": [
 			{
 				"name": null,
@@ -4009,6 +4351,7 @@
 	{
 		"dexNumber": 343,
 		"name": "baltoy",
+		"displayName": "Baltoy",
 		"forms": [
 			{
 				"name": null,
@@ -4020,6 +4363,7 @@
 	{
 		"dexNumber": 344,
 		"name": "claydol",
+		"displayName": "Claydol",
 		"forms": [
 			{
 				"name": null,
@@ -4031,6 +4375,7 @@
 	{
 		"dexNumber": 345,
 		"name": "lileep",
+		"displayName": "Lileep",
 		"forms": [
 			{
 				"name": null,
@@ -4042,6 +4387,7 @@
 	{
 		"dexNumber": 346,
 		"name": "cradily",
+		"displayName": "Cradily",
 		"forms": [
 			{
 				"name": null,
@@ -4053,6 +4399,7 @@
 	{
 		"dexNumber": 347,
 		"name": "anorith",
+		"displayName": "Anorith",
 		"forms": [
 			{
 				"name": null,
@@ -4064,6 +4411,7 @@
 	{
 		"dexNumber": 348,
 		"name": "armaldo",
+		"displayName": "Armaldo",
 		"forms": [
 			{
 				"name": null,
@@ -4075,6 +4423,7 @@
 	{
 		"dexNumber": 349,
 		"name": "feebas",
+		"displayName": "Feebas",
 		"forms": [
 			{
 				"name": null,
@@ -4086,6 +4435,7 @@
 	{
 		"dexNumber": 350,
 		"name": "milotic",
+		"displayName": "Milotic",
 		"forms": [
 			{
 				"name": null,
@@ -4097,6 +4447,7 @@
 	{
 		"dexNumber": 351,
 		"name": "castform",
+		"displayName": "Castform",
 		"forms": [
 			{
 				"name": null,
@@ -4123,6 +4474,7 @@
 	{
 		"dexNumber": 352,
 		"name": "kecleon",
+		"displayName": "Kecleon",
 		"forms": [
 			{
 				"name": null,
@@ -4134,6 +4486,7 @@
 	{
 		"dexNumber": 353,
 		"name": "shuppet",
+		"displayName": "Shuppet",
 		"forms": [
 			{
 				"name": null,
@@ -4145,6 +4498,7 @@
 	{
 		"dexNumber": 354,
 		"name": "banette",
+		"displayName": "Banette",
 		"forms": [
 			{
 				"name": null,
@@ -4156,6 +4510,7 @@
 	{
 		"dexNumber": 355,
 		"name": "duskull",
+		"displayName": "Duskull",
 		"forms": [
 			{
 				"name": null,
@@ -4167,6 +4522,7 @@
 	{
 		"dexNumber": 356,
 		"name": "dusclops",
+		"displayName": "Dusclops",
 		"forms": [
 			{
 				"name": null,
@@ -4178,6 +4534,7 @@
 	{
 		"dexNumber": 357,
 		"name": "tropius",
+		"displayName": "Tropius",
 		"forms": [
 			{
 				"name": null,
@@ -4189,6 +4546,7 @@
 	{
 		"dexNumber": 358,
 		"name": "chimecho",
+		"displayName": "Chimecho",
 		"forms": [
 			{
 				"name": null,
@@ -4200,6 +4558,7 @@
 	{
 		"dexNumber": 359,
 		"name": "absol",
+		"displayName": "Absol",
 		"forms": [
 			{
 				"name": null,
@@ -4211,6 +4570,7 @@
 	{
 		"dexNumber": 360,
 		"name": "wynaut",
+		"displayName": "Wynaut",
 		"forms": [
 			{
 				"name": null,
@@ -4222,6 +4582,7 @@
 	{
 		"dexNumber": 361,
 		"name": "snorunt",
+		"displayName": "Snorunt",
 		"forms": [
 			{
 				"name": null,
@@ -4233,6 +4594,7 @@
 	{
 		"dexNumber": 362,
 		"name": "glalie",
+		"displayName": "Glalie",
 		"forms": [
 			{
 				"name": null,
@@ -4244,6 +4606,7 @@
 	{
 		"dexNumber": 363,
 		"name": "spheal",
+		"displayName": "Spheal",
 		"forms": [
 			{
 				"name": null,
@@ -4255,6 +4618,7 @@
 	{
 		"dexNumber": 364,
 		"name": "sealeo",
+		"displayName": "Sealeo",
 		"forms": [
 			{
 				"name": null,
@@ -4266,6 +4630,7 @@
 	{
 		"dexNumber": 365,
 		"name": "walrein",
+		"displayName": "Walrein",
 		"forms": [
 			{
 				"name": null,
@@ -4277,6 +4642,7 @@
 	{
 		"dexNumber": 366,
 		"name": "clamperl",
+		"displayName": "Clamperl",
 		"forms": [
 			{
 				"name": null,
@@ -4288,6 +4654,7 @@
 	{
 		"dexNumber": 367,
 		"name": "huntail",
+		"displayName": "Huntail",
 		"forms": [
 			{
 				"name": null,
@@ -4299,6 +4666,7 @@
 	{
 		"dexNumber": 368,
 		"name": "gorebyss",
+		"displayName": "Gorebyss",
 		"forms": [
 			{
 				"name": null,
@@ -4310,6 +4678,7 @@
 	{
 		"dexNumber": 369,
 		"name": "relicanth",
+		"displayName": "Relicanth",
 		"forms": [
 			{
 				"name": null,
@@ -4321,6 +4690,7 @@
 	{
 		"dexNumber": 370,
 		"name": "luvdisc",
+		"displayName": "Luvdisc",
 		"forms": [
 			{
 				"name": null,
@@ -4332,6 +4702,7 @@
 	{
 		"dexNumber": 371,
 		"name": "bagon",
+		"displayName": "Bagon",
 		"forms": [
 			{
 				"name": null,
@@ -4343,6 +4714,7 @@
 	{
 		"dexNumber": 372,
 		"name": "shelgon",
+		"displayName": "Shelgon",
 		"forms": [
 			{
 				"name": null,
@@ -4354,6 +4726,7 @@
 	{
 		"dexNumber": 373,
 		"name": "salamence",
+		"displayName": "Salamence",
 		"forms": [
 			{
 				"name": null,
@@ -4365,6 +4738,7 @@
 	{
 		"dexNumber": 374,
 		"name": "beldum",
+		"displayName": "Beldum",
 		"forms": [
 			{
 				"name": null,
@@ -4376,6 +4750,7 @@
 	{
 		"dexNumber": 375,
 		"name": "metang",
+		"displayName": "Metang",
 		"forms": [
 			{
 				"name": null,
@@ -4387,6 +4762,7 @@
 	{
 		"dexNumber": 376,
 		"name": "metagross",
+		"displayName": "Metagross",
 		"forms": [
 			{
 				"name": null,
@@ -4398,6 +4774,7 @@
 	{
 		"dexNumber": 377,
 		"name": "regirock",
+		"displayName": "Regirock",
 		"forms": [
 			{
 				"name": null,
@@ -4409,6 +4786,7 @@
 	{
 		"dexNumber": 378,
 		"name": "regice",
+		"displayName": "Regice",
 		"forms": [
 			{
 				"name": null,
@@ -4420,6 +4798,7 @@
 	{
 		"dexNumber": 379,
 		"name": "registeel",
+		"displayName": "Registeel",
 		"forms": [
 			{
 				"name": null,
@@ -4431,6 +4810,7 @@
 	{
 		"dexNumber": 380,
 		"name": "latias",
+		"displayName": "Latias",
 		"forms": [
 			{
 				"name": null,
@@ -4442,6 +4822,7 @@
 	{
 		"dexNumber": 381,
 		"name": "latios",
+		"displayName": "Latios",
 		"forms": [
 			{
 				"name": null,
@@ -4453,6 +4834,7 @@
 	{
 		"dexNumber": 382,
 		"name": "kyogre",
+		"displayName": "Kyogre",
 		"forms": [
 			{
 				"name": null,
@@ -4464,6 +4846,7 @@
 	{
 		"dexNumber": 383,
 		"name": "groudon",
+		"displayName": "Groudon",
 		"forms": [
 			{
 				"name": null,
@@ -4480,6 +4863,7 @@
 	{
 		"dexNumber": 384,
 		"name": "rayquaza",
+		"displayName": "Rayquaza",
 		"forms": [
 			{
 				"name": null,
@@ -4491,6 +4875,7 @@
 	{
 		"dexNumber": 385,
 		"name": "jirachi",
+		"displayName": "Jirachi",
 		"forms": [
 			{
 				"name": null,
@@ -4502,6 +4887,7 @@
 	{
 		"dexNumber": 386,
 		"name": "deoxys",
+		"displayName": "Deoxys",
 		"forms": [
 			{
 				"name": "normal",
@@ -4513,6 +4899,7 @@
 	{
 		"dexNumber": 387,
 		"name": "turtwig",
+		"displayName": "Turtwig",
 		"forms": [
 			{
 				"name": null,
@@ -4524,6 +4911,7 @@
 	{
 		"dexNumber": 388,
 		"name": "grotle",
+		"displayName": "Grotle",
 		"forms": [
 			{
 				"name": null,
@@ -4535,6 +4923,7 @@
 	{
 		"dexNumber": 389,
 		"name": "torterra",
+		"displayName": "Torterra",
 		"forms": [
 			{
 				"name": null,
@@ -4546,6 +4935,7 @@
 	{
 		"dexNumber": 390,
 		"name": "chimchar",
+		"displayName": "Chimchar",
 		"forms": [
 			{
 				"name": null,
@@ -4557,6 +4947,7 @@
 	{
 		"dexNumber": 391,
 		"name": "monferno",
+		"displayName": "Monferno",
 		"forms": [
 			{
 				"name": null,
@@ -4568,6 +4959,7 @@
 	{
 		"dexNumber": 392,
 		"name": "infernape",
+		"displayName": "Infernape",
 		"forms": [
 			{
 				"name": null,
@@ -4579,6 +4971,7 @@
 	{
 		"dexNumber": 393,
 		"name": "piplup",
+		"displayName": "Piplup",
 		"forms": [
 			{
 				"name": null,
@@ -4590,6 +4983,7 @@
 	{
 		"dexNumber": 394,
 		"name": "prinplup",
+		"displayName": "Prinplup",
 		"forms": [
 			{
 				"name": null,
@@ -4601,6 +4995,7 @@
 	{
 		"dexNumber": 395,
 		"name": "empoleon",
+		"displayName": "Empoleon",
 		"forms": [
 			{
 				"name": null,
@@ -4612,6 +5007,7 @@
 	{
 		"dexNumber": 396,
 		"name": "starly",
+		"displayName": "Starly",
 		"forms": [
 			{
 				"name": null,
@@ -4623,6 +5019,7 @@
 	{
 		"dexNumber": 397,
 		"name": "staravia",
+		"displayName": "Staravia",
 		"forms": [
 			{
 				"name": null,
@@ -4634,6 +5031,7 @@
 	{
 		"dexNumber": 398,
 		"name": "staraptor",
+		"displayName": "Staraptor",
 		"forms": [
 			{
 				"name": null,
@@ -4645,6 +5043,7 @@
 	{
 		"dexNumber": 399,
 		"name": "bidoof",
+		"displayName": "Bidoof",
 		"forms": [
 			{
 				"name": null,
@@ -4656,6 +5055,7 @@
 	{
 		"dexNumber": 400,
 		"name": "bibarel",
+		"displayName": "Bibarel",
 		"forms": [
 			{
 				"name": null,
@@ -4667,6 +5067,7 @@
 	{
 		"dexNumber": 401,
 		"name": "kricketot",
+		"displayName": "Kricketot",
 		"forms": [
 			{
 				"name": null,
@@ -4678,6 +5079,7 @@
 	{
 		"dexNumber": 402,
 		"name": "kricketune",
+		"displayName": "Kricketune",
 		"forms": [
 			{
 				"name": null,
@@ -4689,6 +5091,7 @@
 	{
 		"dexNumber": 403,
 		"name": "shinx",
+		"displayName": "Shinx",
 		"forms": [
 			{
 				"name": null,
@@ -4700,6 +5103,7 @@
 	{
 		"dexNumber": 404,
 		"name": "luxio",
+		"displayName": "Luxio",
 		"forms": [
 			{
 				"name": null,
@@ -4711,6 +5115,7 @@
 	{
 		"dexNumber": 405,
 		"name": "luxray",
+		"displayName": "Luxray",
 		"forms": [
 			{
 				"name": null,
@@ -4722,6 +5127,7 @@
 	{
 		"dexNumber": 406,
 		"name": "budew",
+		"displayName": "Budew",
 		"forms": [
 			{
 				"name": null,
@@ -4733,6 +5139,7 @@
 	{
 		"dexNumber": 407,
 		"name": "roserade",
+		"displayName": "Roserade",
 		"forms": [
 			{
 				"name": null,
@@ -4744,6 +5151,7 @@
 	{
 		"dexNumber": 408,
 		"name": "cranidos",
+		"displayName": "Cranidos",
 		"forms": [
 			{
 				"name": null,
@@ -4755,6 +5163,7 @@
 	{
 		"dexNumber": 409,
 		"name": "rampardos",
+		"displayName": "Rampardos",
 		"forms": [
 			{
 				"name": null,
@@ -4766,6 +5175,7 @@
 	{
 		"dexNumber": 410,
 		"name": "shieldon",
+		"displayName": "Shieldon",
 		"forms": [
 			{
 				"name": null,
@@ -4777,6 +5187,7 @@
 	{
 		"dexNumber": 411,
 		"name": "bastiodon",
+		"displayName": "Bastiodon",
 		"forms": [
 			{
 				"name": null,
@@ -4788,6 +5199,7 @@
 	{
 		"dexNumber": 412,
 		"name": "burmy",
+		"displayName": "Burmy",
 		"forms": [
 			{
 				"name": null,
@@ -4799,6 +5211,7 @@
 	{
 		"dexNumber": 413,
 		"name": "wormadam",
+		"displayName": "Wormadam",
 		"forms": [
 			{
 				"name": "plant",
@@ -4820,6 +5233,7 @@
 	{
 		"dexNumber": 414,
 		"name": "mothim",
+		"displayName": "Mothim",
 		"forms": [
 			{
 				"name": null,
@@ -4831,6 +5245,7 @@
 	{
 		"dexNumber": 415,
 		"name": "combee",
+		"displayName": "Combee",
 		"forms": [
 			{
 				"name": null,
@@ -4842,6 +5257,7 @@
 	{
 		"dexNumber": 416,
 		"name": "vespiquen",
+		"displayName": "Vespiquen",
 		"forms": [
 			{
 				"name": null,
@@ -4853,6 +5269,7 @@
 	{
 		"dexNumber": 417,
 		"name": "pachirisu",
+		"displayName": "Pachirisu",
 		"forms": [
 			{
 				"name": null,
@@ -4864,6 +5281,7 @@
 	{
 		"dexNumber": 418,
 		"name": "buizel",
+		"displayName": "Buizel",
 		"forms": [
 			{
 				"name": null,
@@ -4875,6 +5293,7 @@
 	{
 		"dexNumber": 419,
 		"name": "floatzel",
+		"displayName": "Floatzel",
 		"forms": [
 			{
 				"name": null,
@@ -4886,6 +5305,7 @@
 	{
 		"dexNumber": 420,
 		"name": "cherubi",
+		"displayName": "Cherubi",
 		"forms": [
 			{
 				"name": null,
@@ -4897,6 +5317,7 @@
 	{
 		"dexNumber": 421,
 		"name": "cherrim",
+		"displayName": "Cherrim",
 		"forms": [
 			{
 				"name": null,
@@ -4908,6 +5329,7 @@
 	{
 		"dexNumber": 422,
 		"name": "shellos",
+		"displayName": "Shellos",
 		"forms": [
 			{
 				"name": null,
@@ -4919,6 +5341,7 @@
 	{
 		"dexNumber": 423,
 		"name": "gastrodon",
+		"displayName": "Gastrodon",
 		"forms": [
 			{
 				"name": null,
@@ -4930,6 +5353,7 @@
 	{
 		"dexNumber": 424,
 		"name": "ambipom",
+		"displayName": "Ambipom",
 		"forms": [
 			{
 				"name": null,
@@ -4941,6 +5365,7 @@
 	{
 		"dexNumber": 425,
 		"name": "drifloon",
+		"displayName": "Drifloon",
 		"forms": [
 			{
 				"name": null,
@@ -4952,6 +5377,7 @@
 	{
 		"dexNumber": 426,
 		"name": "drifblim",
+		"displayName": "Drifblim",
 		"forms": [
 			{
 				"name": null,
@@ -4963,6 +5389,7 @@
 	{
 		"dexNumber": 427,
 		"name": "buneary",
+		"displayName": "Buneary",
 		"forms": [
 			{
 				"name": null,
@@ -4974,6 +5401,7 @@
 	{
 		"dexNumber": 428,
 		"name": "lopunny",
+		"displayName": "Lopunny",
 		"forms": [
 			{
 				"name": null,
@@ -4990,6 +5418,7 @@
 	{
 		"dexNumber": 429,
 		"name": "mismagius",
+		"displayName": "Mismagius",
 		"forms": [
 			{
 				"name": null,
@@ -5001,6 +5430,7 @@
 	{
 		"dexNumber": 430,
 		"name": "honchkrow",
+		"displayName": "Honchkrow",
 		"forms": [
 			{
 				"name": null,
@@ -5012,6 +5442,7 @@
 	{
 		"dexNumber": 431,
 		"name": "glameow",
+		"displayName": "Glameow",
 		"forms": [
 			{
 				"name": null,
@@ -5023,6 +5454,7 @@
 	{
 		"dexNumber": 432,
 		"name": "purugly",
+		"displayName": "Purugly",
 		"forms": [
 			{
 				"name": null,
@@ -5034,6 +5466,7 @@
 	{
 		"dexNumber": 433,
 		"name": "chingling",
+		"displayName": "Chingling",
 		"forms": [
 			{
 				"name": null,
@@ -5045,6 +5478,7 @@
 	{
 		"dexNumber": 434,
 		"name": "stunky",
+		"displayName": "Stunky",
 		"forms": [
 			{
 				"name": null,
@@ -5056,6 +5490,7 @@
 	{
 		"dexNumber": 435,
 		"name": "skuntank",
+		"displayName": "Skuntank",
 		"forms": [
 			{
 				"name": null,
@@ -5067,6 +5502,7 @@
 	{
 		"dexNumber": 436,
 		"name": "bronzor",
+		"displayName": "Bronzor",
 		"forms": [
 			{
 				"name": null,
@@ -5078,6 +5514,7 @@
 	{
 		"dexNumber": 437,
 		"name": "bronzong",
+		"displayName": "Bronzong",
 		"forms": [
 			{
 				"name": null,
@@ -5089,6 +5526,7 @@
 	{
 		"dexNumber": 438,
 		"name": "bonsly",
+		"displayName": "Bonsly",
 		"forms": [
 			{
 				"name": null,
@@ -5100,6 +5538,7 @@
 	{
 		"dexNumber": 439,
 		"name": "mime-jr",
+		"displayName": "Mime Jr.",
 		"forms": [
 			{
 				"name": null,
@@ -5111,6 +5550,7 @@
 	{
 		"dexNumber": 440,
 		"name": "happiny",
+		"displayName": "Happiny",
 		"forms": [
 			{
 				"name": null,
@@ -5122,6 +5562,7 @@
 	{
 		"dexNumber": 441,
 		"name": "chatot",
+		"displayName": "Chatot",
 		"forms": [
 			{
 				"name": null,
@@ -5133,6 +5574,7 @@
 	{
 		"dexNumber": 442,
 		"name": "spiritomb",
+		"displayName": "Spiritomb",
 		"forms": [
 			{
 				"name": null,
@@ -5144,6 +5586,7 @@
 	{
 		"dexNumber": 443,
 		"name": "gible",
+		"displayName": "Gible",
 		"forms": [
 			{
 				"name": null,
@@ -5155,6 +5598,7 @@
 	{
 		"dexNumber": 444,
 		"name": "gabite",
+		"displayName": "Gabite",
 		"forms": [
 			{
 				"name": null,
@@ -5166,6 +5610,7 @@
 	{
 		"dexNumber": 445,
 		"name": "garchomp",
+		"displayName": "Garchomp",
 		"forms": [
 			{
 				"name": null,
@@ -5177,6 +5622,7 @@
 	{
 		"dexNumber": 446,
 		"name": "munchlax",
+		"displayName": "Munchlax",
 		"forms": [
 			{
 				"name": null,
@@ -5188,6 +5634,7 @@
 	{
 		"dexNumber": 447,
 		"name": "riolu",
+		"displayName": "Riolu",
 		"forms": [
 			{
 				"name": null,
@@ -5199,6 +5646,7 @@
 	{
 		"dexNumber": 448,
 		"name": "lucario",
+		"displayName": "Lucario",
 		"forms": [
 			{
 				"name": null,
@@ -5210,6 +5658,7 @@
 	{
 		"dexNumber": 449,
 		"name": "hippopotas",
+		"displayName": "Hippopotas",
 		"forms": [
 			{
 				"name": null,
@@ -5221,6 +5670,7 @@
 	{
 		"dexNumber": 450,
 		"name": "hippowdon",
+		"displayName": "Hippowdon",
 		"forms": [
 			{
 				"name": null,
@@ -5232,6 +5682,7 @@
 	{
 		"dexNumber": 451,
 		"name": "skorupi",
+		"displayName": "Skorupi",
 		"forms": [
 			{
 				"name": null,
@@ -5243,6 +5694,7 @@
 	{
 		"dexNumber": 452,
 		"name": "drapion",
+		"displayName": "Drapion",
 		"forms": [
 			{
 				"name": null,
@@ -5254,6 +5706,7 @@
 	{
 		"dexNumber": 453,
 		"name": "croagunk",
+		"displayName": "Croagunk",
 		"forms": [
 			{
 				"name": null,
@@ -5265,6 +5718,7 @@
 	{
 		"dexNumber": 454,
 		"name": "toxicroak",
+		"displayName": "Toxicroak",
 		"forms": [
 			{
 				"name": null,
@@ -5276,6 +5730,7 @@
 	{
 		"dexNumber": 455,
 		"name": "carnivine",
+		"displayName": "Carnivine",
 		"forms": [
 			{
 				"name": null,
@@ -5287,6 +5742,7 @@
 	{
 		"dexNumber": 456,
 		"name": "finneon",
+		"displayName": "Finneon",
 		"forms": [
 			{
 				"name": null,
@@ -5298,6 +5754,7 @@
 	{
 		"dexNumber": 457,
 		"name": "lumineon",
+		"displayName": "Lumineon",
 		"forms": [
 			{
 				"name": null,
@@ -5309,6 +5766,7 @@
 	{
 		"dexNumber": 458,
 		"name": "mantyke",
+		"displayName": "Mantyke",
 		"forms": [
 			{
 				"name": null,
@@ -5320,6 +5778,7 @@
 	{
 		"dexNumber": 459,
 		"name": "snover",
+		"displayName": "Snover",
 		"forms": [
 			{
 				"name": null,
@@ -5331,6 +5790,7 @@
 	{
 		"dexNumber": 460,
 		"name": "abomasnow",
+		"displayName": "Abomasnow",
 		"forms": [
 			{
 				"name": null,
@@ -5342,6 +5802,7 @@
 	{
 		"dexNumber": 461,
 		"name": "weavile",
+		"displayName": "Weavile",
 		"forms": [
 			{
 				"name": null,
@@ -5353,6 +5814,7 @@
 	{
 		"dexNumber": 462,
 		"name": "magnezone",
+		"displayName": "Magnezone",
 		"forms": [
 			{
 				"name": null,
@@ -5364,6 +5826,7 @@
 	{
 		"dexNumber": 463,
 		"name": "lickilicky",
+		"displayName": "Lickilicky",
 		"forms": [
 			{
 				"name": null,
@@ -5375,6 +5838,7 @@
 	{
 		"dexNumber": 464,
 		"name": "rhyperior",
+		"displayName": "Rhyperior",
 		"forms": [
 			{
 				"name": null,
@@ -5386,6 +5850,7 @@
 	{
 		"dexNumber": 465,
 		"name": "tangrowth",
+		"displayName": "Tangrowth",
 		"forms": [
 			{
 				"name": null,
@@ -5397,6 +5862,7 @@
 	{
 		"dexNumber": 466,
 		"name": "electivire",
+		"displayName": "Electivire",
 		"forms": [
 			{
 				"name": null,
@@ -5408,6 +5874,7 @@
 	{
 		"dexNumber": 467,
 		"name": "magmortar",
+		"displayName": "Magmortar",
 		"forms": [
 			{
 				"name": null,
@@ -5419,6 +5886,7 @@
 	{
 		"dexNumber": 468,
 		"name": "togekiss",
+		"displayName": "Togekiss",
 		"forms": [
 			{
 				"name": null,
@@ -5430,6 +5898,7 @@
 	{
 		"dexNumber": 469,
 		"name": "yanmega",
+		"displayName": "Yanmega",
 		"forms": [
 			{
 				"name": null,
@@ -5441,6 +5910,7 @@
 	{
 		"dexNumber": 470,
 		"name": "leafeon",
+		"displayName": "Leafeon",
 		"forms": [
 			{
 				"name": null,
@@ -5452,6 +5922,7 @@
 	{
 		"dexNumber": 471,
 		"name": "glaceon",
+		"displayName": "Glaceon",
 		"forms": [
 			{
 				"name": null,
@@ -5463,6 +5934,7 @@
 	{
 		"dexNumber": 472,
 		"name": "gliscor",
+		"displayName": "Gliscor",
 		"forms": [
 			{
 				"name": null,
@@ -5474,6 +5946,7 @@
 	{
 		"dexNumber": 473,
 		"name": "mamoswine",
+		"displayName": "Mamoswine",
 		"forms": [
 			{
 				"name": null,
@@ -5485,6 +5958,7 @@
 	{
 		"dexNumber": 474,
 		"name": "porygon-z",
+		"displayName": "Porygon-Z",
 		"forms": [
 			{
 				"name": null,
@@ -5496,6 +5970,7 @@
 	{
 		"dexNumber": 475,
 		"name": "gallade",
+		"displayName": "Gallade",
 		"forms": [
 			{
 				"name": null,
@@ -5507,6 +5982,7 @@
 	{
 		"dexNumber": 476,
 		"name": "probopass",
+		"displayName": "Probopass",
 		"forms": [
 			{
 				"name": null,
@@ -5518,6 +5994,7 @@
 	{
 		"dexNumber": 477,
 		"name": "dusknoir",
+		"displayName": "Dusknoir",
 		"forms": [
 			{
 				"name": null,
@@ -5529,6 +6006,7 @@
 	{
 		"dexNumber": 478,
 		"name": "froslass",
+		"displayName": "Froslass",
 		"forms": [
 			{
 				"name": null,
@@ -5540,6 +6018,7 @@
 	{
 		"dexNumber": 479,
 		"name": "rotom",
+		"displayName": "Rotom",
 		"forms": [
 			{
 				"name": null,
@@ -5576,6 +6055,7 @@
 	{
 		"dexNumber": 480,
 		"name": "uxie",
+		"displayName": "Uxie",
 		"forms": [
 			{
 				"name": null,
@@ -5587,6 +6067,7 @@
 	{
 		"dexNumber": 481,
 		"name": "mesprit",
+		"displayName": "Mesprit",
 		"forms": [
 			{
 				"name": null,
@@ -5598,6 +6079,7 @@
 	{
 		"dexNumber": 482,
 		"name": "azelf",
+		"displayName": "Azelf",
 		"forms": [
 			{
 				"name": null,
@@ -5609,6 +6091,7 @@
 	{
 		"dexNumber": 483,
 		"name": "dialga",
+		"displayName": "Dialga",
 		"forms": [
 			{
 				"name": null,
@@ -5620,6 +6103,7 @@
 	{
 		"dexNumber": 484,
 		"name": "palkia",
+		"displayName": "Palkia",
 		"forms": [
 			{
 				"name": null,
@@ -5631,6 +6115,7 @@
 	{
 		"dexNumber": 485,
 		"name": "heatran",
+		"displayName": "Heatran",
 		"forms": [
 			{
 				"name": null,
@@ -5642,6 +6127,7 @@
 	{
 		"dexNumber": 486,
 		"name": "regigigas",
+		"displayName": "Regigigas",
 		"forms": [
 			{
 				"name": null,
@@ -5653,6 +6139,7 @@
 	{
 		"dexNumber": 487,
 		"name": "giratina",
+		"displayName": "Giratina",
 		"forms": [
 			{
 				"name": "altered",
@@ -5664,6 +6151,7 @@
 	{
 		"dexNumber": 488,
 		"name": "cresselia",
+		"displayName": "Cresselia",
 		"forms": [
 			{
 				"name": null,
@@ -5675,6 +6163,7 @@
 	{
 		"dexNumber": 489,
 		"name": "phione",
+		"displayName": "Phione",
 		"forms": [
 			{
 				"name": null,
@@ -5686,6 +6175,7 @@
 	{
 		"dexNumber": 490,
 		"name": "manaphy",
+		"displayName": "Manaphy",
 		"forms": [
 			{
 				"name": null,
@@ -5697,6 +6187,7 @@
 	{
 		"dexNumber": 491,
 		"name": "darkrai",
+		"displayName": "Darkrai",
 		"forms": [
 			{
 				"name": null,
@@ -5708,6 +6199,7 @@
 	{
 		"dexNumber": 492,
 		"name": "shaymin",
+		"displayName": "Shaymin",
 		"forms": [
 			{
 				"name": "land",
@@ -5724,6 +6216,7 @@
 	{
 		"dexNumber": 493,
 		"name": "arceus",
+		"displayName": "Arceus",
 		"forms": [
 			{
 				"name": null,
@@ -5735,6 +6228,7 @@
 	{
 		"dexNumber": 494,
 		"name": "victini",
+		"displayName": "Victini",
 		"forms": [
 			{
 				"name": null,
@@ -5746,6 +6240,7 @@
 	{
 		"dexNumber": 495,
 		"name": "snivy",
+		"displayName": "Snivy",
 		"forms": [
 			{
 				"name": null,
@@ -5757,6 +6252,7 @@
 	{
 		"dexNumber": 496,
 		"name": "servine",
+		"displayName": "Servine",
 		"forms": [
 			{
 				"name": null,
@@ -5768,6 +6264,7 @@
 	{
 		"dexNumber": 497,
 		"name": "serperior",
+		"displayName": "Serperior",
 		"forms": [
 			{
 				"name": null,
@@ -5779,6 +6276,7 @@
 	{
 		"dexNumber": 498,
 		"name": "tepig",
+		"displayName": "Tepig",
 		"forms": [
 			{
 				"name": null,
@@ -5790,6 +6288,7 @@
 	{
 		"dexNumber": 499,
 		"name": "pignite",
+		"displayName": "Pignite",
 		"forms": [
 			{
 				"name": null,
@@ -5801,6 +6300,7 @@
 	{
 		"dexNumber": 500,
 		"name": "emboar",
+		"displayName": "Emboar",
 		"forms": [
 			{
 				"name": null,
@@ -5812,6 +6312,7 @@
 	{
 		"dexNumber": 501,
 		"name": "oshawott",
+		"displayName": "Oshawott",
 		"forms": [
 			{
 				"name": null,
@@ -5823,6 +6324,7 @@
 	{
 		"dexNumber": 502,
 		"name": "dewott",
+		"displayName": "Dewott",
 		"forms": [
 			{
 				"name": null,
@@ -5834,6 +6336,7 @@
 	{
 		"dexNumber": 503,
 		"name": "samurott",
+		"displayName": "Samurott",
 		"forms": [
 			{
 				"name": null,
@@ -5850,6 +6353,7 @@
 	{
 		"dexNumber": 504,
 		"name": "patrat",
+		"displayName": "Patrat",
 		"forms": [
 			{
 				"name": null,
@@ -5861,6 +6365,7 @@
 	{
 		"dexNumber": 505,
 		"name": "watchog",
+		"displayName": "Watchog",
 		"forms": [
 			{
 				"name": null,
@@ -5872,6 +6377,7 @@
 	{
 		"dexNumber": 506,
 		"name": "lillipup",
+		"displayName": "Lillipup",
 		"forms": [
 			{
 				"name": null,
@@ -5883,6 +6389,7 @@
 	{
 		"dexNumber": 507,
 		"name": "herdier",
+		"displayName": "Herdier",
 		"forms": [
 			{
 				"name": null,
@@ -5894,6 +6401,7 @@
 	{
 		"dexNumber": 508,
 		"name": "stoutland",
+		"displayName": "Stoutland",
 		"forms": [
 			{
 				"name": null,
@@ -5905,6 +6413,7 @@
 	{
 		"dexNumber": 509,
 		"name": "purrloin",
+		"displayName": "Purrloin",
 		"forms": [
 			{
 				"name": null,
@@ -5916,6 +6425,7 @@
 	{
 		"dexNumber": 510,
 		"name": "liepard",
+		"displayName": "Liepard",
 		"forms": [
 			{
 				"name": null,
@@ -5927,6 +6437,7 @@
 	{
 		"dexNumber": 511,
 		"name": "pansage",
+		"displayName": "Pansage",
 		"forms": [
 			{
 				"name": null,
@@ -5938,6 +6449,7 @@
 	{
 		"dexNumber": 512,
 		"name": "simisage",
+		"displayName": "Simisage",
 		"forms": [
 			{
 				"name": null,
@@ -5949,6 +6461,7 @@
 	{
 		"dexNumber": 513,
 		"name": "pansear",
+		"displayName": "Pansear",
 		"forms": [
 			{
 				"name": null,
@@ -5960,6 +6473,7 @@
 	{
 		"dexNumber": 514,
 		"name": "simisear",
+		"displayName": "Simisear",
 		"forms": [
 			{
 				"name": null,
@@ -5971,6 +6485,7 @@
 	{
 		"dexNumber": 515,
 		"name": "panpour",
+		"displayName": "Panpour",
 		"forms": [
 			{
 				"name": null,
@@ -5982,6 +6497,7 @@
 	{
 		"dexNumber": 516,
 		"name": "simipour",
+		"displayName": "Simipour",
 		"forms": [
 			{
 				"name": null,
@@ -5993,6 +6509,7 @@
 	{
 		"dexNumber": 517,
 		"name": "munna",
+		"displayName": "Munna",
 		"forms": [
 			{
 				"name": null,
@@ -6004,6 +6521,7 @@
 	{
 		"dexNumber": 518,
 		"name": "musharna",
+		"displayName": "Musharna",
 		"forms": [
 			{
 				"name": null,
@@ -6015,6 +6533,7 @@
 	{
 		"dexNumber": 519,
 		"name": "pidove",
+		"displayName": "Pidove",
 		"forms": [
 			{
 				"name": null,
@@ -6026,6 +6545,7 @@
 	{
 		"dexNumber": 520,
 		"name": "tranquill",
+		"displayName": "Tranquill",
 		"forms": [
 			{
 				"name": null,
@@ -6037,6 +6557,7 @@
 	{
 		"dexNumber": 521,
 		"name": "unfezant",
+		"displayName": "Unfezant",
 		"forms": [
 			{
 				"name": null,
@@ -6048,6 +6569,7 @@
 	{
 		"dexNumber": 522,
 		"name": "blitzle",
+		"displayName": "Blitzle",
 		"forms": [
 			{
 				"name": null,
@@ -6059,6 +6581,7 @@
 	{
 		"dexNumber": 523,
 		"name": "zebstrika",
+		"displayName": "Zebstrika",
 		"forms": [
 			{
 				"name": null,
@@ -6070,6 +6593,7 @@
 	{
 		"dexNumber": 524,
 		"name": "roggenrola",
+		"displayName": "Roggenrola",
 		"forms": [
 			{
 				"name": null,
@@ -6081,6 +6605,7 @@
 	{
 		"dexNumber": 525,
 		"name": "boldore",
+		"displayName": "Boldore",
 		"forms": [
 			{
 				"name": null,
@@ -6092,6 +6617,7 @@
 	{
 		"dexNumber": 526,
 		"name": "gigalith",
+		"displayName": "Gigalith",
 		"forms": [
 			{
 				"name": null,
@@ -6103,6 +6629,7 @@
 	{
 		"dexNumber": 527,
 		"name": "woobat",
+		"displayName": "Woobat",
 		"forms": [
 			{
 				"name": null,
@@ -6114,6 +6641,7 @@
 	{
 		"dexNumber": 528,
 		"name": "swoobat",
+		"displayName": "Swoobat",
 		"forms": [
 			{
 				"name": null,
@@ -6125,6 +6653,7 @@
 	{
 		"dexNumber": 529,
 		"name": "drilbur",
+		"displayName": "Drilbur",
 		"forms": [
 			{
 				"name": null,
@@ -6136,6 +6665,7 @@
 	{
 		"dexNumber": 530,
 		"name": "excadrill",
+		"displayName": "Excadrill",
 		"forms": [
 			{
 				"name": null,
@@ -6147,6 +6677,7 @@
 	{
 		"dexNumber": 531,
 		"name": "audino",
+		"displayName": "Audino",
 		"forms": [
 			{
 				"name": null,
@@ -6163,6 +6694,7 @@
 	{
 		"dexNumber": 532,
 		"name": "timburr",
+		"displayName": "Timburr",
 		"forms": [
 			{
 				"name": null,
@@ -6174,6 +6706,7 @@
 	{
 		"dexNumber": 533,
 		"name": "gurdurr",
+		"displayName": "Gurdurr",
 		"forms": [
 			{
 				"name": null,
@@ -6185,6 +6718,7 @@
 	{
 		"dexNumber": 534,
 		"name": "conkeldurr",
+		"displayName": "Conkeldurr",
 		"forms": [
 			{
 				"name": null,
@@ -6196,6 +6730,7 @@
 	{
 		"dexNumber": 535,
 		"name": "tympole",
+		"displayName": "Tympole",
 		"forms": [
 			{
 				"name": null,
@@ -6207,6 +6742,7 @@
 	{
 		"dexNumber": 536,
 		"name": "palpitoad",
+		"displayName": "Palpitoad",
 		"forms": [
 			{
 				"name": null,
@@ -6218,6 +6754,7 @@
 	{
 		"dexNumber": 537,
 		"name": "seismitoad",
+		"displayName": "Seismitoad",
 		"forms": [
 			{
 				"name": null,
@@ -6229,6 +6766,7 @@
 	{
 		"dexNumber": 538,
 		"name": "throh",
+		"displayName": "Throh",
 		"forms": [
 			{
 				"name": null,
@@ -6240,6 +6778,7 @@
 	{
 		"dexNumber": 539,
 		"name": "sawk",
+		"displayName": "Sawk",
 		"forms": [
 			{
 				"name": null,
@@ -6251,6 +6790,7 @@
 	{
 		"dexNumber": 540,
 		"name": "sewaddle",
+		"displayName": "Sewaddle",
 		"forms": [
 			{
 				"name": null,
@@ -6262,6 +6802,7 @@
 	{
 		"dexNumber": 541,
 		"name": "swadloon",
+		"displayName": "Swadloon",
 		"forms": [
 			{
 				"name": null,
@@ -6273,6 +6814,7 @@
 	{
 		"dexNumber": 542,
 		"name": "leavanny",
+		"displayName": "Leavanny",
 		"forms": [
 			{
 				"name": null,
@@ -6284,6 +6826,7 @@
 	{
 		"dexNumber": 543,
 		"name": "venipede",
+		"displayName": "Venipede",
 		"forms": [
 			{
 				"name": null,
@@ -6295,6 +6838,7 @@
 	{
 		"dexNumber": 544,
 		"name": "whirlipede",
+		"displayName": "Whirlipede",
 		"forms": [
 			{
 				"name": null,
@@ -6306,6 +6850,7 @@
 	{
 		"dexNumber": 545,
 		"name": "scolipede",
+		"displayName": "Scolipede",
 		"forms": [
 			{
 				"name": null,
@@ -6317,6 +6862,7 @@
 	{
 		"dexNumber": 546,
 		"name": "cottonee",
+		"displayName": "Cottonee",
 		"forms": [
 			{
 				"name": null,
@@ -6328,6 +6874,7 @@
 	{
 		"dexNumber": 547,
 		"name": "whimsicott",
+		"displayName": "Whimsicott",
 		"forms": [
 			{
 				"name": null,
@@ -6339,6 +6886,7 @@
 	{
 		"dexNumber": 548,
 		"name": "petilil",
+		"displayName": "Petilil",
 		"forms": [
 			{
 				"name": null,
@@ -6350,6 +6898,7 @@
 	{
 		"dexNumber": 549,
 		"name": "lilligant",
+		"displayName": "Lilligant",
 		"forms": [
 			{
 				"name": null,
@@ -6366,6 +6915,7 @@
 	{
 		"dexNumber": 550,
 		"name": "basculin",
+		"displayName": "Basculin",
 		"forms": [
 			{
 				"name": "red-striped",
@@ -6377,6 +6927,7 @@
 	{
 		"dexNumber": 551,
 		"name": "sandile",
+		"displayName": "Sandile",
 		"forms": [
 			{
 				"name": null,
@@ -6388,6 +6939,7 @@
 	{
 		"dexNumber": 552,
 		"name": "krokorok",
+		"displayName": "Krokorok",
 		"forms": [
 			{
 				"name": null,
@@ -6399,6 +6951,7 @@
 	{
 		"dexNumber": 553,
 		"name": "krookodile",
+		"displayName": "Krookodile",
 		"forms": [
 			{
 				"name": null,
@@ -6410,6 +6963,7 @@
 	{
 		"dexNumber": 554,
 		"name": "darumaka",
+		"displayName": "Darumaka",
 		"forms": [
 			{
 				"name": null,
@@ -6425,6 +6979,7 @@
 	{
 		"dexNumber": 555,
 		"name": "darmanitan",
+		"displayName": "Darmanitan",
 		"forms": [
 			{
 				"name": null,
@@ -6450,6 +7005,7 @@
 	{
 		"dexNumber": 556,
 		"name": "maractus",
+		"displayName": "Maractus",
 		"forms": [
 			{
 				"name": null,
@@ -6461,6 +7017,7 @@
 	{
 		"dexNumber": 557,
 		"name": "dwebble",
+		"displayName": "Dwebble",
 		"forms": [
 			{
 				"name": null,
@@ -6472,6 +7029,7 @@
 	{
 		"dexNumber": 558,
 		"name": "crustle",
+		"displayName": "Crustle",
 		"forms": [
 			{
 				"name": null,
@@ -6483,6 +7041,7 @@
 	{
 		"dexNumber": 559,
 		"name": "scraggy",
+		"displayName": "Scraggy",
 		"forms": [
 			{
 				"name": null,
@@ -6494,6 +7053,7 @@
 	{
 		"dexNumber": 560,
 		"name": "scrafty",
+		"displayName": "Scrafty",
 		"forms": [
 			{
 				"name": null,
@@ -6505,6 +7065,7 @@
 	{
 		"dexNumber": 561,
 		"name": "sigilyph",
+		"displayName": "Sigilyph",
 		"forms": [
 			{
 				"name": null,
@@ -6516,6 +7077,7 @@
 	{
 		"dexNumber": 562,
 		"name": "yamask",
+		"displayName": "Yamask",
 		"forms": [
 			{
 				"name": null,
@@ -6532,6 +7094,7 @@
 	{
 		"dexNumber": 563,
 		"name": "cofagrigus",
+		"displayName": "Cofagrigus",
 		"forms": [
 			{
 				"name": null,
@@ -6543,6 +7106,7 @@
 	{
 		"dexNumber": 564,
 		"name": "tirtouga",
+		"displayName": "Tirtouga",
 		"forms": [
 			{
 				"name": null,
@@ -6554,6 +7118,7 @@
 	{
 		"dexNumber": 565,
 		"name": "carracosta",
+		"displayName": "Carracosta",
 		"forms": [
 			{
 				"name": null,
@@ -6565,6 +7130,7 @@
 	{
 		"dexNumber": 566,
 		"name": "archen",
+		"displayName": "Archen",
 		"forms": [
 			{
 				"name": null,
@@ -6576,6 +7142,7 @@
 	{
 		"dexNumber": 567,
 		"name": "archeops",
+		"displayName": "Archeops",
 		"forms": [
 			{
 				"name": null,
@@ -6587,6 +7154,7 @@
 	{
 		"dexNumber": 568,
 		"name": "trubbish",
+		"displayName": "Trubbish",
 		"forms": [
 			{
 				"name": null,
@@ -6598,6 +7166,7 @@
 	{
 		"dexNumber": 569,
 		"name": "garbodor",
+		"displayName": "Garbodor",
 		"forms": [
 			{
 				"name": null,
@@ -6609,6 +7178,7 @@
 	{
 		"dexNumber": 570,
 		"name": "zorua",
+		"displayName": "Zorua",
 		"forms": [
 			{
 				"name": null,
@@ -6625,6 +7195,7 @@
 	{
 		"dexNumber": 571,
 		"name": "zoroark",
+		"displayName": "Zoroark",
 		"forms": [
 			{
 				"name": null,
@@ -6641,6 +7212,7 @@
 	{
 		"dexNumber": 572,
 		"name": "minccino",
+		"displayName": "Minccino",
 		"forms": [
 			{
 				"name": null,
@@ -6652,6 +7224,7 @@
 	{
 		"dexNumber": 573,
 		"name": "cinccino",
+		"displayName": "Cinccino",
 		"forms": [
 			{
 				"name": null,
@@ -6663,6 +7236,7 @@
 	{
 		"dexNumber": 574,
 		"name": "gothita",
+		"displayName": "Gothita",
 		"forms": [
 			{
 				"name": null,
@@ -6674,6 +7248,7 @@
 	{
 		"dexNumber": 575,
 		"name": "gothorita",
+		"displayName": "Gothorita",
 		"forms": [
 			{
 				"name": null,
@@ -6685,6 +7260,7 @@
 	{
 		"dexNumber": 576,
 		"name": "gothitelle",
+		"displayName": "Gothitelle",
 		"forms": [
 			{
 				"name": null,
@@ -6696,6 +7272,7 @@
 	{
 		"dexNumber": 577,
 		"name": "solosis",
+		"displayName": "Solosis",
 		"forms": [
 			{
 				"name": null,
@@ -6707,6 +7284,7 @@
 	{
 		"dexNumber": 578,
 		"name": "duosion",
+		"displayName": "Duosion",
 		"forms": [
 			{
 				"name": null,
@@ -6718,6 +7296,7 @@
 	{
 		"dexNumber": 579,
 		"name": "reuniclus",
+		"displayName": "Reuniclus",
 		"forms": [
 			{
 				"name": null,
@@ -6729,6 +7308,7 @@
 	{
 		"dexNumber": 580,
 		"name": "ducklett",
+		"displayName": "Ducklett",
 		"forms": [
 			{
 				"name": null,
@@ -6740,6 +7320,7 @@
 	{
 		"dexNumber": 581,
 		"name": "swanna",
+		"displayName": "Swanna",
 		"forms": [
 			{
 				"name": null,
@@ -6751,6 +7332,7 @@
 	{
 		"dexNumber": 582,
 		"name": "vanillite",
+		"displayName": "Vanillite",
 		"forms": [
 			{
 				"name": null,
@@ -6762,6 +7344,7 @@
 	{
 		"dexNumber": 583,
 		"name": "vanillish",
+		"displayName": "Vanillish",
 		"forms": [
 			{
 				"name": null,
@@ -6773,6 +7356,7 @@
 	{
 		"dexNumber": 584,
 		"name": "vanilluxe",
+		"displayName": "Vanilluxe",
 		"forms": [
 			{
 				"name": null,
@@ -6784,6 +7368,7 @@
 	{
 		"dexNumber": 585,
 		"name": "deerling",
+		"displayName": "Deerling",
 		"forms": [
 			{
 				"name": null,
@@ -6795,6 +7380,7 @@
 	{
 		"dexNumber": 586,
 		"name": "sawsbuck",
+		"displayName": "Sawsbuck",
 		"forms": [
 			{
 				"name": null,
@@ -6806,6 +7392,7 @@
 	{
 		"dexNumber": 587,
 		"name": "emolga",
+		"displayName": "Emolga",
 		"forms": [
 			{
 				"name": null,
@@ -6817,6 +7404,7 @@
 	{
 		"dexNumber": 588,
 		"name": "karrablast",
+		"displayName": "Karrablast",
 		"forms": [
 			{
 				"name": null,
@@ -6828,6 +7416,7 @@
 	{
 		"dexNumber": 589,
 		"name": "escavalier",
+		"displayName": "Escavalier",
 		"forms": [
 			{
 				"name": null,
@@ -6839,6 +7428,7 @@
 	{
 		"dexNumber": 590,
 		"name": "foongus",
+		"displayName": "Foongus",
 		"forms": [
 			{
 				"name": null,
@@ -6850,6 +7440,7 @@
 	{
 		"dexNumber": 591,
 		"name": "amoonguss",
+		"displayName": "Amoonguss",
 		"forms": [
 			{
 				"name": null,
@@ -6861,6 +7452,7 @@
 	{
 		"dexNumber": 592,
 		"name": "frillish",
+		"displayName": "Frillish",
 		"forms": [
 			{
 				"name": null,
@@ -6872,6 +7464,7 @@
 	{
 		"dexNumber": 593,
 		"name": "jellicent",
+		"displayName": "Jellicent",
 		"forms": [
 			{
 				"name": null,
@@ -6883,6 +7476,7 @@
 	{
 		"dexNumber": 594,
 		"name": "alomomola",
+		"displayName": "Alomomola",
 		"forms": [
 			{
 				"name": null,
@@ -6894,6 +7488,7 @@
 	{
 		"dexNumber": 595,
 		"name": "joltik",
+		"displayName": "Joltik",
 		"forms": [
 			{
 				"name": null,
@@ -6905,6 +7500,7 @@
 	{
 		"dexNumber": 596,
 		"name": "galvantula",
+		"displayName": "Galvantula",
 		"forms": [
 			{
 				"name": null,
@@ -6916,6 +7512,7 @@
 	{
 		"dexNumber": 597,
 		"name": "ferroseed",
+		"displayName": "Ferroseed",
 		"forms": [
 			{
 				"name": null,
@@ -6927,6 +7524,7 @@
 	{
 		"dexNumber": 598,
 		"name": "ferrothorn",
+		"displayName": "Ferrothorn",
 		"forms": [
 			{
 				"name": null,
@@ -6938,6 +7536,7 @@
 	{
 		"dexNumber": 599,
 		"name": "klink",
+		"displayName": "Klink",
 		"forms": [
 			{
 				"name": null,
@@ -6949,6 +7548,7 @@
 	{
 		"dexNumber": 600,
 		"name": "klang",
+		"displayName": "Klang",
 		"forms": [
 			{
 				"name": null,
@@ -6960,6 +7560,7 @@
 	{
 		"dexNumber": 601,
 		"name": "klinklang",
+		"displayName": "Klinklang",
 		"forms": [
 			{
 				"name": null,
@@ -6971,6 +7572,7 @@
 	{
 		"dexNumber": 602,
 		"name": "tynamo",
+		"displayName": "Tynamo",
 		"forms": [
 			{
 				"name": null,
@@ -6982,6 +7584,7 @@
 	{
 		"dexNumber": 603,
 		"name": "eelektrik",
+		"displayName": "Eelektrik",
 		"forms": [
 			{
 				"name": null,
@@ -6993,6 +7596,7 @@
 	{
 		"dexNumber": 604,
 		"name": "eelektross",
+		"displayName": "Eelektross",
 		"forms": [
 			{
 				"name": null,
@@ -7004,6 +7608,7 @@
 	{
 		"dexNumber": 605,
 		"name": "elgyem",
+		"displayName": "Elgyem",
 		"forms": [
 			{
 				"name": null,
@@ -7015,6 +7620,7 @@
 	{
 		"dexNumber": 606,
 		"name": "beheeyem",
+		"displayName": "Beheeyem",
 		"forms": [
 			{
 				"name": null,
@@ -7026,6 +7632,7 @@
 	{
 		"dexNumber": 607,
 		"name": "litwick",
+		"displayName": "Litwick",
 		"forms": [
 			{
 				"name": null,
@@ -7037,6 +7644,7 @@
 	{
 		"dexNumber": 608,
 		"name": "lampent",
+		"displayName": "Lampent",
 		"forms": [
 			{
 				"name": null,
@@ -7048,6 +7656,7 @@
 	{
 		"dexNumber": 609,
 		"name": "chandelure",
+		"displayName": "Chandelure",
 		"forms": [
 			{
 				"name": null,
@@ -7059,6 +7668,7 @@
 	{
 		"dexNumber": 610,
 		"name": "axew",
+		"displayName": "Axew",
 		"forms": [
 			{
 				"name": null,
@@ -7070,6 +7680,7 @@
 	{
 		"dexNumber": 611,
 		"name": "fraxure",
+		"displayName": "Fraxure",
 		"forms": [
 			{
 				"name": null,
@@ -7081,6 +7692,7 @@
 	{
 		"dexNumber": 612,
 		"name": "haxorus",
+		"displayName": "Haxorus",
 		"forms": [
 			{
 				"name": null,
@@ -7092,6 +7704,7 @@
 	{
 		"dexNumber": 613,
 		"name": "cubchoo",
+		"displayName": "Cubchoo",
 		"forms": [
 			{
 				"name": null,
@@ -7103,6 +7716,7 @@
 	{
 		"dexNumber": 614,
 		"name": "beartic",
+		"displayName": "Beartic",
 		"forms": [
 			{
 				"name": null,
@@ -7114,6 +7728,7 @@
 	{
 		"dexNumber": 615,
 		"name": "cryogonal",
+		"displayName": "Cryogonal",
 		"forms": [
 			{
 				"name": null,
@@ -7125,6 +7740,7 @@
 	{
 		"dexNumber": 616,
 		"name": "shelmet",
+		"displayName": "Shelmet",
 		"forms": [
 			{
 				"name": null,
@@ -7136,6 +7752,7 @@
 	{
 		"dexNumber": 617,
 		"name": "accelgor",
+		"displayName": "Accelgor",
 		"forms": [
 			{
 				"name": null,
@@ -7147,6 +7764,7 @@
 	{
 		"dexNumber": 618,
 		"name": "stunfisk",
+		"displayName": "Stunfisk",
 		"forms": [
 			{
 				"name": null,
@@ -7163,6 +7781,7 @@
 	{
 		"dexNumber": 619,
 		"name": "mienfoo",
+		"displayName": "Mienfoo",
 		"forms": [
 			{
 				"name": null,
@@ -7174,6 +7793,7 @@
 	{
 		"dexNumber": 620,
 		"name": "mienshao",
+		"displayName": "Mienshao",
 		"forms": [
 			{
 				"name": null,
@@ -7185,6 +7805,7 @@
 	{
 		"dexNumber": 621,
 		"name": "druddigon",
+		"displayName": "Druddigon",
 		"forms": [
 			{
 				"name": null,
@@ -7196,6 +7817,7 @@
 	{
 		"dexNumber": 622,
 		"name": "golett",
+		"displayName": "Golett",
 		"forms": [
 			{
 				"name": null,
@@ -7207,6 +7829,7 @@
 	{
 		"dexNumber": 623,
 		"name": "golurk",
+		"displayName": "Golurk",
 		"forms": [
 			{
 				"name": null,
@@ -7218,6 +7841,7 @@
 	{
 		"dexNumber": 624,
 		"name": "pawniard",
+		"displayName": "Pawniard",
 		"forms": [
 			{
 				"name": null,
@@ -7229,6 +7853,7 @@
 	{
 		"dexNumber": 625,
 		"name": "bisharp",
+		"displayName": "Bisharp",
 		"forms": [
 			{
 				"name": null,
@@ -7240,6 +7865,7 @@
 	{
 		"dexNumber": 626,
 		"name": "bouffalant",
+		"displayName": "Bouffalant",
 		"forms": [
 			{
 				"name": null,
@@ -7251,6 +7877,7 @@
 	{
 		"dexNumber": 627,
 		"name": "rufflet",
+		"displayName": "Rufflet",
 		"forms": [
 			{
 				"name": null,
@@ -7262,6 +7889,7 @@
 	{
 		"dexNumber": 628,
 		"name": "braviary",
+		"displayName": "Braviary",
 		"forms": [
 			{
 				"name": null,
@@ -7278,6 +7906,7 @@
 	{
 		"dexNumber": 629,
 		"name": "vullaby",
+		"displayName": "Vullaby",
 		"forms": [
 			{
 				"name": null,
@@ -7289,6 +7918,7 @@
 	{
 		"dexNumber": 630,
 		"name": "mandibuzz",
+		"displayName": "Mandibuzz",
 		"forms": [
 			{
 				"name": null,
@@ -7300,6 +7930,7 @@
 	{
 		"dexNumber": 631,
 		"name": "heatmor",
+		"displayName": "Heatmor",
 		"forms": [
 			{
 				"name": null,
@@ -7311,6 +7942,7 @@
 	{
 		"dexNumber": 632,
 		"name": "durant",
+		"displayName": "Durant",
 		"forms": [
 			{
 				"name": null,
@@ -7322,6 +7954,7 @@
 	{
 		"dexNumber": 633,
 		"name": "deino",
+		"displayName": "Deino",
 		"forms": [
 			{
 				"name": null,
@@ -7333,6 +7966,7 @@
 	{
 		"dexNumber": 634,
 		"name": "zweilous",
+		"displayName": "Zweilous",
 		"forms": [
 			{
 				"name": null,
@@ -7344,6 +7978,7 @@
 	{
 		"dexNumber": 635,
 		"name": "hydreigon",
+		"displayName": "Hydreigon",
 		"forms": [
 			{
 				"name": null,
@@ -7355,6 +7990,7 @@
 	{
 		"dexNumber": 636,
 		"name": "larvesta",
+		"displayName": "Larvesta",
 		"forms": [
 			{
 				"name": null,
@@ -7366,6 +8002,7 @@
 	{
 		"dexNumber": 637,
 		"name": "volcarona",
+		"displayName": "Volcarona",
 		"forms": [
 			{
 				"name": null,
@@ -7377,6 +8014,7 @@
 	{
 		"dexNumber": 638,
 		"name": "cobalion",
+		"displayName": "Cobalion",
 		"forms": [
 			{
 				"name": null,
@@ -7388,6 +8026,7 @@
 	{
 		"dexNumber": 639,
 		"name": "terrakion",
+		"displayName": "Terrakion",
 		"forms": [
 			{
 				"name": null,
@@ -7399,6 +8038,7 @@
 	{
 		"dexNumber": 640,
 		"name": "virizion",
+		"displayName": "Virizion",
 		"forms": [
 			{
 				"name": null,
@@ -7410,6 +8050,7 @@
 	{
 		"dexNumber": 641,
 		"name": "tornadus",
+		"displayName": "Tornadus",
 		"forms": [
 			{
 				"name": "incarnate",
@@ -7421,6 +8062,7 @@
 	{
 		"dexNumber": 642,
 		"name": "thundurus",
+		"displayName": "Thundurus",
 		"forms": [
 			{
 				"name": "incarnate",
@@ -7432,6 +8074,7 @@
 	{
 		"dexNumber": 643,
 		"name": "reshiram",
+		"displayName": "Reshiram",
 		"forms": [
 			{
 				"name": null,
@@ -7443,6 +8086,7 @@
 	{
 		"dexNumber": 644,
 		"name": "zekrom",
+		"displayName": "Zekrom",
 		"forms": [
 			{
 				"name": null,
@@ -7454,6 +8098,7 @@
 	{
 		"dexNumber": 645,
 		"name": "landorus",
+		"displayName": "Landorus",
 		"forms": [
 			{
 				"name": "incarnate",
@@ -7465,6 +8110,7 @@
 	{
 		"dexNumber": 646,
 		"name": "kyurem",
+		"displayName": "Kyurem",
 		"forms": [
 			{
 				"name": null,
@@ -7476,6 +8122,7 @@
 	{
 		"dexNumber": 647,
 		"name": "keldeo",
+		"displayName": "Keldeo",
 		"forms": [
 			{
 				"name": "ordinary",
@@ -7487,6 +8134,7 @@
 	{
 		"dexNumber": 648,
 		"name": "meloetta",
+		"displayName": "Meloetta",
 		"forms": [
 			{
 				"name": "aria",
@@ -7503,6 +8151,7 @@
 	{
 		"dexNumber": 649,
 		"name": "genesect",
+		"displayName": "Genesect",
 		"forms": [
 			{
 				"name": null,
@@ -7514,6 +8163,7 @@
 	{
 		"dexNumber": 650,
 		"name": "chespin",
+		"displayName": "Chespin",
 		"forms": [
 			{
 				"name": null,
@@ -7525,6 +8175,7 @@
 	{
 		"dexNumber": 651,
 		"name": "quilladin",
+		"displayName": "Quilladin",
 		"forms": [
 			{
 				"name": null,
@@ -7536,6 +8187,7 @@
 	{
 		"dexNumber": 652,
 		"name": "chesnaught",
+		"displayName": "Chesnaught",
 		"forms": [
 			{
 				"name": null,
@@ -7547,6 +8199,7 @@
 	{
 		"dexNumber": 653,
 		"name": "fennekin",
+		"displayName": "Fennekin",
 		"forms": [
 			{
 				"name": null,
@@ -7558,6 +8211,7 @@
 	{
 		"dexNumber": 654,
 		"name": "braixen",
+		"displayName": "Braixen",
 		"forms": [
 			{
 				"name": null,
@@ -7569,6 +8223,7 @@
 	{
 		"dexNumber": 655,
 		"name": "delphox",
+		"displayName": "Delphox",
 		"forms": [
 			{
 				"name": null,
@@ -7580,6 +8235,7 @@
 	{
 		"dexNumber": 656,
 		"name": "froakie",
+		"displayName": "Froakie",
 		"forms": [
 			{
 				"name": null,
@@ -7591,6 +8247,7 @@
 	{
 		"dexNumber": 657,
 		"name": "frogadier",
+		"displayName": "Frogadier",
 		"forms": [
 			{
 				"name": null,
@@ -7602,6 +8259,7 @@
 	{
 		"dexNumber": 658,
 		"name": "greninja",
+		"displayName": "Greninja",
 		"forms": [
 			{
 				"name": null,
@@ -7613,6 +8271,7 @@
 	{
 		"dexNumber": 659,
 		"name": "bunnelby",
+		"displayName": "Bunnelby",
 		"forms": [
 			{
 				"name": null,
@@ -7624,6 +8283,7 @@
 	{
 		"dexNumber": 660,
 		"name": "diggersby",
+		"displayName": "Diggersby",
 		"forms": [
 			{
 				"name": null,
@@ -7635,6 +8295,7 @@
 	{
 		"dexNumber": 661,
 		"name": "fletchling",
+		"displayName": "Fletchling",
 		"forms": [
 			{
 				"name": null,
@@ -7646,6 +8307,7 @@
 	{
 		"dexNumber": 662,
 		"name": "fletchinder",
+		"displayName": "Fletchinder",
 		"forms": [
 			{
 				"name": null,
@@ -7657,6 +8319,7 @@
 	{
 		"dexNumber": 663,
 		"name": "talonflame",
+		"displayName": "Talonflame",
 		"forms": [
 			{
 				"name": null,
@@ -7668,6 +8331,7 @@
 	{
 		"dexNumber": 664,
 		"name": "scatterbug",
+		"displayName": "Scatterbug",
 		"forms": [
 			{
 				"name": null,
@@ -7679,6 +8343,7 @@
 	{
 		"dexNumber": 665,
 		"name": "spewpa",
+		"displayName": "Spewpa",
 		"forms": [
 			{
 				"name": null,
@@ -7690,6 +8355,7 @@
 	{
 		"dexNumber": 666,
 		"name": "vivillon",
+		"displayName": "Vivillon",
 		"forms": [
 			{
 				"name": null,
@@ -7701,6 +8367,7 @@
 	{
 		"dexNumber": 667,
 		"name": "litleo",
+		"displayName": "Litleo",
 		"forms": [
 			{
 				"name": null,
@@ -7712,6 +8379,7 @@
 	{
 		"dexNumber": 668,
 		"name": "pyroar",
+		"displayName": "Pyroar",
 		"forms": [
 			{
 				"name": null,
@@ -7723,6 +8391,7 @@
 	{
 		"dexNumber": 669,
 		"name": "flabebe",
+		"displayName": "Flabébé",
 		"forms": [
 			{
 				"name": null,
@@ -7734,6 +8403,7 @@
 	{
 		"dexNumber": 670,
 		"name": "floette",
+		"displayName": "Floette",
 		"forms": [
 			{
 				"name": null,
@@ -7745,6 +8415,7 @@
 	{
 		"dexNumber": 671,
 		"name": "florges",
+		"displayName": "Florges",
 		"forms": [
 			{
 				"name": null,
@@ -7756,6 +8427,7 @@
 	{
 		"dexNumber": 672,
 		"name": "skiddo",
+		"displayName": "Skiddo",
 		"forms": [
 			{
 				"name": null,
@@ -7767,6 +8439,7 @@
 	{
 		"dexNumber": 673,
 		"name": "gogoat",
+		"displayName": "Gogoat",
 		"forms": [
 			{
 				"name": null,
@@ -7778,6 +8451,7 @@
 	{
 		"dexNumber": 674,
 		"name": "pancham",
+		"displayName": "Pancham",
 		"forms": [
 			{
 				"name": null,
@@ -7789,6 +8463,7 @@
 	{
 		"dexNumber": 675,
 		"name": "pangoro",
+		"displayName": "Pangoro",
 		"forms": [
 			{
 				"name": null,
@@ -7800,6 +8475,7 @@
 	{
 		"dexNumber": 676,
 		"name": "furfrou",
+		"displayName": "Furfrou",
 		"forms": [
 			{
 				"name": null,
@@ -7811,6 +8487,7 @@
 	{
 		"dexNumber": 677,
 		"name": "espurr",
+		"displayName": "Espurr",
 		"forms": [
 			{
 				"name": null,
@@ -7822,6 +8499,7 @@
 	{
 		"dexNumber": 678,
 		"name": "meowstic",
+		"displayName": "Meowstic",
 		"forms": [
 			{
 				"name": "male",
@@ -7833,6 +8511,7 @@
 	{
 		"dexNumber": 679,
 		"name": "honedge",
+		"displayName": "Honedge",
 		"forms": [
 			{
 				"name": null,
@@ -7844,6 +8523,7 @@
 	{
 		"dexNumber": 680,
 		"name": "doublade",
+		"displayName": "Doublade",
 		"forms": [
 			{
 				"name": null,
@@ -7855,6 +8535,7 @@
 	{
 		"dexNumber": 681,
 		"name": "aegislash",
+		"displayName": "Aegislash",
 		"forms": [
 			{
 				"name": "shield",
@@ -7866,6 +8547,7 @@
 	{
 		"dexNumber": 682,
 		"name": "spritzee",
+		"displayName": "Spritzee",
 		"forms": [
 			{
 				"name": null,
@@ -7877,6 +8559,7 @@
 	{
 		"dexNumber": 683,
 		"name": "aromatisse",
+		"displayName": "Aromatisse",
 		"forms": [
 			{
 				"name": null,
@@ -7888,6 +8571,7 @@
 	{
 		"dexNumber": 684,
 		"name": "swirlix",
+		"displayName": "Swirlix",
 		"forms": [
 			{
 				"name": null,
@@ -7899,6 +8583,7 @@
 	{
 		"dexNumber": 685,
 		"name": "slurpuff",
+		"displayName": "Slurpuff",
 		"forms": [
 			{
 				"name": null,
@@ -7910,6 +8595,7 @@
 	{
 		"dexNumber": 686,
 		"name": "inkay",
+		"displayName": "Inkay",
 		"forms": [
 			{
 				"name": null,
@@ -7921,6 +8607,7 @@
 	{
 		"dexNumber": 687,
 		"name": "malamar",
+		"displayName": "Malamar",
 		"forms": [
 			{
 				"name": null,
@@ -7932,6 +8619,7 @@
 	{
 		"dexNumber": 688,
 		"name": "binacle",
+		"displayName": "Binacle",
 		"forms": [
 			{
 				"name": null,
@@ -7943,6 +8631,7 @@
 	{
 		"dexNumber": 689,
 		"name": "barbaracle",
+		"displayName": "Barbaracle",
 		"forms": [
 			{
 				"name": null,
@@ -7954,6 +8643,7 @@
 	{
 		"dexNumber": 690,
 		"name": "skrelp",
+		"displayName": "Skrelp",
 		"forms": [
 			{
 				"name": null,
@@ -7965,6 +8655,7 @@
 	{
 		"dexNumber": 691,
 		"name": "dragalge",
+		"displayName": "Dragalge",
 		"forms": [
 			{
 				"name": null,
@@ -7976,6 +8667,7 @@
 	{
 		"dexNumber": 692,
 		"name": "clauncher",
+		"displayName": "Clauncher",
 		"forms": [
 			{
 				"name": null,
@@ -7987,6 +8679,7 @@
 	{
 		"dexNumber": 693,
 		"name": "clawitzer",
+		"displayName": "Clawitzer",
 		"forms": [
 			{
 				"name": null,
@@ -7998,6 +8691,7 @@
 	{
 		"dexNumber": 694,
 		"name": "helioptile",
+		"displayName": "Helioptile",
 		"forms": [
 			{
 				"name": null,
@@ -8009,6 +8703,7 @@
 	{
 		"dexNumber": 695,
 		"name": "heliolisk",
+		"displayName": "Heliolisk",
 		"forms": [
 			{
 				"name": null,
@@ -8020,6 +8715,7 @@
 	{
 		"dexNumber": 696,
 		"name": "tyrunt",
+		"displayName": "Tyrunt",
 		"forms": [
 			{
 				"name": null,
@@ -8031,6 +8727,7 @@
 	{
 		"dexNumber": 697,
 		"name": "tyrantrum",
+		"displayName": "Tyrantrum",
 		"forms": [
 			{
 				"name": null,
@@ -8042,6 +8739,7 @@
 	{
 		"dexNumber": 698,
 		"name": "amaura",
+		"displayName": "Amaura",
 		"forms": [
 			{
 				"name": null,
@@ -8053,6 +8751,7 @@
 	{
 		"dexNumber": 699,
 		"name": "aurorus",
+		"displayName": "Aurorus",
 		"forms": [
 			{
 				"name": null,
@@ -8064,6 +8763,7 @@
 	{
 		"dexNumber": 700,
 		"name": "sylveon",
+		"displayName": "Sylveon",
 		"forms": [
 			{
 				"name": null,
@@ -8075,6 +8775,7 @@
 	{
 		"dexNumber": 701,
 		"name": "hawlucha",
+		"displayName": "Hawlucha",
 		"forms": [
 			{
 				"name": null,
@@ -8086,6 +8787,7 @@
 	{
 		"dexNumber": 702,
 		"name": "dedenne",
+		"displayName": "Dedenne",
 		"forms": [
 			{
 				"name": null,
@@ -8097,6 +8799,7 @@
 	{
 		"dexNumber": 703,
 		"name": "carbink",
+		"displayName": "Carbink",
 		"forms": [
 			{
 				"name": null,
@@ -8108,6 +8811,7 @@
 	{
 		"dexNumber": 704,
 		"name": "goomy",
+		"displayName": "Goomy",
 		"forms": [
 			{
 				"name": null,
@@ -8119,6 +8823,7 @@
 	{
 		"dexNumber": 705,
 		"name": "sliggoo",
+		"displayName": "Sliggoo",
 		"forms": [
 			{
 				"name": null,
@@ -8135,6 +8840,7 @@
 	{
 		"dexNumber": 706,
 		"name": "goodra",
+		"displayName": "Goodra",
 		"forms": [
 			{
 				"name": null,
@@ -8151,6 +8857,7 @@
 	{
 		"dexNumber": 707,
 		"name": "klefki",
+		"displayName": "Klefki",
 		"forms": [
 			{
 				"name": null,
@@ -8162,6 +8869,7 @@
 	{
 		"dexNumber": 708,
 		"name": "phantump",
+		"displayName": "Phantump",
 		"forms": [
 			{
 				"name": null,
@@ -8173,6 +8881,7 @@
 	{
 		"dexNumber": 709,
 		"name": "trevenant",
+		"displayName": "Trevenant",
 		"forms": [
 			{
 				"name": null,
@@ -8184,6 +8893,7 @@
 	{
 		"dexNumber": 710,
 		"name": "pumpkaboo",
+		"displayName": "Pumpkaboo",
 		"forms": [
 			{
 				"name": "average",
@@ -8195,6 +8905,7 @@
 	{
 		"dexNumber": 711,
 		"name": "gourgeist",
+		"displayName": "Gourgeist",
 		"forms": [
 			{
 				"name": "average",
@@ -8206,6 +8917,7 @@
 	{
 		"dexNumber": 712,
 		"name": "bergmite",
+		"displayName": "Bergmite",
 		"forms": [
 			{
 				"name": null,
@@ -8217,6 +8929,7 @@
 	{
 		"dexNumber": 713,
 		"name": "avalugg",
+		"displayName": "Avalugg",
 		"forms": [
 			{
 				"name": null,
@@ -8233,6 +8946,7 @@
 	{
 		"dexNumber": 714,
 		"name": "noibat",
+		"displayName": "Noibat",
 		"forms": [
 			{
 				"name": null,
@@ -8244,6 +8958,7 @@
 	{
 		"dexNumber": 715,
 		"name": "noivern",
+		"displayName": "Noivern",
 		"forms": [
 			{
 				"name": null,
@@ -8255,6 +8970,7 @@
 	{
 		"dexNumber": 716,
 		"name": "xerneas",
+		"displayName": "Xerneas",
 		"forms": [
 			{
 				"name": null,
@@ -8266,6 +8982,7 @@
 	{
 		"dexNumber": 717,
 		"name": "yveltal",
+		"displayName": "Yveltal",
 		"forms": [
 			{
 				"name": null,
@@ -8277,6 +8994,7 @@
 	{
 		"dexNumber": 718,
 		"name": "zygarde",
+		"displayName": "Zygarde",
 		"forms": [
 			{
 				"name": null,
@@ -8288,6 +9006,7 @@
 	{
 		"dexNumber": 719,
 		"name": "diancie",
+		"displayName": "Diancie",
 		"forms": [
 			{
 				"name": null,
@@ -8299,6 +9018,7 @@
 	{
 		"dexNumber": 720,
 		"name": "hoopa",
+		"displayName": "Hoopa",
 		"forms": [
 			{
 				"name": null,
@@ -8315,6 +9035,7 @@
 	{
 		"dexNumber": 721,
 		"name": "volcanion",
+		"displayName": "Volcanion",
 		"forms": [
 			{
 				"name": null,
@@ -8326,6 +9047,7 @@
 	{
 		"dexNumber": 722,
 		"name": "rowlet",
+		"displayName": "Rowlet",
 		"forms": [
 			{
 				"name": null,
@@ -8337,6 +9059,7 @@
 	{
 		"dexNumber": 723,
 		"name": "dartrix",
+		"displayName": "Dartrix",
 		"forms": [
 			{
 				"name": null,
@@ -8348,6 +9071,7 @@
 	{
 		"dexNumber": 724,
 		"name": "decidueye",
+		"displayName": "Decidueye",
 		"forms": [
 			{
 				"name": null,
@@ -8364,6 +9088,7 @@
 	{
 		"dexNumber": 725,
 		"name": "litten",
+		"displayName": "Litten",
 		"forms": [
 			{
 				"name": null,
@@ -8375,6 +9100,7 @@
 	{
 		"dexNumber": 726,
 		"name": "torracat",
+		"displayName": "Torracat",
 		"forms": [
 			{
 				"name": null,
@@ -8386,6 +9112,7 @@
 	{
 		"dexNumber": 727,
 		"name": "incineroar",
+		"displayName": "Incineroar",
 		"forms": [
 			{
 				"name": null,
@@ -8397,6 +9124,7 @@
 	{
 		"dexNumber": 728,
 		"name": "popplio",
+		"displayName": "Popplio",
 		"forms": [
 			{
 				"name": null,
@@ -8408,6 +9136,7 @@
 	{
 		"dexNumber": 729,
 		"name": "brionne",
+		"displayName": "Brionne",
 		"forms": [
 			{
 				"name": null,
@@ -8419,6 +9148,7 @@
 	{
 		"dexNumber": 730,
 		"name": "primarina",
+		"displayName": "Primarina",
 		"forms": [
 			{
 				"name": null,
@@ -8430,6 +9160,7 @@
 	{
 		"dexNumber": 731,
 		"name": "pikipek",
+		"displayName": "Pikipek",
 		"forms": [
 			{
 				"name": null,
@@ -8441,6 +9172,7 @@
 	{
 		"dexNumber": 732,
 		"name": "trumbeak",
+		"displayName": "Trumbeak",
 		"forms": [
 			{
 				"name": null,
@@ -8452,6 +9184,7 @@
 	{
 		"dexNumber": 733,
 		"name": "toucannon",
+		"displayName": "Toucannon",
 		"forms": [
 			{
 				"name": null,
@@ -8463,6 +9196,7 @@
 	{
 		"dexNumber": 734,
 		"name": "yungoos",
+		"displayName": "Yungoos",
 		"forms": [
 			{
 				"name": null,
@@ -8474,6 +9208,7 @@
 	{
 		"dexNumber": 735,
 		"name": "gumshoos",
+		"displayName": "Gumshoos",
 		"forms": [
 			{
 				"name": null,
@@ -8485,6 +9220,7 @@
 	{
 		"dexNumber": 736,
 		"name": "grubbin",
+		"displayName": "Grubbin",
 		"forms": [
 			{
 				"name": null,
@@ -8496,6 +9232,7 @@
 	{
 		"dexNumber": 737,
 		"name": "charjabug",
+		"displayName": "Charjabug",
 		"forms": [
 			{
 				"name": null,
@@ -8507,6 +9244,7 @@
 	{
 		"dexNumber": 738,
 		"name": "vikavolt",
+		"displayName": "Vikavolt",
 		"forms": [
 			{
 				"name": null,
@@ -8518,6 +9256,7 @@
 	{
 		"dexNumber": 739,
 		"name": "crabrawler",
+		"displayName": "Crabrawler",
 		"forms": [
 			{
 				"name": null,
@@ -8529,6 +9268,7 @@
 	{
 		"dexNumber": 740,
 		"name": "crabominable",
+		"displayName": "Crabominable",
 		"forms": [
 			{
 				"name": null,
@@ -8540,6 +9280,7 @@
 	{
 		"dexNumber": 741,
 		"name": "oricorio",
+		"displayName": "Oricorio",
 		"forms": [
 			{
 				"name": "baile",
@@ -8566,6 +9307,7 @@
 	{
 		"dexNumber": 742,
 		"name": "cutiefly",
+		"displayName": "Cutiefly",
 		"forms": [
 			{
 				"name": null,
@@ -8577,6 +9319,7 @@
 	{
 		"dexNumber": 743,
 		"name": "ribombee",
+		"displayName": "Ribombee",
 		"forms": [
 			{
 				"name": null,
@@ -8588,6 +9331,7 @@
 	{
 		"dexNumber": 744,
 		"name": "rockruff",
+		"displayName": "Rockruff",
 		"forms": [
 			{
 				"name": null,
@@ -8599,6 +9343,7 @@
 	{
 		"dexNumber": 745,
 		"name": "lycanroc",
+		"displayName": "Lycanroc",
 		"forms": [
 			{
 				"name": "midday",
@@ -8610,6 +9355,7 @@
 	{
 		"dexNumber": 746,
 		"name": "wishiwashi",
+		"displayName": "Wishiwashi",
 		"forms": [
 			{
 				"name": "solo",
@@ -8621,6 +9367,7 @@
 	{
 		"dexNumber": 747,
 		"name": "mareanie",
+		"displayName": "Mareanie",
 		"forms": [
 			{
 				"name": null,
@@ -8632,6 +9379,7 @@
 	{
 		"dexNumber": 748,
 		"name": "toxapex",
+		"displayName": "Toxapex",
 		"forms": [
 			{
 				"name": null,
@@ -8643,6 +9391,7 @@
 	{
 		"dexNumber": 749,
 		"name": "mudbray",
+		"displayName": "Mudbray",
 		"forms": [
 			{
 				"name": null,
@@ -8654,6 +9403,7 @@
 	{
 		"dexNumber": 750,
 		"name": "mudsdale",
+		"displayName": "Mudsdale",
 		"forms": [
 			{
 				"name": null,
@@ -8665,6 +9415,7 @@
 	{
 		"dexNumber": 751,
 		"name": "dewpider",
+		"displayName": "Dewpider",
 		"forms": [
 			{
 				"name": null,
@@ -8676,6 +9427,7 @@
 	{
 		"dexNumber": 752,
 		"name": "araquanid",
+		"displayName": "Araquanid",
 		"forms": [
 			{
 				"name": null,
@@ -8687,6 +9439,7 @@
 	{
 		"dexNumber": 753,
 		"name": "fomantis",
+		"displayName": "Fomantis",
 		"forms": [
 			{
 				"name": null,
@@ -8698,6 +9451,7 @@
 	{
 		"dexNumber": 754,
 		"name": "lurantis",
+		"displayName": "Lurantis",
 		"forms": [
 			{
 				"name": null,
@@ -8709,6 +9463,7 @@
 	{
 		"dexNumber": 755,
 		"name": "morelull",
+		"displayName": "Morelull",
 		"forms": [
 			{
 				"name": null,
@@ -8720,6 +9475,7 @@
 	{
 		"dexNumber": 756,
 		"name": "shiinotic",
+		"displayName": "Shiinotic",
 		"forms": [
 			{
 				"name": null,
@@ -8731,6 +9487,7 @@
 	{
 		"dexNumber": 757,
 		"name": "salandit",
+		"displayName": "Salandit",
 		"forms": [
 			{
 				"name": null,
@@ -8742,6 +9499,7 @@
 	{
 		"dexNumber": 758,
 		"name": "salazzle",
+		"displayName": "Salazzle",
 		"forms": [
 			{
 				"name": null,
@@ -8753,6 +9511,7 @@
 	{
 		"dexNumber": 759,
 		"name": "stufful",
+		"displayName": "Stufful",
 		"forms": [
 			{
 				"name": null,
@@ -8764,6 +9523,7 @@
 	{
 		"dexNumber": 760,
 		"name": "bewear",
+		"displayName": "Bewear",
 		"forms": [
 			{
 				"name": null,
@@ -8775,6 +9535,7 @@
 	{
 		"dexNumber": 761,
 		"name": "bounsweet",
+		"displayName": "Bounsweet",
 		"forms": [
 			{
 				"name": null,
@@ -8786,6 +9547,7 @@
 	{
 		"dexNumber": 762,
 		"name": "steenee",
+		"displayName": "Steenee",
 		"forms": [
 			{
 				"name": null,
@@ -8797,6 +9559,7 @@
 	{
 		"dexNumber": 763,
 		"name": "tsareena",
+		"displayName": "Tsareena",
 		"forms": [
 			{
 				"name": null,
@@ -8808,6 +9571,7 @@
 	{
 		"dexNumber": 764,
 		"name": "comfey",
+		"displayName": "Comfey",
 		"forms": [
 			{
 				"name": null,
@@ -8819,6 +9583,7 @@
 	{
 		"dexNumber": 765,
 		"name": "oranguru",
+		"displayName": "Oranguru",
 		"forms": [
 			{
 				"name": null,
@@ -8830,6 +9595,7 @@
 	{
 		"dexNumber": 766,
 		"name": "passimian",
+		"displayName": "Passimian",
 		"forms": [
 			{
 				"name": null,
@@ -8841,6 +9607,7 @@
 	{
 		"dexNumber": 767,
 		"name": "wimpod",
+		"displayName": "Wimpod",
 		"forms": [
 			{
 				"name": null,
@@ -8852,6 +9619,7 @@
 	{
 		"dexNumber": 768,
 		"name": "golisopod",
+		"displayName": "Golisopod",
 		"forms": [
 			{
 				"name": null,
@@ -8863,6 +9631,7 @@
 	{
 		"dexNumber": 769,
 		"name": "sandygast",
+		"displayName": "Sandygast",
 		"forms": [
 			{
 				"name": null,
@@ -8874,6 +9643,7 @@
 	{
 		"dexNumber": 770,
 		"name": "palossand",
+		"displayName": "Palossand",
 		"forms": [
 			{
 				"name": null,
@@ -8885,6 +9655,7 @@
 	{
 		"dexNumber": 771,
 		"name": "pyukumuku",
+		"displayName": "Pyukumuku",
 		"forms": [
 			{
 				"name": null,
@@ -8896,6 +9667,7 @@
 	{
 		"dexNumber": 772,
 		"name": "type-null",
+		"displayName": "Type: Null",
 		"forms": [
 			{
 				"name": null,
@@ -8907,6 +9679,7 @@
 	{
 		"dexNumber": 773,
 		"name": "silvally",
+		"displayName": "Silvally",
 		"forms": [
 			{
 				"name": null,
@@ -8918,6 +9691,7 @@
 	{
 		"dexNumber": 774,
 		"name": "minior",
+		"displayName": "Minior",
 		"forms": [
 			{
 				"name": "red-meteor",
@@ -8929,6 +9703,7 @@
 	{
 		"dexNumber": 775,
 		"name": "komala",
+		"displayName": "Komala",
 		"forms": [
 			{
 				"name": null,
@@ -8940,6 +9715,7 @@
 	{
 		"dexNumber": 776,
 		"name": "turtonator",
+		"displayName": "Turtonator",
 		"forms": [
 			{
 				"name": null,
@@ -8951,6 +9727,7 @@
 	{
 		"dexNumber": 777,
 		"name": "togedemaru",
+		"displayName": "Togedemaru",
 		"forms": [
 			{
 				"name": null,
@@ -8962,6 +9739,7 @@
 	{
 		"dexNumber": 778,
 		"name": "mimikyu",
+		"displayName": "Mimikyu",
 		"forms": [
 			{
 				"name": "disguised",
@@ -8973,6 +9751,7 @@
 	{
 		"dexNumber": 779,
 		"name": "bruxish",
+		"displayName": "Bruxish",
 		"forms": [
 			{
 				"name": null,
@@ -8984,6 +9763,7 @@
 	{
 		"dexNumber": 780,
 		"name": "drampa",
+		"displayName": "Drampa",
 		"forms": [
 			{
 				"name": null,
@@ -8995,6 +9775,7 @@
 	{
 		"dexNumber": 781,
 		"name": "dhelmise",
+		"displayName": "Dhelmise",
 		"forms": [
 			{
 				"name": null,
@@ -9006,6 +9787,7 @@
 	{
 		"dexNumber": 782,
 		"name": "jangmo-o",
+		"displayName": "Jangmo-o",
 		"forms": [
 			{
 				"name": null,
@@ -9017,6 +9799,7 @@
 	{
 		"dexNumber": 783,
 		"name": "hakamo-o",
+		"displayName": "Hakamo-o",
 		"forms": [
 			{
 				"name": null,
@@ -9028,6 +9811,7 @@
 	{
 		"dexNumber": 784,
 		"name": "kommo-o",
+		"displayName": "Kommo-o",
 		"forms": [
 			{
 				"name": null,
@@ -9039,6 +9823,7 @@
 	{
 		"dexNumber": 785,
 		"name": "tapu-koko",
+		"displayName": "Tapu Koko",
 		"forms": [
 			{
 				"name": null,
@@ -9050,6 +9835,7 @@
 	{
 		"dexNumber": 786,
 		"name": "tapu-lele",
+		"displayName": "Tapu Lele",
 		"forms": [
 			{
 				"name": null,
@@ -9061,6 +9847,7 @@
 	{
 		"dexNumber": 787,
 		"name": "tapu-bulu",
+		"displayName": "Tapu Bulu",
 		"forms": [
 			{
 				"name": null,
@@ -9072,6 +9859,7 @@
 	{
 		"dexNumber": 788,
 		"name": "tapu-fini",
+		"displayName": "Tapu Fini",
 		"forms": [
 			{
 				"name": null,
@@ -9083,6 +9871,7 @@
 	{
 		"dexNumber": 789,
 		"name": "cosmog",
+		"displayName": "Cosmog",
 		"forms": [
 			{
 				"name": null,
@@ -9094,6 +9883,7 @@
 	{
 		"dexNumber": 790,
 		"name": "cosmoem",
+		"displayName": "Cosmoem",
 		"forms": [
 			{
 				"name": null,
@@ -9105,6 +9895,7 @@
 	{
 		"dexNumber": 791,
 		"name": "solgaleo",
+		"displayName": "Solgaleo",
 		"forms": [
 			{
 				"name": null,
@@ -9116,6 +9907,7 @@
 	{
 		"dexNumber": 792,
 		"name": "lunala",
+		"displayName": "Lunala",
 		"forms": [
 			{
 				"name": null,
@@ -9127,6 +9919,7 @@
 	{
 		"dexNumber": 793,
 		"name": "nihilego",
+		"displayName": "Nihilego",
 		"forms": [
 			{
 				"name": null,
@@ -9138,6 +9931,7 @@
 	{
 		"dexNumber": 794,
 		"name": "buzzwole",
+		"displayName": "Buzzwole",
 		"forms": [
 			{
 				"name": null,
@@ -9149,6 +9943,7 @@
 	{
 		"dexNumber": 795,
 		"name": "pheromosa",
+		"displayName": "Pheromosa",
 		"forms": [
 			{
 				"name": null,
@@ -9160,6 +9955,7 @@
 	{
 		"dexNumber": 796,
 		"name": "xurkitree",
+		"displayName": "Xurkitree",
 		"forms": [
 			{
 				"name": null,
@@ -9171,6 +9967,7 @@
 	{
 		"dexNumber": 797,
 		"name": "celesteela",
+		"displayName": "Celesteela",
 		"forms": [
 			{
 				"name": null,
@@ -9182,6 +9979,7 @@
 	{
 		"dexNumber": 798,
 		"name": "kartana",
+		"displayName": "Kartana",
 		"forms": [
 			{
 				"name": null,
@@ -9193,6 +9991,7 @@
 	{
 		"dexNumber": 799,
 		"name": "guzzlord",
+		"displayName": "Guzzlord",
 		"forms": [
 			{
 				"name": null,
@@ -9204,6 +10003,7 @@
 	{
 		"dexNumber": 800,
 		"name": "necrozma",
+		"displayName": "Necrozma",
 		"forms": [
 			{
 				"name": null,
@@ -9230,6 +10030,7 @@
 	{
 		"dexNumber": 801,
 		"name": "magearna",
+		"displayName": "Magearna",
 		"forms": [
 			{
 				"name": null,
@@ -9241,6 +10042,7 @@
 	{
 		"dexNumber": 802,
 		"name": "marshadow",
+		"displayName": "Marshadow",
 		"forms": [
 			{
 				"name": null,
@@ -9252,6 +10054,7 @@
 	{
 		"dexNumber": 803,
 		"name": "poipole",
+		"displayName": "Poipole",
 		"forms": [
 			{
 				"name": null,
@@ -9263,6 +10066,7 @@
 	{
 		"dexNumber": 804,
 		"name": "naganadel",
+		"displayName": "Naganadel",
 		"forms": [
 			{
 				"name": null,
@@ -9274,6 +10078,7 @@
 	{
 		"dexNumber": 805,
 		"name": "stakataka",
+		"displayName": "Stakataka",
 		"forms": [
 			{
 				"name": null,
@@ -9285,6 +10090,7 @@
 	{
 		"dexNumber": 806,
 		"name": "blacephalon",
+		"displayName": "Blacephalon",
 		"forms": [
 			{
 				"name": null,
@@ -9296,6 +10102,7 @@
 	{
 		"dexNumber": 807,
 		"name": "zeraora",
+		"displayName": "Zeraora",
 		"forms": [
 			{
 				"name": null,
@@ -9307,6 +10114,7 @@
 	{
 		"dexNumber": 808,
 		"name": "meltan",
+		"displayName": "Meltan",
 		"forms": [
 			{
 				"name": null,
@@ -9318,6 +10126,7 @@
 	{
 		"dexNumber": 809,
 		"name": "melmetal",
+		"displayName": "Melmetal",
 		"forms": [
 			{
 				"name": null,
@@ -9329,6 +10138,7 @@
 	{
 		"dexNumber": 810,
 		"name": "grookey",
+		"displayName": "Grookey",
 		"forms": [
 			{
 				"name": null,
@@ -9339,6 +10149,7 @@
 	{
 		"dexNumber": 811,
 		"name": "thwackey",
+		"displayName": "Thwackey",
 		"forms": [
 			{
 				"name": null,
@@ -9349,6 +10160,7 @@
 	{
 		"dexNumber": 812,
 		"name": "rillaboom",
+		"displayName": "Rillaboom",
 		"forms": [
 			{
 				"name": null,
@@ -9359,6 +10171,7 @@
 	{
 		"dexNumber": 813,
 		"name": "scorbunny",
+		"displayName": "Scorbunny",
 		"forms": [
 			{
 				"name": null,
@@ -9369,6 +10182,7 @@
 	{
 		"dexNumber": 814,
 		"name": "raboot",
+		"displayName": "Raboot",
 		"forms": [
 			{
 				"name": null,
@@ -9379,6 +10193,7 @@
 	{
 		"dexNumber": 815,
 		"name": "cinderace",
+		"displayName": "Cinderace",
 		"forms": [
 			{
 				"name": null,
@@ -9389,6 +10204,7 @@
 	{
 		"dexNumber": 816,
 		"name": "sobble",
+		"displayName": "Sobble",
 		"forms": [
 			{
 				"name": null,
@@ -9399,6 +10215,7 @@
 	{
 		"dexNumber": 817,
 		"name": "drizzile",
+		"displayName": "Drizzile",
 		"forms": [
 			{
 				"name": null,
@@ -9409,6 +10226,7 @@
 	{
 		"dexNumber": 818,
 		"name": "inteleon",
+		"displayName": "Inteleon",
 		"forms": [
 			{
 				"name": null,
@@ -9419,6 +10237,7 @@
 	{
 		"dexNumber": 819,
 		"name": "skwovet",
+		"displayName": "Skwovet",
 		"forms": [
 			{
 				"name": null,
@@ -9429,6 +10248,7 @@
 	{
 		"dexNumber": 820,
 		"name": "greedent",
+		"displayName": "Greedent",
 		"forms": [
 			{
 				"name": null,
@@ -9439,6 +10259,7 @@
 	{
 		"dexNumber": 821,
 		"name": "rookidee",
+		"displayName": "Rookidee",
 		"forms": [
 			{
 				"name": null,
@@ -9449,6 +10270,7 @@
 	{
 		"dexNumber": 822,
 		"name": "corvisquire",
+		"displayName": "Corvisquire",
 		"forms": [
 			{
 				"name": null,
@@ -9459,6 +10281,7 @@
 	{
 		"dexNumber": 823,
 		"name": "corviknight",
+		"displayName": "Corviknight",
 		"forms": [
 			{
 				"name": null,
@@ -9470,6 +10293,7 @@
 	{
 		"dexNumber": 824,
 		"name": "blipbug",
+		"displayName": "Blipbug",
 		"forms": [
 			{
 				"name": null,
@@ -9480,6 +10304,7 @@
 	{
 		"dexNumber": 825,
 		"name": "dottler",
+		"displayName": "Dottler",
 		"forms": [
 			{
 				"name": null,
@@ -9491,6 +10316,7 @@
 	{
 		"dexNumber": 826,
 		"name": "orbeetle",
+		"displayName": "Orbeetle",
 		"forms": [
 			{
 				"name": null,
@@ -9502,6 +10328,7 @@
 	{
 		"dexNumber": 827,
 		"name": "nickit",
+		"displayName": "Nickit",
 		"forms": [
 			{
 				"name": null,
@@ -9512,6 +10339,7 @@
 	{
 		"dexNumber": 828,
 		"name": "thievul",
+		"displayName": "Thievul",
 		"forms": [
 			{
 				"name": null,
@@ -9522,6 +10350,7 @@
 	{
 		"dexNumber": 829,
 		"name": "gossifleur",
+		"displayName": "Gossifleur",
 		"forms": [
 			{
 				"name": null,
@@ -9532,6 +10361,7 @@
 	{
 		"dexNumber": 830,
 		"name": "eldegoss",
+		"displayName": "Eldegoss",
 		"forms": [
 			{
 				"name": null,
@@ -9542,6 +10372,7 @@
 	{
 		"dexNumber": 831,
 		"name": "wooloo",
+		"displayName": "Wooloo",
 		"forms": [
 			{
 				"name": null,
@@ -9552,6 +10383,7 @@
 	{
 		"dexNumber": 832,
 		"name": "dubwool",
+		"displayName": "Dubwool",
 		"forms": [
 			{
 				"name": null,
@@ -9562,6 +10394,7 @@
 	{
 		"dexNumber": 833,
 		"name": "chewtle",
+		"displayName": "Chewtle",
 		"forms": [
 			{
 				"name": null,
@@ -9572,6 +10405,7 @@
 	{
 		"dexNumber": 834,
 		"name": "drednaw",
+		"displayName": "Drednaw",
 		"forms": [
 			{
 				"name": null,
@@ -9583,6 +10417,7 @@
 	{
 		"dexNumber": 835,
 		"name": "yamper",
+		"displayName": "Yamper",
 		"forms": [
 			{
 				"name": null,
@@ -9593,6 +10428,7 @@
 	{
 		"dexNumber": 836,
 		"name": "boltund",
+		"displayName": "Boltund",
 		"forms": [
 			{
 				"name": null,
@@ -9603,6 +10439,7 @@
 	{
 		"dexNumber": 837,
 		"name": "rolycoly",
+		"displayName": "Rolycoly",
 		"forms": [
 			{
 				"name": null,
@@ -9613,6 +10450,7 @@
 	{
 		"dexNumber": 838,
 		"name": "carkol",
+		"displayName": "Carkol",
 		"forms": [
 			{
 				"name": null,
@@ -9624,6 +10462,7 @@
 	{
 		"dexNumber": 839,
 		"name": "coalossal",
+		"displayName": "Coalossal",
 		"forms": [
 			{
 				"name": null,
@@ -9635,6 +10474,7 @@
 	{
 		"dexNumber": 840,
 		"name": "applin",
+		"displayName": "Applin",
 		"forms": [
 			{
 				"name": null,
@@ -9646,6 +10486,7 @@
 	{
 		"dexNumber": 841,
 		"name": "flapple",
+		"displayName": "Flapple",
 		"forms": [
 			{
 				"name": null,
@@ -9657,6 +10498,7 @@
 	{
 		"dexNumber": 842,
 		"name": "appletun",
+		"displayName": "Appletun",
 		"forms": [
 			{
 				"name": null,
@@ -9668,6 +10510,7 @@
 	{
 		"dexNumber": 843,
 		"name": "silicobra",
+		"displayName": "Silicobra",
 		"forms": [
 			{
 				"name": null,
@@ -9678,6 +10521,7 @@
 	{
 		"dexNumber": 844,
 		"name": "sandaconda",
+		"displayName": "Sandaconda",
 		"forms": [
 			{
 				"name": null,
@@ -9688,6 +10532,7 @@
 	{
 		"dexNumber": 845,
 		"name": "cramorant",
+		"displayName": "Cramorant",
 		"forms": [
 			{
 				"name": null,
@@ -9699,6 +10544,7 @@
 	{
 		"dexNumber": 846,
 		"name": "arrokuda",
+		"displayName": "Arrokuda",
 		"forms": [
 			{
 				"name": null,
@@ -9709,6 +10555,7 @@
 	{
 		"dexNumber": 847,
 		"name": "barraskewda",
+		"displayName": "Barraskewda",
 		"forms": [
 			{
 				"name": null,
@@ -9719,6 +10566,7 @@
 	{
 		"dexNumber": 848,
 		"name": "toxel",
+		"displayName": "Toxel",
 		"forms": [
 			{
 				"name": null,
@@ -9730,6 +10578,7 @@
 	{
 		"dexNumber": 849,
 		"name": "toxtricity",
+		"displayName": "Toxtricity",
 		"forms": [
 			{
 				"name": null,
@@ -9741,6 +10590,7 @@
 	{
 		"dexNumber": 850,
 		"name": "sizzlipede",
+		"displayName": "Sizzlipede",
 		"forms": [
 			{
 				"name": null,
@@ -9752,6 +10602,7 @@
 	{
 		"dexNumber": 851,
 		"name": "centiskorch",
+		"displayName": "Centiskorch",
 		"forms": [
 			{
 				"name": null,
@@ -9763,6 +10614,7 @@
 	{
 		"dexNumber": 852,
 		"name": "clobbopus",
+		"displayName": "Clobbopus",
 		"forms": [
 			{
 				"name": null,
@@ -9773,6 +10625,7 @@
 	{
 		"dexNumber": 853,
 		"name": "grapploct",
+		"displayName": "Grapploct",
 		"forms": [
 			{
 				"name": null,
@@ -9783,6 +10636,7 @@
 	{
 		"dexNumber": 854,
 		"name": "sinistea",
+		"displayName": "Sinistea",
 		"forms": [
 			{
 				"name": null,
@@ -9793,6 +10647,7 @@
 	{
 		"dexNumber": 855,
 		"name": "polteageist",
+		"displayName": "Polteageist",
 		"forms": [
 			{
 				"name": null,
@@ -9803,6 +10658,7 @@
 	{
 		"dexNumber": 856,
 		"name": "hatenna",
+		"displayName": "Hatenna",
 		"forms": [
 			{
 				"name": null,
@@ -9813,6 +10669,7 @@
 	{
 		"dexNumber": 857,
 		"name": "hattrem",
+		"displayName": "Hattrem",
 		"forms": [
 			{
 				"name": null,
@@ -9823,6 +10680,7 @@
 	{
 		"dexNumber": 858,
 		"name": "hatterene",
+		"displayName": "Hatterene",
 		"forms": [
 			{
 				"name": null,
@@ -9834,6 +10692,7 @@
 	{
 		"dexNumber": 859,
 		"name": "impidimp",
+		"displayName": "Impidimp",
 		"forms": [
 			{
 				"name": null,
@@ -9845,6 +10704,7 @@
 	{
 		"dexNumber": 860,
 		"name": "morgrem",
+		"displayName": "Morgrem",
 		"forms": [
 			{
 				"name": null,
@@ -9856,6 +10716,7 @@
 	{
 		"dexNumber": 861,
 		"name": "grimmsnarl",
+		"displayName": "Grimmsnarl",
 		"forms": [
 			{
 				"name": null,
@@ -9867,6 +10728,7 @@
 	{
 		"dexNumber": 862,
 		"name": "obstagoon",
+		"displayName": "Obstagoon",
 		"forms": [
 			{
 				"name": null,
@@ -9878,6 +10740,7 @@
 	{
 		"dexNumber": 863,
 		"name": "perrserker",
+		"displayName": "Perrserker",
 		"forms": [
 			{
 				"name": null,
@@ -9888,6 +10751,7 @@
 	{
 		"dexNumber": 864,
 		"name": "cursola",
+		"displayName": "Cursola",
 		"forms": [
 			{
 				"name": null,
@@ -9898,6 +10762,7 @@
 	{
 		"dexNumber": 865,
 		"name": "sirfetch'd",
+		"displayName": "Sirfetch’d",
 		"forms": [
 			{
 				"name": null,
@@ -9908,6 +10773,7 @@
 	{
 		"dexNumber": 866,
 		"name": "mr. rime",
+		"displayName": "Mr. Rime",
 		"forms": [
 			{
 				"name": null,
@@ -9919,6 +10785,7 @@
 	{
 		"dexNumber": 867,
 		"name": "runerigus",
+		"displayName": "Runerigus",
 		"forms": [
 			{
 				"name": null,
@@ -9930,6 +10797,7 @@
 	{
 		"dexNumber": 868,
 		"name": "milcery",
+		"displayName": "Milcery",
 		"forms": [
 			{
 				"name": null,
@@ -9940,6 +10808,7 @@
 	{
 		"dexNumber": 869,
 		"name": "alcremie",
+		"displayName": "Alcremie",
 		"forms": [
 			{
 				"name": null,
@@ -9950,6 +10819,7 @@
 	{
 		"dexNumber": 870,
 		"name": "falinks",
+		"displayName": "Falinks",
 		"forms": [
 			{
 				"name": null,
@@ -9960,6 +10830,7 @@
 	{
 		"dexNumber": 871,
 		"name": "pincurchin",
+		"displayName": "Pincurchin",
 		"forms": [
 			{
 				"name": null,
@@ -9970,6 +10841,7 @@
 	{
 		"dexNumber": 872,
 		"name": "snom",
+		"displayName": "Snom",
 		"forms": [
 			{
 				"name": null,
@@ -9981,6 +10853,7 @@
 	{
 		"dexNumber": 873,
 		"name": "frosmoth",
+		"displayName": "Frosmoth",
 		"forms": [
 			{
 				"name": null,
@@ -9992,6 +10865,7 @@
 	{
 		"dexNumber": 874,
 		"name": "stonjourner",
+		"displayName": "Stonjourner",
 		"forms": [
 			{
 				"name": null,
@@ -10002,6 +10876,7 @@
 	{
 		"dexNumber": 875,
 		"name": "eiscue",
+		"displayName": "Eiscue",
 		"forms": [
 			{
 				"name": null,
@@ -10012,6 +10887,7 @@
 	{
 		"dexNumber": 876,
 		"name": "indeedee",
+		"displayName": "Indeedee",
 		"forms": [
 			{
 				"name": null,
@@ -10023,6 +10899,7 @@
 	{
 		"dexNumber": 877,
 		"name": "morpeko",
+		"displayName": "Morpeko",
 		"forms": [
 			{
 				"name": null,
@@ -10034,6 +10911,7 @@
 	{
 		"dexNumber": 878,
 		"name": "cufant",
+		"displayName": "Cufant",
 		"forms": [
 			{
 				"name": null,
@@ -10044,6 +10922,7 @@
 	{
 		"dexNumber": 879,
 		"name": "copperajah",
+		"displayName": "Copperajah",
 		"forms": [
 			{
 				"name": null,
@@ -10054,6 +10933,7 @@
 	{
 		"dexNumber": 880,
 		"name": "dracozolt",
+		"displayName": "Dracozolt",
 		"forms": [
 			{
 				"name": null,
@@ -10065,6 +10945,7 @@
 	{
 		"dexNumber": 881,
 		"name": "arctozolt",
+		"displayName": "Arctozolt",
 		"forms": [
 			{
 				"name": null,
@@ -10076,6 +10957,7 @@
 	{
 		"dexNumber": 882,
 		"name": "dracovish",
+		"displayName": "Dracovish",
 		"forms": [
 			{
 				"name": null,
@@ -10087,6 +10969,7 @@
 	{
 		"dexNumber": 883,
 		"name": "arctovish",
+		"displayName": "Arctovish",
 		"forms": [
 			{
 				"name": null,
@@ -10098,6 +10981,7 @@
 	{
 		"dexNumber": 884,
 		"name": "duraludon",
+		"displayName": "Duraludon",
 		"forms": [
 			{
 				"name": null,
@@ -10109,6 +10993,7 @@
 	{
 		"dexNumber": 885,
 		"name": "dreepy",
+		"displayName": "Dreepy",
 		"forms": [
 			{
 				"name": null,
@@ -10120,6 +11005,7 @@
 	{
 		"dexNumber": 886,
 		"name": "drakloak",
+		"displayName": "Drakloak",
 		"forms": [
 			{
 				"name": null,
@@ -10131,6 +11017,7 @@
 	{
 		"dexNumber": 887,
 		"name": "dragapult",
+		"displayName": "Dragapult",
 		"forms": [
 			{
 				"name": null,
@@ -10142,6 +11029,7 @@
 	{
 		"dexNumber": 888,
 		"name": "zacian",
+		"displayName": "Zacian",
 		"forms": [
 			{
 				"name": null,
@@ -10157,6 +11045,7 @@
 	{
 		"dexNumber": 889,
 		"name": "zamazenta",
+		"displayName": "Zamazenta",
 		"forms": [
 			{
 				"name": null,
@@ -10172,6 +11061,7 @@
 	{
 		"dexNumber": 890,
 		"name": "eternatus",
+		"displayName": "Eternatus",
 		"forms": [
 			{
 				"name": null,
@@ -10183,6 +11073,7 @@
 	{
 		"dexNumber": 891,
 		"name": "kubfu",
+		"displayName": "Kubfu",
 		"forms": [
 			{
 				"name": null,
@@ -10194,6 +11085,7 @@
 	{
 		"dexNumber": 892,
 		"name": "urshifu",
+		"displayName": "Urshifu",
 		"forms": [
 			{
 				"name": null,
@@ -10210,6 +11102,7 @@
 	{
 		"dexNumber": 893,
 		"name": "zarude",
+		"displayName": "Zarude",
 		"forms": [
 			{
 				"name": null,
@@ -10221,6 +11114,7 @@
 	{
 		"dexNumber": 894,
 		"name": "regieleki",
+		"displayName": "Regieleki",
 		"forms": [
 			{
 				"name": null,
@@ -10232,6 +11126,7 @@
 	{
 		"dexNumber": 895,
 		"name": "regidrago",
+		"displayName": "Regidrago",
 		"forms": [
 			{
 				"name": null,
@@ -10243,6 +11138,7 @@
 	{
 		"dexNumber": 896,
 		"name": "glastrier",
+		"displayName": "Glastrier",
 		"forms": [
 			{
 				"name": null,
@@ -10254,6 +11150,7 @@
 	{
 		"dexNumber": 897,
 		"name": "spectrier",
+		"displayName": "Spectrier",
 		"forms": [
 			{
 				"name": null,
@@ -10265,6 +11162,7 @@
 	{
 		"dexNumber": 898,
 		"name": "calyrex",
+		"displayName": "Calyrex",
 		"forms": [
 			{
 				"name": null,
@@ -10286,6 +11184,7 @@
 	{
 		"dexNumber": 899,
 		"name": "wyrdeer",
+		"displayName": "Wyrdeer",
 		"forms": [
 			{
 				"name": null,
@@ -10297,6 +11196,7 @@
 	{
 		"dexNumber": 900,
 		"name": "kleavor",
+		"displayName": "Kleavor",
 		"forms": [
 			{
 				"name": null,
@@ -10308,6 +11208,7 @@
 	{
 		"dexNumber": 901,
 		"name": "ursaluna",
+		"displayName": "Ursaluna",
 		"forms": [
 			{
 				"name": null,
@@ -10319,6 +11220,7 @@
 	{
 		"dexNumber": 902,
 		"name": "basculegion",
+		"displayName": "Basculegion",
 		"forms": [
 			{
 				"name": null,
@@ -10330,6 +11232,7 @@
 	{
 		"dexNumber": 903,
 		"name": "sneasler",
+		"displayName": "Sneasler",
 		"forms": [
 			{
 				"name": null,
@@ -10341,6 +11244,7 @@
 	{
 		"dexNumber": 904,
 		"name": "overqwil",
+		"displayName": "Overqwil",
 		"forms": [
 			{
 				"name": null,
@@ -10352,6 +11256,7 @@
 	{
 		"dexNumber": 905,
 		"name": "enamorus",
+		"displayName": "Enamorus",
 		"forms": [
 			{
 				"name": null,
@@ -10363,6 +11268,7 @@
 	{
 		"dexNumber": 906,
 		"name": "sprigatito",
+		"displayName": "Sprigatito",
 		"forms": [
 			{
 				"name": null,
@@ -10374,6 +11280,7 @@
 	{
 		"dexNumber": 907,
 		"name": "floragato",
+		"displayName": "Floragato",
 		"forms": [
 			{
 				"name": null,
@@ -10385,6 +11292,7 @@
 	{
 		"dexNumber": 908,
 		"name": "meowscarada",
+		"displayName": "Meowscarada",
 		"forms": [
 			{
 				"name": null,
@@ -10396,6 +11304,7 @@
 	{
 		"dexNumber": 909,
 		"name": "fuecoco",
+		"displayName": "Fuecoco",
 		"forms": [
 			{
 				"name": null,
@@ -10407,6 +11316,7 @@
 	{
 		"dexNumber": 910,
 		"name": "crocalor",
+		"displayName": "Crocalor",
 		"forms": [
 			{
 				"name": null,
@@ -10418,6 +11328,7 @@
 	{
 		"dexNumber": 911,
 		"name": "skeledirge",
+		"displayName": "Skeledirge",
 		"forms": [
 			{
 				"name": null,
@@ -10429,6 +11340,7 @@
 	{
 		"dexNumber": 912,
 		"name": "quaxly",
+		"displayName": "Quaxly",
 		"forms": [
 			{
 				"name": null,
@@ -10440,6 +11352,7 @@
 	{
 		"dexNumber": 913,
 		"name": "quaxwell",
+		"displayName": "Quaxwell",
 		"forms": [
 			{
 				"name": null,
@@ -10451,6 +11364,7 @@
 	{
 		"dexNumber": 914,
 		"name": "quaquaval",
+		"displayName": "Quaquaval",
 		"forms": [
 			{
 				"name": null,
@@ -10462,6 +11376,7 @@
 	{
 		"dexNumber": 915,
 		"name": "lechonk",
+		"displayName": "Lechonk",
 		"forms": [
 			{
 				"name": null,
@@ -10473,6 +11388,7 @@
 	{
 		"dexNumber": 916,
 		"name": "oinkologne",
+		"displayName": "Oinkologne",
 		"forms": [
 			{
 				"name": null,
@@ -10484,6 +11400,7 @@
 	{
 		"dexNumber": 917,
 		"name": "tarountula",
+		"displayName": "Tarountula",
 		"forms": [
 			{
 				"name": null,
@@ -10495,6 +11412,7 @@
 	{
 		"dexNumber": 918,
 		"name": "spidops",
+		"displayName": "Spidops",
 		"forms": [
 			{
 				"name": null,
@@ -10506,6 +11424,7 @@
 	{
 		"dexNumber": 919,
 		"name": "nymble",
+		"displayName": "Nymble",
 		"forms": [
 			{
 				"name": null,
@@ -10517,6 +11436,7 @@
 	{
 		"dexNumber": 920,
 		"name": "lokix",
+		"displayName": "Lokix",
 		"forms": [
 			{
 				"name": null,
@@ -10528,6 +11448,7 @@
 	{
 		"dexNumber": 921,
 		"name": "pawmi",
+		"displayName": "Pawmi",
 		"forms": [
 			{
 				"name": null,
@@ -10539,6 +11460,7 @@
 	{
 		"dexNumber": 922,
 		"name": "pawmo",
+		"displayName": "Pawmo",
 		"forms": [
 			{
 				"name": null,
@@ -10550,6 +11472,7 @@
 	{
 		"dexNumber": 923,
 		"name": "pawmot",
+		"displayName": "Pawmot",
 		"forms": [
 			{
 				"name": null,
@@ -10561,6 +11484,7 @@
 	{
 		"dexNumber": 924,
 		"name": "tandemaus",
+		"displayName": "Tandemaus",
 		"forms": [
 			{
 				"name": null,
@@ -10572,6 +11496,7 @@
 	{
 		"dexNumber": 925,
 		"name": "maushold",
+		"displayName": "Maushold",
 		"forms": [
 			{
 				"name": null,
@@ -10583,6 +11508,7 @@
 	{
 		"dexNumber": 926,
 		"name": "fidough",
+		"displayName": "Fidough",
 		"forms": [
 			{
 				"name": null,
@@ -10594,6 +11520,7 @@
 	{
 		"dexNumber": 927,
 		"name": "dachsbun",
+		"displayName": "Dachsbun",
 		"forms": [
 			{
 				"name": null,
@@ -10605,6 +11532,7 @@
 	{
 		"dexNumber": 928,
 		"name": "smoliv",
+		"displayName": "Smoliv",
 		"forms": [
 			{
 				"name": null,
@@ -10616,6 +11544,7 @@
 	{
 		"dexNumber": 929,
 		"name": "dolliv",
+		"displayName": "Dolliv",
 		"forms": [
 			{
 				"name": null,
@@ -10627,6 +11556,7 @@
 	{
 		"dexNumber": 930,
 		"name": "wugtrio",
+		"displayName": "Arboliva",
 		"forms": [
 			{
 				"name": null,
@@ -10638,6 +11568,7 @@
 	{
 		"dexNumber": 931,
 		"name": "squawkabilly",
+		"displayName": "Squawkabilly",
 		"forms": [
 			{
 				"name": null,
@@ -10649,6 +11580,7 @@
 	{
 		"dexNumber": 932,
 		"name": "nacli",
+		"displayName": "Nacli",
 		"forms": [
 			{
 				"name": null,
@@ -10660,6 +11592,7 @@
 	{
 		"dexNumber": 933,
 		"name": "naclstack",
+		"displayName": "Naclstack",
 		"forms": [
 			{
 				"name": null,
@@ -10671,6 +11604,7 @@
 	{
 		"dexNumber": 934,
 		"name": "garganacl",
+		"displayName": "Garganacl",
 		"forms": [
 			{
 				"name": null,
@@ -10682,6 +11616,7 @@
 	{
 		"dexNumber": 935,
 		"name": "charcadet",
+		"displayName": "Charcadet",
 		"forms": [
 			{
 				"name": null,
@@ -10693,6 +11628,7 @@
 	{
 		"dexNumber": 936,
 		"name": "armarouge",
+		"displayName": "Armarouge",
 		"forms": [
 			{
 				"name": null,
@@ -10704,6 +11640,7 @@
 	{
 		"dexNumber": 937,
 		"name": "ceruledge",
+		"displayName": "Ceruledge",
 		"forms": [
 			{
 				"name": null,
@@ -10715,6 +11652,7 @@
 	{
 		"dexNumber": 938,
 		"name": "tadbulb",
+		"displayName": "Tadbulb",
 		"forms": [
 			{
 				"name": null,
@@ -10726,6 +11664,7 @@
 	{
 		"dexNumber": 939,
 		"name": "bellibolt",
+		"displayName": "Bellibolt",
 		"forms": [
 			{
 				"name": null,
@@ -10737,6 +11676,7 @@
 	{
 		"dexNumber": 940,
 		"name": "wattrel",
+		"displayName": "Wattrel",
 		"forms": [
 			{
 				"name": null,
@@ -10748,6 +11688,7 @@
 	{
 		"dexNumber": 941,
 		"name": "kilowattrel",
+		"displayName": "Kilowattrel",
 		"forms": [
 			{
 				"name": null,
@@ -10759,6 +11700,7 @@
 	{
 		"dexNumber": 942,
 		"name": "maschiff",
+		"displayName": "Maschiff",
 		"forms": [
 			{
 				"name": null,
@@ -10770,6 +11712,7 @@
 	{
 		"dexNumber": 943,
 		"name": "mabosstiff",
+		"displayName": "Mabosstiff",
 		"forms": [
 			{
 				"name": null,
@@ -10781,6 +11724,7 @@
 	{
 		"dexNumber": 944,
 		"name": "shroodle",
+		"displayName": "Shroodle",
 		"forms": [
 			{
 				"name": null,
@@ -10792,6 +11736,7 @@
 	{
 		"dexNumber": 945,
 		"name": "grafaiai",
+		"displayName": "Grafaiai",
 		"forms": [
 			{
 				"name": null,
@@ -10803,6 +11748,7 @@
 	{
 		"dexNumber": 946,
 		"name": "bramblin",
+		"displayName": "Bramblin",
 		"forms": [
 			{
 				"name": null,
@@ -10814,6 +11760,7 @@
 	{
 		"dexNumber": 947,
 		"name": "brambleghast",
+		"displayName": "Brambleghast",
 		"forms": [
 			{
 				"name": null,
@@ -10825,6 +11772,7 @@
 	{
 		"dexNumber": 948,
 		"name": "toedscool",
+		"displayName": "Toedscool",
 		"forms": [
 			{
 				"name": null,
@@ -10836,6 +11784,7 @@
 	{
 		"dexNumber": 949,
 		"name": "toedscruel",
+		"displayName": "Toedscruel",
 		"forms": [
 			{
 				"name": null,
@@ -10847,6 +11796,7 @@
 	{
 		"dexNumber": 950,
 		"name": "klawf",
+		"displayName": "Klawf",
 		"forms": [
 			{
 				"name": null,
@@ -10858,6 +11808,7 @@
 	{
 		"dexNumber": 951,
 		"name": "capsakid",
+		"displayName": "Capsakid",
 		"forms": [
 			{
 				"name": null,
@@ -10869,6 +11820,7 @@
 	{
 		"dexNumber": 952,
 		"name": "scovillain",
+		"displayName": "Scovillain",
 		"forms": [
 			{
 				"name": null,
@@ -10880,6 +11832,7 @@
 	{
 		"dexNumber": 953,
 		"name": "rellor",
+		"displayName": "Rellor",
 		"forms": [
 			{
 				"name": null,
@@ -10891,6 +11844,7 @@
 	{
 		"dexNumber": 954,
 		"name": "rabsca",
+		"displayName": "Rabsca",
 		"forms": [
 			{
 				"name": null,
@@ -10902,6 +11856,7 @@
 	{
 		"dexNumber": 955,
 		"name": "flittle",
+		"displayName": "Flittle",
 		"forms": [
 			{
 				"name": null,
@@ -10913,6 +11868,7 @@
 	{
 		"dexNumber": 956,
 		"name": "espathra",
+		"displayName": "Espathra",
 		"forms": [
 			{
 				"name": null,
@@ -10924,6 +11880,7 @@
 	{
 		"dexNumber": 957,
 		"name": "tinkatink",
+		"displayName": "Tinkatink",
 		"forms": [
 			{
 				"name": null,
@@ -10935,6 +11892,7 @@
 	{
 		"dexNumber": 958,
 		"name": "tinkatuff",
+		"displayName": "Tinkatuff",
 		"forms": [
 			{
 				"name": null,
@@ -10946,6 +11904,7 @@
 	{
 		"dexNumber": 959,
 		"name": "tinkaton",
+		"displayName": "Tinkaton",
 		"forms": [
 			{
 				"name": null,
@@ -10957,6 +11916,7 @@
 	{
 		"dexNumber": 960,
 		"name": "wiglett",
+		"displayName": "Wiglett",
 		"forms": [
 			{
 				"name": null,
@@ -10968,6 +11928,7 @@
 	{
 		"dexNumber": 961,
 		"name": "wugtrio",
+		"displayName": "Wugtrio",
 		"forms": [
 			{
 				"name": null,
@@ -10979,6 +11940,7 @@
 	{
 		"dexNumber": 962,
 		"name": "bombirdier",
+		"displayName": "Bombirdier",
 		"forms": [
 			{
 				"name": null,
@@ -10990,6 +11952,7 @@
 	{
 		"dexNumber": 963,
 		"name": "finizen",
+		"displayName": "Finizen",
 		"forms": [
 			{
 				"name": null,
@@ -11001,6 +11964,7 @@
 	{
 		"dexNumber": 964,
 		"name": "palafin",
+		"displayName": "Palafin",
 		"forms": [
 			{
 				"name": null,
@@ -11012,6 +11976,7 @@
 	{
 		"dexNumber": 965,
 		"name": "varoom",
+		"displayName": "Varoom",
 		"forms": [
 			{
 				"name": null,
@@ -11023,6 +11988,7 @@
 	{
 		"dexNumber": 966,
 		"name": "revavroom",
+		"displayName": "Revavroom",
 		"forms": [
 			{
 				"name": null,
@@ -11034,6 +12000,7 @@
 	{
 		"dexNumber": 967,
 		"name": "cyclizar",
+		"displayName": "Cyclizar",
 		"forms": [
 			{
 				"name": null,
@@ -11045,6 +12012,7 @@
 	{
 		"dexNumber": 968,
 		"name": "orthworm",
+		"displayName": "Orthworm",
 		"forms": [
 			{
 				"name": null,
@@ -11056,6 +12024,7 @@
 	{
 		"dexNumber": 969,
 		"name": "glimmet",
+		"displayName": "Glimmet",
 		"forms": [
 			{
 				"name": null,
@@ -11067,6 +12036,7 @@
 	{
 		"dexNumber": 970,
 		"name": "glimmora",
+		"displayName": "Glimmora",
 		"forms": [
 			{
 				"name": null,
@@ -11078,6 +12048,7 @@
 	{
 		"dexNumber": 971,
 		"name": "greavard",
+		"displayName": "Greavard",
 		"forms": [
 			{
 				"name": null,
@@ -11089,6 +12060,7 @@
 	{
 		"dexNumber": 972,
 		"name": "houndstone",
+		"displayName": "Houndstone",
 		"forms": [
 			{
 				"name": null,
@@ -11100,6 +12072,7 @@
 	{
 		"dexNumber": 973,
 		"name": "flamigo",
+		"displayName": "Flamigo",
 		"forms": [
 			{
 				"name": null,
@@ -11111,6 +12084,7 @@
 	{
 		"dexNumber": 974,
 		"name": "cetoddle",
+		"displayName": "Cetoddle",
 		"forms": [
 			{
 				"name": null,
@@ -11122,6 +12096,7 @@
 	{
 		"dexNumber": 975,
 		"name": "cetitan",
+		"displayName": "Cetitan",
 		"forms": [
 			{
 				"name": null,
@@ -11133,6 +12108,7 @@
 	{
 		"dexNumber": 976,
 		"name": "veluza",
+		"displayName": "Veluza",
 		"forms": [
 			{
 				"name": null,
@@ -11144,6 +12120,7 @@
 	{
 		"dexNumber": 977,
 		"name": "dondozo",
+		"displayName": "Dondozo",
 		"forms": [
 			{
 				"name": null,
@@ -11155,6 +12132,7 @@
 	{
 		"dexNumber": 978,
 		"name": "tatsugiri",
+		"displayName": "Tatsugiri",
 		"forms": [
 			{
 				"name": null,
@@ -11166,6 +12144,7 @@
 	{
 		"dexNumber": 979,
 		"name": "annihilape",
+		"displayName": "Annihilape",
 		"forms": [
 			{
 				"name": null,
@@ -11177,6 +12156,7 @@
 	{
 		"dexNumber": 980,
 		"name": "clodsire",
+		"displayName": "Clodsire",
 		"forms": [
 			{
 				"name": null,
@@ -11188,6 +12168,7 @@
 	{
 		"dexNumber": 981,
 		"name": "farigiraf",
+		"displayName": "Farigiraf",
 		"forms": [
 			{
 				"name": null,
@@ -11199,6 +12180,7 @@
 	{
 		"dexNumber": 982,
 		"name": "dudunsparce",
+		"displayName": "Dudunsparce",
 		"forms": [
 			{
 				"name": null,
@@ -11210,6 +12192,7 @@
 	{
 		"dexNumber": 983,
 		"name": "kingambit",
+		"displayName": "Kingambit",
 		"forms": [
 			{
 				"name": null,
@@ -11221,6 +12204,7 @@
 	{
 		"dexNumber": 984,
 		"name": "great-tusk",
+		"displayName": "Great Tusk",
 		"forms": [
 			{
 				"name": null,
@@ -11232,6 +12216,7 @@
 	{
 		"dexNumber": 985,
 		"name": "scream-tail",
+		"displayName": "Scream Tail",
 		"forms": [
 			{
 				"name": null,
@@ -11243,6 +12228,7 @@
 	{
 		"dexNumber": 986,
 		"name": "brute-bonnet",
+		"displayName": "Brute Bonnet",
 		"forms": [
 			{
 				"name": null,
@@ -11254,6 +12240,7 @@
 	{
 		"dexNumber": 987,
 		"name": "flutter-mane",
+		"displayName": "Flutter Mane",
 		"forms": [
 			{
 				"name": null,
@@ -11265,6 +12252,7 @@
 	{
 		"dexNumber": 988,
 		"name": "slither-wing",
+		"displayName": "Slither Wing",
 		"forms": [
 			{
 				"name": null,
@@ -11276,6 +12264,7 @@
 	{
 		"dexNumber": 989,
 		"name": "sandy-shocks",
+		"displayName": "Sandy Shocks",
 		"forms": [
 			{
 				"name": null,
@@ -11287,6 +12276,7 @@
 	{
 		"dexNumber": 990,
 		"name": "iron-treads",
+		"displayName": "Iron Treads",
 		"forms": [
 			{
 				"name": null,
@@ -11298,6 +12288,7 @@
 	{
 		"dexNumber": 991,
 		"name": "iron-bundle",
+		"displayName": "Iron Bundle",
 		"forms": [
 			{
 				"name": null,
@@ -11309,6 +12300,7 @@
 	{
 		"dexNumber": 992,
 		"name": "iron-hands",
+		"displayName": "Iron Hands",
 		"forms": [
 			{
 				"name": null,
@@ -11320,6 +12312,7 @@
 	{
 		"dexNumber": 993,
 		"name": "iron-jugulis",
+		"displayName": "Iron Jugulis",
 		"forms": [
 			{
 				"name": null,
@@ -11331,6 +12324,7 @@
 	{
 		"dexNumber": 994,
 		"name": "iron-moth",
+		"displayName": "Iron Moth",
 		"forms": [
 			{
 				"name": null,
@@ -11342,6 +12336,7 @@
 	{
 		"dexNumber": 995,
 		"name": "iron-thorns",
+		"displayName": "Iron Thorns",
 		"forms": [
 			{
 				"name": null,
@@ -11353,6 +12348,7 @@
 	{
 		"dexNumber": 996,
 		"name": "frigibax",
+		"displayName": "Frigibax",
 		"forms": [
 			{
 				"name": null,
@@ -11364,6 +12360,7 @@
 	{
 		"dexNumber": 997,
 		"name": "arctibax",
+		"displayName": "Arctibax",
 		"forms": [
 			{
 				"name": null,
@@ -11375,6 +12372,7 @@
 	{
 		"dexNumber": 998,
 		"name": "baxcalibur",
+		"displayName": "Baxcalibur",
 		"forms": [
 			{
 				"name": null,
@@ -11386,6 +12384,7 @@
 	{
 		"dexNumber": 999,
 		"name": "gimmighoul",
+		"displayName": "Gimmighoul",
 		"forms": [
 			{
 				"name": null,
@@ -11397,6 +12396,7 @@
 	{
 		"dexNumber": 1000,
 		"name": "gholdengo",
+		"displayName": "Gholdengo",
 		"forms": [
 			{
 				"name": null,
@@ -11408,6 +12408,7 @@
 	{
 		"dexNumber": 1001,
 		"name": "wo-chien",
+		"displayName": "Wo-Chien",
 		"forms": [
 			{
 				"name": null,
@@ -11419,6 +12420,7 @@
 	{
 		"dexNumber": 1002,
 		"name": "chien-pao",
+		"displayName": "Chien-Pao",
 		"forms": [
 			{
 				"name": null,
@@ -11430,6 +12432,7 @@
 	{
 		"dexNumber": 1003,
 		"name": "ting-lu",
+		"displayName": "Ting-Lu",
 		"forms": [
 			{
 				"name": null,
@@ -11441,6 +12444,7 @@
 	{
 		"dexNumber": 1004,
 		"name": "chi-yu",
+		"displayName": "Chi-Yu",
 		"forms": [
 			{
 				"name": null,
@@ -11452,6 +12456,7 @@
 	{
 		"dexNumber": 1005,
 		"name": "roaring-moon",
+		"displayName": "Roaring Moon",
 		"forms": [
 			{
 				"name": null,
@@ -11463,6 +12468,7 @@
 	{
 		"dexNumber": 1006,
 		"name": "iron-valiant",
+		"displayName": "Iron Valiant",
 		"forms": [
 			{
 				"name": null,
@@ -11474,6 +12480,7 @@
 	{
 		"dexNumber": 1007,
 		"name": "koraidon",
+		"displayName": "Koraidon",
 		"forms": [
 			{
 				"name": null,
@@ -11485,6 +12492,7 @@
 	{
 		"dexNumber": 1008,
 		"name": "miraidon",
+		"displayName": "Miraidon",
 		"forms": [
 			{
 				"name": null,
@@ -11496,6 +12504,7 @@
 	{
 		"dexNumber": 1009,
 		"name": "walking-wake",
+		"displayName": "Walking Wake",
 		"forms": [
 			{
 				"name": null,
@@ -11507,6 +12516,7 @@
 	{
 		"dexNumber": 1010,
 		"name": "iron-leaves",
+		"displayName": "Iron Leaves",
 		"forms": [
 			{
 				"name": null,

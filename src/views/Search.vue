@@ -49,8 +49,8 @@ export default Vue.extend({
 	computed: {
 		searchResults(): PokemonSpecies[] {
 			return this.pokemonList.filter(
-				(pokemon: PokemonSpecies) => (
-					pokemon.name
+				(pokemon) => (
+					pokemon.displayName
 						.toLowerCase()
 						.includes(this.searchText.toLowerCase())
 				),

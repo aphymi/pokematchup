@@ -1,7 +1,5 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 /* eslint-disable import/no-extraneous-dependencies */
-import fs from "fs";
-
 import { ArgumentParser } from "argparse";
 import axios from "axios";
 
@@ -79,9 +77,16 @@ async function getSpeciesInfo(speciesNum) {
 		});
 	}
 
+	const nameObjects = speciesInfo.names;
+	const englishNameObject = nameObjects.filter(
+		(nameObject) => nameObject.language.name == "en",
+	)[0];
+	const displayName = englishNameObject.name;
+
 	return {
 		dexNumber: Number(speciesNum),
 		name: speciesInfo.name,
+		displayName,
 		forms: formattedForms,
 	};
 }

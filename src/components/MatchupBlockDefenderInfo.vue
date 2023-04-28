@@ -9,7 +9,7 @@
 		</span>
 
 		<span class="name">
-			{{ titleCase(species.name) }}
+			{{ species.displayName }}
 		</span>
 
 		<span
@@ -73,16 +73,7 @@ export default Vue.extend({
 	},
 
 	methods: {
-		titleCase(str) {
-			// I can think of exactly one case where the following regex
-			// method will give an undesired result; "Kommo-o".
-			// As such, we"ll mark it as a special exception for now. We can
-			// re-evaluate this approach in the future if there are
-			// exceptions I"m missing, or if new ones are added.
-			if (str == "kommo-o") {
-				return "Kommo-o";
-			}
-
+		titleCase(str: string) {
 			return str.replace(
 				/\b[a-z]/g,
 				(match) => match.toUpperCase(),
