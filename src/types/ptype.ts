@@ -122,7 +122,7 @@ const matchupMapping: {[key: string]: {[key: string]: number}} = {
 		[T.FIRE]: 0.5,
 		[T.GRASS]: 2,
 		[T.PSYCHIC]: 2,
-		[T.DARK]: 0.5,
+		[T.DARK]: 2,
 		[T.FAIRY]: 0.5,
 	},
 
