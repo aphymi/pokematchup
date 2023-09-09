@@ -9,8 +9,8 @@
 			-->
 			{{/* eslint-disable vue/singleline-html-element-content-newline */}}
 			<router-link to="/">Search</router-link> |
-			<router-link to="/chart">Type Chart</router-link><!-- |
-			<router-link to="/">Interactive Matchups</router-link> -->
+			<router-link to="/chart">Type Chart</router-link> |
+			<router-link to="/custom">Custom Matchups</router-link>
 			{{/* eslint-disable vue/singleline-html-element-content-newline */}}
 		</nav>
 		<div id="router-view">
@@ -25,6 +25,14 @@
 		--foreground-color: #fdcf2f;
 		--foreground-accent: #fffa;
 		--text-color: white;
+
+		@media (max-width: 450px) {
+			font-size: 14px;
+		}
+
+		@media (max-width: 400px) {
+			font-size: 12px;
+		}
 	}
 
 	body {

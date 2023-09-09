@@ -1,32 +1,15 @@
 <template>
-	<div class="matchup-container">
-		<defender-info
-			class="defender-info"
-			:species="species"
-			:form="form"
-		/>
-		<div
-			v-for="{effectiveness, types} in matchupSpread"
-			:key="effectiveness"
-			class="matchup-result"
-			:style="{
-				'grid-area': `x${effectiveness}`.replace(
-					'.',
-					'dot',
-				)
-			}"
-		>
-			<span class="matchup-effectiveness">x{{ effectiveness }}</span>
-
-			<div class="type-stack">
-				<type-block
-					v-for="type in types"
-					:key="type"
-					:type="type"
-				/>
-			</div>
-		</div>
-	</div>
+	<BaseMatchupBlock
+		:primary-type="form.primaryType"
+		:secondary-type="form.secondaryType"
+	>
+		<template #defender-info>
+			<defender-info
+				:species="species"
+				:form="form"
+			/>
+		</template>
+	</BaseMatchupBlock>
 </template>
 
 <script lang="ts">
@@ -37,6 +20,7 @@ import { PokemonSpecies, PokemonForm } from "@/types/pokemon";
 
 import TypeBlock from "@/components/MatchupTypeBlock.vue";
 import DefenderInfo from "@/components/MatchupBlockDefenderInfo.vue";
+import BaseMatchupBlock from "@/components/BaseMatchupBlock.vue";
 
 
 /**
@@ -51,8 +35,8 @@ interface MatchupResult {
 
 export default Vue.extend({
 	components: {
-		TypeBlock,
 		DefenderInfo,
+		BaseMatchupBlock,
 	},
 
 	props: {
@@ -131,75 +115,4 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
-	.matchup-container {
-		--matchup-border: 3px solid var(--foreground-color);
-		border: var(--matchup-border);
-		border-radius: 1.5em;
-
-		display: grid;
-		// Periods are apparently disallowed in grid area names, so they"re
-		//   replaced with "dot" here.
-		grid-template-areas:
-			"info x0"
-			"info x0dot25"
-			"info x0dot5"
-			"info x1"
-			"info x2"
-			"info x4"
-		;
-
-		grid-template-rows: repeat(6, auto);
-		grid-template-columns: auto 1fr;
-
-		> div {
-			padding: 1em;
-		}
-	}
-
-	.defender-info {
-		grid-area: info;
-		border-right: var(--matchup-border);
-	}
-
-	.defender-types > .type-block {
-		display: block;
-
-		&:first-child:not(:last-child) {
-			border-bottom-left-radius: 0;
-			border-bottom-right-radius: 0;
-		}
-		&:last-child:not(:first-child) {
-			border-top-left-radius: 0;
-			border-top-right-radius: 0;
-		}
-	}
-
-	.matchup-result {
-		display: grid;
-		grid-template-areas:
-			"effectivness type-stack";
-		grid-template-columns: auto 1fr;
-		justify-items: flex-start;
-
-		&:not(:last-child) {
-			border-bottom: var(--matchup-border);
-		}
-	}
-
-	.type-stack {
-		display: flex;
-		flex-flow: row wrap;
-		align-items: center;
-		align-content: center;
-		justify-content: flex-start;
-		gap: 0.3rem;
-	}
-
-	.matchup-effectiveness {
-		display: block;
-		font-weight: bold;
-		font-size: 2rem;
-		width: 5ch;
-		text-align: left;
-	}
 </style>
