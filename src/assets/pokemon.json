@@ -12524,5 +12524,200 @@
 				"secondaryType": "PSYCHIC"
 			}
 		]
+	},
+	{
+		"dexNumber": 1011,
+		"name": "dipplin",
+		"displayName": "Dipplin",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "DRAGON"
+			}
+		]
+	},
+	{
+		"dexNumber": 1012,
+		"name": "poltchageist",
+		"displayName": "Poltchageist",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "GHOST"
+			}
+		]
+	},
+	{
+		"dexNumber": 1013,
+		"name": "sinistcha",
+		"displayName": "Sinistcha",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "GHOST"
+			}
+		]
+	},
+	{
+		"dexNumber": 1014,
+		"name": "okidogi",
+		"displayName": "Okidogi",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "POISON",
+				"secondaryType": "FIGHTING"
+			}
+		]
+	},
+	{
+		"dexNumber": 1015,
+		"name": "munkidori",
+		"displayName": "Munkidori",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "POISON",
+				"secondaryType": "PSYCHIC"
+			}
+		]
+	},
+	{
+		"dexNumber": 1016,
+		"name": "fezandipiti",
+		"displayName": "Fezandipiti",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "POISON",
+				"secondaryType": "FAIRY"
+			}
+		]
+	},
+	{
+		"dexNumber": 1017,
+		"name": "ogerpon",
+		"displayName": "Ogerpon",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": null
+			},
+			{
+				"name": "wellspring-mask",
+				"primaryType": "GRASS",
+				"secondaryType": "WATER"
+			},
+			{
+				"name": "hearthflame-mask",
+				"primaryType": "GRASS",
+				"secondaryType": "FIRE"
+			},
+			{
+				"name": "cornerstone-mask",
+				"primaryType": "GRASS",
+				"secondaryType": "ROCK"
+			}
+		]
+	},
+	{
+		"dexNumber": 1018,
+		"name": "archaludon",
+		"displayName": "Archaludon",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "STEEL",
+				"secondaryType": "DRAGON"
+			}
+		]
+	},
+	{
+		"dexNumber": 1019,
+		"name": "hydrapple",
+		"displayName": "Hydrapple",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "GRASS",
+				"secondaryType": "DRAGON"
+			}
+		]
+	},
+	{
+		"dexNumber": 1020,
+		"name": "gouging-fire",
+		"displayName": "Gouging Fire",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "FIRE",
+				"secondaryType": "DRAGON"
+			}
+		]
+	},
+	{
+		"dexNumber": 1021,
+		"name": "raging-bolt",
+		"displayName": "Raging Bolt",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ELECTRIC",
+				"secondaryType": "DRAGON"
+			}
+		]
+	},
+	{
+		"dexNumber": 1022,
+		"name": "iron-boulder",
+		"displayName": "Iron Boulder",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "ROCK",
+				"secondaryType": "PSYCHIC"
+			}
+		]
+	},
+	{
+		"dexNumber": 1023,
+		"name": "iron-crown",
+		"displayName": "Iron Crown",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "STEEL",
+				"secondaryType": "PSYCHIC"
+			}
+		]
+	},
+	{
+		"dexNumber": 1024,
+		"name": "terapagos",
+		"displayName": "Terapagos",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "NORMAL",
+				"secondaryType": null
+			}
+		]
+	},
+	{
+		"dexNumber": 1025,
+		"name": "pecharunt",
+		"displayName": "Pecharunt",
+		"forms": [
+			{
+				"name": null,
+				"primaryType": "POISON",
+				"secondaryType": "GHOST"
+			}
+		]
 	}
 ]
