@@ -5,14 +5,14 @@
 		</div>
 
 		<div
-			v-for="{effectiveness, types} in matchupSpread"
+			v-for="{ effectiveness, types } in matchupSpread"
 			:key="effectiveness"
 			class="matchup-result"
 			:style="{
 				'grid-area': `x${effectiveness}`.replace(
 					'.',
 					'dot',
-				)
+				),
 			}"
 		>
 			<span class="matchup-effectiveness">x{{ effectiveness }}</span>
@@ -31,9 +31,8 @@
 <script lang="ts">
 import Vue from "vue";
 
-import { PType, ptypeList, getTypeMatchup } from "@/types/ptype";
-
 import TypeBlock from "@/components/MatchupTypeBlock.vue";
+import { PType, ptypeList, getTypeMatchup } from "@/types/ptype";
 
 
 /**

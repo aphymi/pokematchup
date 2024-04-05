@@ -67,7 +67,7 @@
 								highlighted: (
 									attackerType == highlightedAttacker
 									|| defenderType == highlightedDefender
-								)
+								),
 							}"
 						/>
 					</td>
@@ -80,10 +80,10 @@
 <script lang="ts">
 import Vue from "vue";
 
-import { PType, getTypeMatchup, ptypeList } from "@/types/ptype";
 import MatchupTypeBlock from "@/components/MatchupTypeBlock.vue";
-import toTitleCase from "@/utils/titleCase";
 import MatchupChartResult from "@/components/MatchupChartResult.vue";
+import { PType, getTypeMatchup, ptypeList } from "@/types/ptype";
+import toTitleCase from "@/utils/titleCase";
 
 
 const highlightEnabled = false;

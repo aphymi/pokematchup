@@ -1,7 +1,10 @@
 <template>
 	<div class="defender-info">
 		<div class="image-container">
-			<img :src="spriteImageURL"/>
+			<img
+				:src="spriteImageURL"
+				:alt="`${species.displayName} sprite`"
+			/>
 		</div>
 
 		<span class="dex-number">

@@ -18,7 +18,6 @@ import Vue from "vue";
 import { PType, ptypeList, getTypeMatchup } from "@/types/ptype";
 import { PokemonSpecies, PokemonForm } from "@/types/pokemon";
 
-import TypeBlock from "@/components/MatchupTypeBlock.vue";
 import DefenderInfo from "@/components/MatchupBlockDefenderInfo.vue";
 import BaseMatchupBlock from "@/components/BaseMatchupBlock.vue";
 

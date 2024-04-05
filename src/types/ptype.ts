@@ -1,6 +1,9 @@
 /**
  * An enum of pokemon types.
  */
+// eslint thinks PType is shadowing itself, somehow, so this rule needs to be
+// disabled here.
+// eslint-disable-next-line no-shadow
 export enum PType {
 	NORMAL = "NORMAL",
 	FIGHTING = "FIGHTING",
