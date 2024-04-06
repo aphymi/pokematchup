@@ -88,6 +88,8 @@ export default Vue.extend({
 
 <style lang="scss" scoped>
 	.defender-info {
+		width: 96px;
+		
 		display: flex;
 		flex-flow: column nowrap;
 		align-items: center;
