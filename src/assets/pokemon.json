@@ -12603,22 +12603,22 @@
 		"displayName": "Ogerpon",
 		"forms": [
 			{
-				"name": null,
+				"name": "teal mask",
 				"primaryType": "GRASS",
 				"secondaryType": null
 			},
 			{
-				"name": "wellspring-mask",
+				"name": "wellspring mask",
 				"primaryType": "GRASS",
 				"secondaryType": "WATER"
 			},
 			{
-				"name": "hearthflame-mask",
+				"name": "hearthflame mask",
 				"primaryType": "GRASS",
 				"secondaryType": "FIRE"
 			},
 			{
-				"name": "cornerstone-mask",
+				"name": "cornerstone mask",
 				"primaryType": "GRASS",
 				"secondaryType": "ROCK"
 			}
