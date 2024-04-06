@@ -14,7 +14,7 @@
 			<template v-for="pokemonSpecies in searchResults.slice(0, 20)">
 				<pokemon-matchup
 					v-for="pokemonForm in pokemonSpecies.forms"
-					:key="pokemonSpecies.name + ',' + pokemonForm.name"
+					:key="`${pokemonSpecies.name},${pokemonForm.name}`"
 					:species="pokemonSpecies"
 					:form="pokemonForm"
 				/>

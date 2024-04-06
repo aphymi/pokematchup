@@ -9,3 +9,6 @@ npm-debug.log*
 
 # Editor directories and files
 .vscode
+
+# Pokemon list backups
+/src/assets/pokemon.json.*

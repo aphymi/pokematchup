@@ -32,6 +32,7 @@ function mergePokemon(oldPokemon, newPokemon) {
 	for (const newForm of newPokemon.forms) {
 		const alreadyKnown = formsAsMap.has(newForm.name ?? "");
 		if (alreadyKnown) {
+			formsAsMap.set(newForm.name ?? "", newForm);
 			continue;
 		}
 
@@ -49,8 +50,7 @@ function mergePokemon(oldPokemon, newPokemon) {
 	}
 
 	return {
-		dexNumber: oldPokemon.dexNumber,
-		name: oldPokemon.name,
+		...oldPokemon,
 		forms: [...formsAsMap.values()],
 	};
 }
@@ -70,6 +70,7 @@ export async function mergeIntoList(newData) {
 			listAsMap.set(newPokemon.dexNumber, newPokemon);
 		} else {
 			const oldPokemon = listAsMap.get(newPokemon.dexNumber);
+
 			listAsMap.set(
 				oldPokemon.dexNumber,
 				mergePokemon(oldPokemon, newPokemon),

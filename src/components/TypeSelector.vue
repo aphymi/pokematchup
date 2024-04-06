@@ -17,7 +17,7 @@
 			v-if="allowNone"
 			:class="{
 				'type-button': true,
-				'selected': value == null,
+				selected: value == null,
 				'none-button': true,
 			}"
 			@click="$emit('input', null)"
