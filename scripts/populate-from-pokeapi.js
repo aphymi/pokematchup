@@ -28,11 +28,13 @@ async function getSpeciesInfo(speciesNum) {
 			firstLoop = false;
 		} else {
 			// eslint-disable-next-line no-await-in-loop
-			await new Promise((resolve) => setTimeout(resolve, 500));
+			await new Promise((resolve) => {
+				setTimeout(resolve, 500);
+			});
 		}
 
-		// eslint-disable-next-line no-await-in-loop
 		const { data: speciesFormInfo } = (
+			// eslint-disable-next-line no-await-in-loop
 			await axios.get(speciesForm.pokemon.url)
 		);
 
@@ -95,6 +97,7 @@ async function updateListFromDexNumbers(dexNumbers) {
 	const newData = [];
 
 	for (const dexNumber of dexNumbers) {
+		// eslint-disable-next-line no-await-in-loop
 		newData.push(await getSpeciesInfo(dexNumber));
 	}
 
