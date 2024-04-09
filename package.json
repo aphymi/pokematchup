@@ -7,7 +7,6 @@
 		"serve": "vue-cli-service serve",
 		"build": "vue-cli-service build",
 		"lint": "vue-cli-service lint --no-fix",
-		"deploy": "npm run build && gh-pages -d dist --message 'update from main branch'",
 		"pokeapi": "node scripts/populate-from-pokeapi.js"
 	},
 	"dependencies": {
@@ -30,7 +29,6 @@
 		"eslint": "^8.56.0",
 		"eslint-plugin-import": "^2.29.1",
 		"eslint-plugin-vue": "^9.24.0",
-		"gh-pages": "^2.2.0",
 		"http-status-codes": "^1.4.0",
 		"jsdom": "^20.0.3",
 		"readline-promise": "^1.0.4",
