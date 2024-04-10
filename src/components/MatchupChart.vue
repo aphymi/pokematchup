@@ -8,7 +8,15 @@
 		>
 			<thead>
 				<tr>
-					<th class="corner-header"/>
+					<th class="corner-header">
+						<div>
+							<div class="background-triangle"/>
+
+							<span class="attacker">Attacker</span>
+
+							<span class="defender">Defender</span>
+						</div>
+					</th>
 
 					<th
 						v-for="defenderType in types"
@@ -164,8 +172,45 @@ export default Vue.extend({
 	$type-width: 7.5ch;
 	$type-height: 1.1em;
 
-	.corner-header {
-		border: none !important;
+	.corner-header > div {
+		--attacker-color: #bf004f;
+		--defender-color: #00a1e9;
+
+		display: grid;
+
+		grid-template:
+			"defender" 1fr
+			"attacker" auto
+			/ 1fr
+		;
+		height: 100%;
+		background-color: var(--defender-color);
+		color: #fff;
+
+		> .background-triangle {
+			grid-row: 1 / -1;
+			grid-column: 1 / -1;
+
+			background-color: var(--attacker-color);
+
+			clip-path: polygon(0 0, 0 100%, 100% 100%);
+		}
+
+		> .attacker {
+			grid-area: attacker;
+			justify-self: start;
+			align-self: start;
+
+			// `.background-triangle`'s `clip-path` creates a new stacking
+			// context, so `.attacker` needs a no-op attr here to create another
+			// stacking context and keep it on top.
+			transform: rotate(0);
+		}
+
+		> .defender {
+			grid-area: defender;
+			justify-self: end;
+		}
 	}
 
 	.defender-header {
